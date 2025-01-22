@@ -1,0 +1,24 @@
+form#clarendon_store-settings {margin:5px;}
+.wide {width:200px;}
+
+.formlabel 
+{
+	width: 140px;
+	float: left;
+	vertical-align: middle;
+	font-weight: bold;
+	line-height: 30px;
+	clear: left;
+}
+
+.formitem
+{
+	float: left;
+	clear: right;
+}
+
+.formbox
+{
+	width: 350px;
+	float: left;	
+}

@@ -1,0 +1,91 @@
+/**
+ * Deprecated
+ * Fallback for bourbon equivalent
+ */
+@mixin clearfix() {
+  *zoom: 1;
+
+  &::before,
+  &::after {
+    content: ' ';
+    display: table;
+  }
+
+  &::after {
+    clear: both;
+  }
+}
+
+/**
+ * Forms
+ */
+.clear {
+  @include clearfix();
+}
+
+form {
+  #cfw_additional_fields_container, #payment, #wc_checkout_add_ons, #mailchimp_for_woocommerce {
+    .form-row {
+      padding: 0;
+      margin: 0 0 6px;
+      @include clearfix();
+
+      label {
+        display: block;
+
+        &.checkbox {
+          font-size: 0.875em;
+          display: inline;
+        }
+      }
+
+      select {
+        width: 100%;
+        background-color: #fff;
+      }
+
+      .input-text {
+        box-sizing: border-box;
+        width: 100%;
+      }
+    }
+
+    .form-row-first,
+    .form-row-last {
+      width: 47%;
+      overflow: visible;
+    }
+
+    .form-row-first {
+      float: left;
+
+      /*rtl:raw:
+      float: right;
+      */
+    }
+
+    .form-row-last {
+      float: right;
+    }
+
+    .form-row-wide {
+      clear: both;
+    }
+  }
+}
+
+#payment {
+  .form-row {
+    select {
+      width: auto;
+    }
+  }
+}
+
+body.checkout-wc .woocommerce-checkout input[type=checkbox] {
+  margin-right: 0.25em;
+}
+
+p.form-row {
+  margin: 0.5em 0;
+}

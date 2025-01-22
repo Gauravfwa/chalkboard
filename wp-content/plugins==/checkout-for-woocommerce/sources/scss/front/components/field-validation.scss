@@ -1,0 +1,16 @@
+.parsley-errors-list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  color: #f04f63;
+  font-weight: 300;
+  font-size: 14px;
+
+  li {
+    margin-top: 10px;
+  }
+}
+
+.parsley-error {
+  box-shadow: 0 0 0 2px #f04f63!important;
+}

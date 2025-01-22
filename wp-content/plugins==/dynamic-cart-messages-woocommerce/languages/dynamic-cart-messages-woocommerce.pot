@@ -1,0 +1,391 @@
+# Copyright (C) 2022 SaffireTech
+# This file is distributed under the same license as the Dynamic Cart Messages for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dynamic Cart Messages for WooCommerce 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/dynamic-cart-messages-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-09-13T19:38:54+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: dynamic-cart-messages-woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "Dynamic Cart Messages for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "Dynamic Cart Messages allows you to boost your sales on your WooCommerce site by showing specific messages to your site visitors or customers based on the products they have added to their cart."
+msgstr ""
+
+#. Author of the plugin
+msgid "SaffireTech"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.saffiretech.com/"
+msgstr ""
+
+#. translators: %s: search term
+#: dynamic-cart-messages-woocommerce.php:53
+msgid "Sorry, but this plugin requires the Woocommerce Plugin to be installed and active. <br><a href=\"%s\">&laquo; Return to Plugins</a>"
+msgstr ""
+
+#: includes/dcmp-settings.php:8
+msgctxt "Post type general name"
+msgid "Cart Messages"
+msgstr ""
+
+#: includes/dcmp-settings.php:9
+msgctxt "Post type singular name"
+msgid "Cart Messages"
+msgstr ""
+
+#: includes/dcmp-settings.php:10
+msgctxt "Admin Menu text"
+msgid "Cart Messages"
+msgstr ""
+
+#: includes/dcmp-settings.php:11
+msgctxt "Add New on Toolbar"
+msgid "Cart Messages"
+msgstr ""
+
+#: includes/dcmp-settings.php:12
+msgid "Add New"
+msgstr ""
+
+#: includes/dcmp-settings.php:13
+msgid "Add New Cart Messages"
+msgstr ""
+
+#: includes/dcmp-settings.php:14
+msgid "New Cart Messages"
+msgstr ""
+
+#: includes/dcmp-settings.php:15
+msgid "Edit Cart Messages"
+msgstr ""
+
+#: includes/dcmp-settings.php:16
+msgid "View Cart Messages"
+msgstr ""
+
+#: includes/dcmp-settings.php:17
+msgid "All Cart Messages"
+msgstr ""
+
+#: includes/dcmp-settings.php:18
+msgid "Search Cart Messages"
+msgstr ""
+
+#: includes/dcmp-settings.php:19
+msgid "Parent Cart Messages:"
+msgstr ""
+
+#: includes/dcmp-settings.php:20
+msgid "No Cart Messages found."
+msgstr ""
+
+#: includes/dcmp-settings.php:21
+msgid "No Cart Messages found in Trash."
+msgstr ""
+
+#: includes/dcmp-settings.php:22
+msgctxt "The post type archive label used in nav menus. Default “Post Archives”. Added in 4.4"
+msgid "Cart Messages archives"
+msgstr ""
+
+#: includes/dcmp-settings.php:23
+msgctxt "Overrides the “Uploaded to this post”/”Uploaded to this page” phrase (used when viewing media attached to a post). Added in 4.4"
+msgid "Uploaded to this book"
+msgstr ""
+
+#: includes/dcmp-settings.php:24
+msgctxt "Screen reader text for the filter links heading on the post type listing screen. Default “Filter posts list”/”Filter pages list”. Added in 4.4"
+msgid "Filter Cart Messages list"
+msgstr ""
+
+#: includes/dcmp-settings.php:25
+msgctxt "Screen reader text for the pagination heading on the post type listing screen. Default “Posts list navigation”/”Pages list navigation”. Added in 4.4"
+msgid "Cart Messages list navigation"
+msgstr ""
+
+#: includes/dcmp-settings.php:26
+msgctxt "Screen reader text for the items list heading on the post type listing screen. Default “Posts list”/”Pages list”. Added in 4.4"
+msgid "Cart Messages list"
+msgstr ""
+
+#: includes/dcmp-settings.php:62
+msgid "Show Cart Message based on"
+msgstr ""
+
+#: includes/dcmp-settings.php:68
+msgid "Product Category"
+msgstr ""
+
+#: includes/dcmp-settings.php:72
+msgid "Product"
+msgstr ""
+
+#: includes/dcmp-settings.php:78
+msgid "Choose Category"
+msgstr ""
+
+#: includes/dcmp-settings.php:84
+msgid "Choose Product"
+msgstr ""
+
+#: includes/dcmp-settings.php:91
+msgid "Message Criteria"
+msgstr ""
+
+#: includes/dcmp-settings.php:94
+msgid "The type of criteria based on which you want to show the message to customers. Choose 'Simple' to show a plain message; choose 'Amount' - if your offer requires customers to add a certain amount to cart and choose 'Quantity' if your offer requires adding a certain quantity."
+msgstr ""
+
+#: includes/dcmp-settings.php:98
+msgid "Simple"
+msgstr ""
+
+#: includes/dcmp-settings.php:102
+msgid "Amount"
+msgstr ""
+
+#: includes/dcmp-settings.php:106
+msgid "Quantity"
+msgstr ""
+
+#: includes/dcmp-settings.php:112
+msgid "Threshold"
+msgstr ""
+
+#: includes/dcmp-settings.php:113
+msgid "Enter the threshold value for price or quantity"
+msgstr ""
+
+#: includes/dcmp-settings.php:116
+msgid "The quantity / price amount you want the customer to add in their cart to avail the discount (or free shipping) you are offering them.Initial Message before Message Criteria is satisfied ."
+msgstr ""
+
+#: includes/dcmp-settings.php:120
+msgid "Initial Message on Criteria Match"
+msgstr ""
+
+#: includes/dcmp-settings.php:121
+msgid "Use placeholder {cs} to show default currency symbol and {price} to show price.<br>For E.g Buy for {cs}{price} more to avail Free delivery in your cart! will show up as \"Buy for $10 more to avail Free delivery in your cart!\""
+msgstr ""
+
+#: includes/dcmp-settings.php:128
+msgid "The initial messsage that  your potential buyers will see initially when they add the product / product category you selected  above."
+msgstr ""
+
+#: includes/dcmp-settings.php:131
+msgid "Message icon"
+msgstr ""
+
+#: includes/dcmp-settings.php:134
+msgid "You can opt to show a icon before your message to make it more appealing like "
+msgstr ""
+
+#: includes/dcmp-settings.php:134
+msgid "this"
+msgstr ""
+
+#: includes/dcmp-settings.php:137
+msgid "Select icon"
+msgstr ""
+
+#: includes/dcmp-settings.php:141
+msgid "Shopping Cart"
+msgstr ""
+
+#: includes/dcmp-settings.php:145
+msgid "Gift"
+msgstr ""
+
+#: includes/dcmp-settings.php:149
+msgid "Percentage"
+msgstr ""
+
+#: includes/dcmp-settings.php:153
+msgid "Cash"
+msgstr ""
+
+#: includes/dcmp-settings.php:157
+msgid "Truck"
+msgstr ""
+
+#: includes/dcmp-settings.php:161
+msgid "Coupon"
+msgstr ""
+
+#: includes/dcmp-settings.php:165
+msgid "Discount"
+msgstr ""
+
+#: includes/dcmp-settings.php:169
+msgid "Check Square"
+msgstr ""
+
+#: includes/dcmp-settings.php:173
+msgid "Calender"
+msgstr ""
+
+#: includes/dcmp-settings.php:179
+msgid "Threshold Message"
+msgstr ""
+
+#: includes/dcmp-settings.php:180
+msgid "Enter the message to display when the threshold condition are satisfied"
+msgstr ""
+
+#: includes/dcmp-settings.php:182
+msgid "The message to be displayed when the Message Criteria is satisfied. For example - \"Congratulations. 20% discount applied to your cart!\""
+msgstr ""
+
+#: includes/dcmp-settings.php:186
+msgid "Show Call to Action"
+msgstr ""
+
+#: includes/dcmp-settings.php:188
+msgid "Check this if you want to show a button in the message where customer can click and see other offers, terms and confitions or Shop page to buy more products."
+msgstr ""
+
+#: includes/dcmp-settings.php:192
+msgid "Button Label"
+msgstr ""
+
+#: includes/dcmp-settings.php:195
+msgid "The text  that the customer will see on the button. For Example \"Buy More\", \"Terms and Conditions\" or \"Shop Now\""
+msgstr ""
+
+#: includes/dcmp-settings.php:196
+msgid "Check this box to show custom buttom after message"
+msgstr ""
+
+#: includes/dcmp-settings.php:200
+msgid "Button URL"
+msgstr ""
+
+#: includes/dcmp-settings.php:201
+msgid "The URL the customer will be redirected to."
+msgstr ""
+
+#: includes/dcmp-settings.php:203
+msgid "URL for buttom. e.g: https://example.com"
+msgstr ""
+
+#: includes/dcmp-settings.php:208
+msgid "Open in new tab"
+msgstr ""
+
+#: includes/dcmp-settings.php:209
+msgid "Opens the Button URL in a new window or tab"
+msgstr ""
+
+#: includes/dcmp-settings.php:214
+msgid "Show in Checkout Page"
+msgstr ""
+
+#: includes/dcmp-settings.php:216
+msgid "Check this if you want your customers to see this message in checkout page as well."
+msgstr ""
+
+#: includes/dcmp-settings.php:220
+msgid "Show in Product Page "
+msgstr ""
+
+#: includes/dcmp-settings.php:222
+msgid "Check this if you want your customers to see this message on product page as well."
+msgstr ""
+
+#: includes/dcmp-settings.php:226
+msgid "Initial Message for Product page"
+msgstr ""
+
+#: includes/dcmp-settings.php:227
+msgid "The message that your customers will see on the product page even before they have added that product to cart"
+msgstr ""
+
+#: includes/dcmp-settings.php:233
+msgid "Expiration Date"
+msgstr ""
+
+#: includes/dcmp-settings.php:235
+msgid "Choose a date if you want the messages to stop showing up on cart page (and other pages) after a particular date."
+msgstr ""
+
+#: includes/dcmp-settings.php:248
+msgid "Cart Message"
+msgstr ""
+
+#: includes/dcmp-settings.php:431
+msgid "Free Shipping Settings"
+msgstr ""
+
+#: includes/dcmp-settings.php:432
+#: includes/dcmp-settings.php:575
+msgid "Settings"
+msgstr ""
+
+#: includes/dcmp-settings.php:447
+msgid "Dynamic Cart Messages Settings"
+msgstr ""
+
+#. translators: 1:Raduis Unit in px 2:Raduis Unit in em
+#. translators: 1:Radius Unit in px 2:Radius Unit in em
+#: includes/dcmp-settings.php:508
+#: includes/dcmp-settings.php:523
+msgid "Values must be in \"px\" or \"em\" e.g %1$s or %2$s"
+msgstr ""
+
+#: includes/dcmp-settings.php:537
+msgid "Check this if you want to show the currency symbol provided by WooCommerce."
+msgstr ""
+
+#: includes/dcmp-settings.php:547
+#: includes/dcmp-settings.php:550
+msgid "Background Color"
+msgstr ""
+
+#: includes/dcmp-settings.php:548
+#: includes/dcmp-settings.php:551
+msgid "Text Color"
+msgstr ""
+
+#: includes/dcmp-settings.php:549
+msgid "Radius"
+msgstr ""
+
+#: includes/dcmp-settings.php:552
+msgid "Border Radius"
+msgstr ""
+
+#: includes/dcmp-settings.php:553
+msgid "Enable Currency Symbol"
+msgstr ""
+
+#: assets/js/dcmp-dynamic-cart-message.js:71
+msgid "Enter a Simple Text"
+msgstr ""
+
+#: assets/js/dcmp-dynamic-cart-message.js:79
+msgid "Enter the threshold value for price"
+msgstr ""
+
+#: assets/js/dcmp-dynamic-cart-message.js:80
+msgid "Use placeholder <strong> {cs} </strong> to show default currency symbol and <strong> {price} </strong> to show price.<br>For E.g Buy for <strong>{cs}{price}</strong> more to avail Free delivery in your cart! will show up as \"Buy for <strong>$10</strong> more to avail Free delivery in your cart!\""
+msgstr ""
+
+#: assets/js/dcmp-dynamic-cart-message.js:87
+msgid "Enter the threshold value for quantity"
+msgstr ""
+
+#: assets/js/dcmp-dynamic-cart-message.js:88
+msgid "Use placeholder <strong> {cs} </strong> to show default currency symbol and <strong> {qty} </strong> to show quantity.<br>For E.g Buy <strong> {qty} </strong> pcs more to avail discount of <strong> {cs} </strong> 20 in your cart! will show up as \"Buy <strong>5</strong> pcs more to avail discount of <strong>$</strong>20 in your cart!\""
+msgstr ""

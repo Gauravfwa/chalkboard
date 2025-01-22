@@ -1,0 +1,40 @@
+.dcmp-threshold-reached {
+  background-color: #bff9d0 !important;
+  color: #299c77 !important;
+}
+.dcmp-cart-notices-wrapper .dcmp-message-box {
+  align-items: center;
+  margin: 10px 0;
+  padding: 0 10px;
+  min-height: 52px;
+  display: flex;
+  font-weight: 500;
+}
+.dcmp-cart-notices-wrapper .fa {
+  font-weight: 500;
+  min-width: 64px;
+  padding: 12px 15px 12px 12px;
+}
+
+button.dcmwp-button {
+  margin-left: 10px;
+  min-width: max-content;
+  padding: 10px;
+  font-weight: 500;
+}
+
+button.dcmwp-button:hover {
+  text-decoration: underline;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .dcmp-cart-notices-wrapper .fa {
+    font-weight: 500;
+    min-width: 40px;
+    padding: 5px;
+  }
+  .dcmp-message-box-content {
+    line-height: inherit;
+  }
+}

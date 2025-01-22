@@ -1,0 +1,752 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Checkout for WooCommerce\n"
+"POT-Creation-Date: 2019-03-01 15:32-0500\n"
+"PO-Revision-Date: 2019-03-01 15:41-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: checkout-for-woocommerce.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;"
+"__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: functions.php:8
+msgid "First Name"
+msgstr "प्रथम नाम"
+
+#: functions.php:13
+msgid "Last Name"
+msgstr "कुल नाम"
+
+#: functions.php:589 functions.php:596
+msgid "Not Calculated"
+msgstr "परिकलित नहीं"
+
+#: functions.php:594
+msgid "Not Available"
+msgstr "उपलब्ध नहीं"
+
+#: functions.php:607
+msgid "Complete Order"
+msgstr "पूरा क्रम"
+
+#: functions.php:635 templates/copify/content.php:53 templates/default/content.php:46
+#: templates/futurist/content.php:51
+msgid "Payment method"
+msgstr "भुगतान का तरीका"
+
+#: functions.php:642
+msgid ""
+"All transactions are secure and encrypted. Credit card information is never stored on our servers."
+msgstr "सभी लेनदेन सुरक्षित और एन्क्रिप्टेड हैं. क्रेडिट कार्ड की जानकारी हमारे सर्वर पर संग्रहीत नहीं है."
+
+#: functions.php:653
+msgid "Your order is free. No payment is required."
+msgstr "आपका आदेश मुफ़्त है कोई भुगतान की आवश्यकता नहीं है"
+
+#: functions.php:699
+msgid "Same as shipping address"
+msgstr "शिपिंग पते के रूप में ही"
+
+#: functions.php:707
+msgid "Use a different billing address"
+msgstr "किसी भिन्न बिलिंग पते का उपयोग करें"
+
+#: includes/Compatibility/Base.php:135
+msgid "Or"
+msgstr "या"
+
+#: includes/Compatibility/Gateways/PayPalForWooCommerce.php:181
+msgid "Logged in with PayPal. Please continue your order below."
+msgstr "पेपैल के साथ में लॉग इन किया । कृपया नीचे अपना ऑर्डर जारी रखें ।"
+
+#. Plugin Name of the plugin/theme
+#: includes/Core/Admin.php:102 includes/Core/Admin.php:125 includes/Core/Customizer.php:266
+#: includes/Main.php:715
+msgid "Checkout for WooCommerce"
+msgstr "Checkout for WooCommerce"
+
+#: includes/Core/Admin.php:105 includes/Core/Customizer.php:279 includes/Main.php:723
+msgid "General"
+msgstr "सामान्य"
+
+#: includes/Core/Admin.php:106 includes/Core/Customizer.php:336 includes/Core/Customizer.php:353
+#: includes/Main.php:732
+msgid "Template"
+msgstr "टेम्पलेट"
+
+#: includes/Core/Admin.php:107 includes/Core/Customizer.php:367 includes/Core/Customizer.php:404
+#: includes/Main.php:741
+msgid "Design"
+msgstr "डिजाइन"
+
+#: includes/Core/Admin.php:108 includes/Main.php:750
+msgid "License"
+msgstr "लाइसैंस"
+
+#: includes/Core/Admin.php:109 includes/Main.php:759
+msgid "Support"
+msgstr "समर्थन करना"
+
+#: includes/Core/Admin.php:126 includes/Core/Customizer.php:269
+msgid ""
+"Checkout for WooCommerce provides a beautiful, conversion optimized checkout template for "
+"WooCommerce."
+msgstr "WooCommerce के लिए चेकआउट WooCommerce के लिए एक सुंदर, रूपांतरण अनुकूलित चेकआउट टेम्पलेट प्रदान करता है."
+
+#: includes/Core/Admin.php:152 includes/Core/Customizer.php:290
+msgid "Enable / Disable"
+msgstr "अक्षम सक्षम"
+
+#: includes/Core/Admin.php:156
+msgid "Use Checkout for WooCommerce Template"
+msgstr "WooCommerce टेम्पलेट के लिए चेकआउट का उपयोग करें"
+
+#: includes/Core/Admin.php:157
+msgid ""
+"Enable or disable Checkout for WooCommerce theme. (NOTE: Theme is always enabled for admin users.)"
+msgstr ""
+"WooCommerce विषयवस्तु के लिए चेकआउट सक्षम या अक्षम करें. (ध्यान दें: विषय हमेशा व्यवस्थापक उपयोगकर्ताओं के लिए सक्षम "
+"है.)"
+
+#: includes/Core/Admin.php:163 includes/Core/Customizer.php:301
+msgid "Show Phone Fields"
+msgstr "फ़ोन फ़ील्ड्स दिखाएं"
+
+#: includes/Core/Admin.php:167
+msgid "Enable billing and shipping phone fields"
+msgstr "बिलिंग और शिपिंग फ़ोन फ़ील्ड सक्षम करें"
+
+#: includes/Core/Admin.php:168
+msgid "Enable or disable billing and shipping phone fields as required fields. (Default: Disabled)"
+msgstr "आवश्यक फ़ील्ड्स के रूप में बिलिंग और शिपिंग फ़ोन फ़ील्ड्स सक्षम या अक्षम करें । (डिफ़ॉल्ट: अक्षम)"
+
+#: includes/Core/Admin.php:174 includes/Core/Customizer.php:312
+msgid "Header Scripts"
+msgstr "शीर्ष लेख स्क्रिप्ट"
+
+#: includes/Core/Admin.php:180
+msgid ""
+"This code will output immediately before the closing <code>&lt;/head&gt;</code> tag in the document "
+"source."
+msgstr "यह कोड तुरंत बंद <code>&lt;/head&gt;</code> टैग दस्तावेज़ स्रोत में आउटपुट होगा ।"
+
+#: includes/Core/Admin.php:188 includes/Core/Customizer.php:323
+msgid "Footer Scripts"
+msgstr "पाद लेख स्क्रिप्ट"
+
+#: includes/Core/Admin.php:194
+msgid ""
+"This code will output immediately before the closing <code>&lt;/body&gt;</code> tag in the document "
+"source."
+msgstr "यह कोड तुरंत बंद <code>&lt;/body&gt;</code> टैग दस्तावेज़ स्रोत में आउटपुट होगा ।"
+
+#: includes/Core/Admin.php:205
+msgid "Enable Usage Tracking"
+msgstr "उपयोग ट्रैकिंग सक्षम करें"
+
+#: includes/Core/Admin.php:211
+msgid "Allow Checkout for WooCommerce to track plugin usage?"
+msgstr "प्लगइन उपयोग को ट्रैक करने के लिए WooCommerce के लिए चेकआउट की अनुमति दें?"
+
+#: includes/Core/Admin.php:218
+msgid "Stat Collection Data Viewer"
+msgstr "स्टेट कलेक्शन डेटा व्यूअर"
+
+#: includes/Core/Admin.php:252
+msgid "Templates"
+msgstr "टेम्पलेट्स"
+
+#: includes/Core/Admin.php:276
+msgid "Active: "
+msgstr "सक्रिय:"
+
+#: includes/Core/Admin.php:284
+msgid "Activate"
+msgstr "एक्टिवेट "
+
+#: includes/Core/Admin.php:294 includes/Core/Admin.php:468
+msgid ""
+"You are using a legacy child theme which will be disabled in a future version. Changing theme "
+"settings is not possible for legacy themes."
+msgstr ""
+"आप एक पैतृक चाइल्ड विषयवस्तु का उपयोग कर रहे है जो कि भविष्य के संस्करण में अक्षम कर दिया जाएगा । विषयवस्तु सेटिंग्स "
+"परिवर्तित करना लीगेसी विषयवस्तुओं के लिए संभव नहीं है ।"
+
+#: includes/Core/Admin.php:312
+msgid "Global Settings"
+msgstr "वैश्विक सेटिंग्स"
+
+#: includes/Core/Admin.php:313
+msgid "These settings apply to all themes."
+msgstr "ये सेटिंग्स सभी विषयवस्तुओं पर लागू होती हैं ।"
+
+#: includes/Core/Admin.php:318 includes/Core/Customizer.php:379
+msgid "Logo"
+msgstr "लो़गो"
+
+#: includes/Core/Admin.php:324
+msgid "Upload image"
+msgstr "छवि अपलोड करें"
+
+#: includes/Core/Admin.php:327
+msgid "Clear Logo"
+msgstr "स्पष्ट लोगो"
+
+#: includes/Core/Admin.php:333 includes/Core/Customizer.php:391
+msgid "Footer Text"
+msgstr "फूटर टेक्स्ट"
+
+#: includes/Core/Admin.php:339
+msgid ""
+"If left blank, a standard copyright notice will be displayed. Set to a single space to override "
+"this behavior."
+msgstr ""
+"यदि खाली छोड़ा जाता है, तो मानक कॉपीराइट सूचना प्रदर्शित होगी. इस व्यवहार को ओवरराइड करने के लिए किसी एकल "
+"स्थान पर सेट करें."
+
+#: includes/Core/Admin.php:347 includes/Core/Customizer.php:404
+msgid "Theme Specific Settings"
+msgstr "विषयवस्तु विशिष्ट सेटिंग्स"
+
+#: includes/Core/Admin.php:359 includes/Core/Customizer.php:420
+msgid "Header Background Color"
+msgstr "हैडर पृष्ठभूमि का रंग"
+
+#: includes/Core/Admin.php:369 includes/Core/Customizer.php:434
+msgid "Header Text Color"
+msgstr "शीर्ष लेख पाठ रंग"
+
+#: includes/Core/Admin.php:379 includes/Core/Customizer.php:448
+msgid "Footer Background Color"
+msgstr "पाद पृष्ठभूमि का रंग"
+
+#: includes/Core/Admin.php:389 includes/Core/Customizer.php:462
+msgid "Footer Text Color"
+msgstr "पाद लेख पाठ रंग"
+
+#: includes/Core/Admin.php:399 includes/Core/Customizer.php:476
+msgid "Summary Background Color"
+msgstr "सारांश पृष्ठभूमि रंग"
+
+#: includes/Core/Admin.php:409 includes/Core/Customizer.php:490
+msgid "Primary Button Color"
+msgstr "प्राथमिक बटन रंग"
+
+#: includes/Core/Admin.php:418 includes/Core/Customizer.php:504
+msgid "Primary Button Text Color"
+msgstr "प्राथमिक बटन पाठ रंग"
+
+#: includes/Core/Admin.php:427 includes/Core/Customizer.php:518
+msgid "Secondary Button Color"
+msgstr "बटन का द्वितीयक बटन रं"
+
+#: includes/Core/Admin.php:436 includes/Core/Customizer.php:532
+msgid "Secondary Button Text Color"
+msgstr "द्वितीयक बटन पाठ रंग"
+
+#: includes/Core/Admin.php:445 includes/Core/Customizer.php:546
+msgid "Link Color"
+msgstr "लिंक रंग"
+
+#: includes/Core/Admin.php:454 includes/Core/Customizer.php:559
+msgid "Custom CSS"
+msgstr "कस्टम CSS"
+
+#: includes/Core/Admin.php:460
+msgid "Add Custom CSS rules to fully control the appearance of the checkout template."
+msgstr "कस्टम सीएसएस नियम जोड़ें पूरी तरह से checkout टेम्पलेट की उपस्थिति को नियंत्रित करने के लिए."
+
+#: includes/Core/Admin.php:494
+msgid "Need help?"
+msgstr "मदद चाहिए?"
+
+#: includes/Core/Admin.php:496
+msgid "Excellent support is in our DNA."
+msgstr "उत्कृष्ट समर्थन हमारे डीएनए में है"
+
+#: includes/Core/Admin.php:498
+msgid "Contact Support"
+msgstr "समर्थन से संपर्क करें"
+
+#: includes/Core/Admin.php:622
+#, php-format
+msgid ""
+"Checkout for WooCommerce: Your license key appears to have expired. Please verify that your license "
+"key is valid or <a target=\"_blank\" href=\"https://www.checkoutwc.com/checkout/?edd_license_key=%s"
+"\">renew your license now</a> to restore full functionality."
+msgstr ""
+"Checkout for WooCommerce: आपकी लाइसेंस कुंजी समाप्त हो गई है। पूर्ण कार्यक्षमता को पुनर्स्थापित करने के लिए कृपया "
+"सत्यापित करें कि आपकी लाइसेंस कुंजी मान्य है या <a target=\"_blank\" href=\"https://www.checkoutwc.com/"
+"checkout/?edd_license_key=%s\">अपने लाइसेंस को अब नवीनीकृत करें</a>."
+
+#: includes/Core/Admin.php:625
+msgid ""
+"Checkout for WooCommerce: Your license key is missing or invalid. Please verify that your license "
+"key is valid or <a target=\"_blank\" href=\"https://www.checkoutwc.com/\">purchase a license</a> to "
+"restore full functionality."
+msgstr ""
+"Checkout for WooCommerce: आपकी लाइसेंस कुंजी अनुपलब्ध या अमान्य है। पूर्ण कार्यक्षमता को पुनर्स्थापित करने के लिए "
+"कृपया सत्यापित करें कि आपकी लाइसेंस कुंजी मान्य है या <a target=\"_blank\" href=\"https://www.checkoutwc.com/"
+"\"> लाइसेंस खरीद </a> है."
+
+#: includes/Core/Admin.php:630
+msgid ""
+"Thank you for installing Checkout for WooCommerce! To get started, click on <strong>License</"
+"strong> below and activate your license key!"
+msgstr ""
+"WooCommerce के लिए Checkout स्थापित करने के लिए धन्यवाद! आरंभ करने के लिए, नीचे <strong>लाइसेंस</strong> पर "
+"क्लिक करें और अपनी लाइसेंस कुंजी सक्रिय करें!"
+
+#: includes/Core/Admin.php:641
+#, php-format
+msgid ""
+"It looks like you are using a legacy checkout theme, located in %s. Legacy themes are deprecated "
+"and you should upgrade to the new theme structure as soon as possible to prevent problems with "
+"future release. For more information, <a target=\"_blank\" href=\"https://www.checkoutwc.com/docs/"
+"developer-api/template-files/upgrading-legacy-custom-templates/\">read our migration guide.</a>"
+msgstr ""
+"ऐसा लगता है कि आप एक लिगेसी चेकआउट थीम का उपयोग कर रहे हैं, जो %s में स्थित है । लीगेसी विषयवस्तुएं पदावनत की "
+"जाती है और आपको भविष्य के रिलीज़ के साथ समस्याओं को रोकने के लिए जल्द ही नई विषयवस्तु संरचना में अपग्रेड करना चाहिए "
+"। अधिक जानकारी के लिए, < a target = \"_blank\" href = \"https://www.checkoutwc.com/docs/developer-"
+"api/template-files/upgrading-legacy-custom-templates/\" > हमारी माइग्रेशन मार्गदर्शिका पढ़ें. </a>"
+
+#: includes/Core/Admin.php:665
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+#: includes/Core/Admin.php:718 includes/Core/Form.php:240
+msgid "Phone"
+msgstr "फोन"
+
+#: includes/Core/Customizer.php:408
+msgid ""
+"These settings only apply to the currently active template. If you switch templates in the "
+"customizer, these settings will become unavailable but saving will publish any changes here prior "
+"to switching templates!"
+msgstr ""
+"ये सेटिंग्स केवल वर्तमान में सक्रिय टेंपलेट पर लागू होती हैं । यदि आप कस्टमाइज़र में टेम्पलेट्स स्विच करते हैं, तो ये सेटिंग्स "
+"अनुपलब्ध हो जाएंगी लेकिन सहेजने से टेंपलेट्स स्विच करने से पहले यहां कोई भी परिवर्तन प्रकाशित होगा!"
+
+#: includes/Core/Form.php:88 includes/Core/Form.php:89
+msgid "First name"
+msgstr "प्रथम नाम"
+
+#: includes/Core/Form.php:105 includes/Core/Form.php:106
+msgid "Last name"
+msgstr "अंतिम नाम।"
+
+#: includes/Core/Form.php:121
+msgid "Address"
+msgstr "पता"
+
+#: includes/Core/Form.php:122
+msgid "Street address"
+msgstr "सड़क का पता"
+
+#: includes/Core/Form.php:137 includes/Core/Form.php:138 includes/Main.php:595
+msgid "Apt, suite, etc. (optional)"
+msgstr "अपार्टमेंट, सूट, आदि। (वैकल्पिक)"
+
+#: includes/Core/Form.php:150 includes/Core/Form.php:151
+msgid "Company name"
+msgstr "कंपनी का नाम"
+
+#: includes/Core/Form.php:163
+msgid "Country"
+msgstr "देश"
+
+#: includes/Core/Form.php:176 includes/Core/Form.php:177
+msgid "Postcode / ZIP"
+msgstr "डाक कोड"
+
+#: includes/Core/Form.php:197 includes/Core/Form.php:198
+msgid "State / County"
+msgstr "राज्य / काउंटी"
+
+#: includes/Core/Form.php:217 includes/Core/Form.php:219
+msgid "Town / City"
+msgstr "शहर "
+
+#: includes/Main.php:447
+msgid "Activation failed: Please activate WooCommerce in order to use Checkout for WooCommerce"
+msgstr "सक्रियण विफल: WooCommerce के लिए चेकआउट का उपयोग करने के लिए कृपया WooCommerce सक्रिय करें"
+
+#: includes/Stats/StatCollection.php:676
+msgid ""
+"Allow Checkout for WooCommerce to track plugin usage? Help make Checkout for WooCommerce better."
+msgstr ""
+"प्लगइन उपयोग को ट्रैक करने के लिए WooCommerce के लिए चेकआउट की अनुमति दें? WooCommerce के लिए चेकआउट को बेहतर "
+"बनाने में मदद करें।"
+
+#: includes/Stats/StatCollection.php:679
+msgid "Allow"
+msgstr "अनुमति दें"
+
+#: includes/Stats/StatCollection.php:680
+msgid "Do not allow"
+msgstr "अनुमति नहीं है"
+
+#: templates/copify/content.php:45 templates/copify/content.php:69 templates/default/content.php:38
+#: templates/default/content.php:62 templates/futurist/content.php:39
+#: templates/futurist/content.php:74
+msgid "Customer information"
+msgstr "ग्राहक जानकारी"
+
+#: templates/copify/content.php:49 templates/copify/content.php:205 templates/default/content.php:42
+#: templates/default/content.php:198 templates/futurist/content.php:45
+#: templates/futurist/content.php:210
+msgid "Shipping method"
+msgstr "शिपिंग का तरीका"
+
+#: templates/copify/content.php:77 templates/default/content.php:70 templates/futurist/content.php:82
+msgid "Already have an account with us?"
+msgstr "पहले से ही हमारे साथ एक खाता है?"
+
+#: templates/copify/content.php:81 templates/default/content.php:74 templates/futurist/content.php:86
+msgid "Log in for a faster checkout experience."
+msgstr "तेज़ चेकआउट अनुभव के लिए लॉग इन करें ।"
+
+#: templates/copify/content.php:89 templates/copify/content.php:90 templates/default/content.php:82
+#: templates/default/content.php:83 templates/futurist/content.php:94
+#: templates/futurist/content.php:95
+msgid "Email"
+msgstr "ई-मेल"
+
+#: templates/copify/content.php:98 templates/copify/content.php:99 templates/default/content.php:89
+#: templates/default/content.php:90 templates/futurist/content.php:103
+#: templates/futurist/content.php:104
+msgid "Password"
+msgstr "पासवर्ड"
+
+#: templates/copify/content.php:103 templates/default/content.php:94
+#: templates/futurist/content.php:108
+msgid "Login"
+msgstr "लॉग इन"
+
+#: templates/copify/content.php:106 templates/default/content.php:97
+#: templates/futurist/content.php:111
+msgid "Login is optional. You may continue with your order below."
+msgstr "लॉगिन वैकल्पिक है । आप नीचे अपने आदेश के साथ जारी रख सकते हैं ।"
+
+#: templates/copify/content.php:116 templates/default/content.php:109
+#: templates/futurist/content.php:121
+#, php-format
+msgid "Create %s shopping account."
+msgstr "%s खरीदारी खाता बनाएं ।"
+
+#: templates/copify/content.php:118 templates/default/content.php:111
+#: templates/futurist/content.php:123
+msgid "If you do not have an account, we will create one for you."
+msgstr "यदि आप एक खाता नहीं है, हम आपके लिए एक पैदा करेगा ।"
+
+#: templates/copify/content.php:127 templates/default/content.php:120
+#: templates/futurist/content.php:132
+#, php-format
+msgid "Welcome back, %s (%s)."
+msgstr "आपका स्वागत है, %s ( %s)।"
+
+#: templates/copify/content.php:140 templates/copify/content.php:238 templates/default/content.php:133
+#: templates/default/content.php:231 templates/futurist/content.php:145
+#: templates/futurist/content.php:243
+msgid "Billing address"
+msgstr "बिल भेजने का पता"
+
+#: templates/copify/content.php:142 templates/copify/content.php:190 templates/default/content.php:135
+#: templates/default/content.php:183 templates/futurist/content.php:147
+#: templates/futurist/content.php:195
+msgid "Shipping address"
+msgstr "शिपिंग पता"
+
+#: templates/copify/content.php:172 templates/default/content.php:165
+#: templates/futurist/content.php:177
+msgid "Return to cart"
+msgstr "गाड़ी में वापसी"
+
+#: templates/copify/content.php:175 templates/default/content.php:168
+#: templates/futurist/content.php:180
+msgid "Continue to shipping method"
+msgstr "शिपिंग विधि पर जारी रखें"
+
+#: templates/copify/content.php:177 templates/copify/content.php:223 templates/default/content.php:170
+#: templates/default/content.php:216 templates/futurist/content.php:182
+#: templates/futurist/content.php:228
+msgid "Continue to payment method"
+msgstr "ग्राहक जानकारी पर लौटें"
+
+#: templates/copify/content.php:196 templates/default/content.php:189
+#: templates/futurist/content.php:201
+msgid "Edit shipping address"
+msgstr "शिपिंग पता संपादित करें"
+
+#: templates/copify/content.php:207 templates/default/content.php:200
+#: templates/futurist/content.php:212
+msgid "Select a shipping method:"
+msgstr "एक शिपिंग विधि चुनें:"
+
+#: templates/copify/content.php:220 templates/copify/content.php:273 templates/default/content.php:213
+#: templates/default/content.php:266 templates/futurist/content.php:225
+#: templates/futurist/content.php:278
+msgid "Return to customer information"
+msgstr "ग्राहक की जानकारी पर लौटें"
+
+#: templates/copify/content.php:271 templates/default/content.php:264
+#: templates/futurist/content.php:276
+msgid "Return to shipping information"
+msgstr "शिपिंग जानकारी पर लौटें"
+
+#: templates/copify/content.php:307 templates/default/content.php:283
+#: templates/futurist/content.php:295
+msgid "Show order summary"
+msgstr "ऑर्डर सारांश दिखाएँ"
+
+#: templates/copify/content.php:326 templates/default/content.php:302
+#: templates/futurist/content.php:318
+msgid "Enter Promo Code"
+msgstr "प्रोमो कोड दर्ज करें"
+
+#: templates/copify/content.php:331 templates/default/content.php:307
+#: templates/futurist/content.php:323
+msgid "Apply"
+msgstr "लागू करें"
+
+#: templates/copify/content.php:341 templates/default/content.php:317
+#: templates/futurist/content.php:333
+msgid "Subtotal"
+msgstr "उप- योग"
+
+#: templates/copify/content.php:353 templates/default/content.php:329
+#: templates/futurist/content.php:345
+msgid "Shipping"
+msgstr "यातायात"
+
+#: templates/copify/content.php:366 templates/default/content.php:342
+#: templates/futurist/content.php:358
+msgid "Taxes"
+msgstr "कर"
+
+#: templates/copify/content.php:379 templates/default/content.php:355
+#: templates/futurist/content.php:371
+msgid "Total"
+msgstr "योग"
+
+#: templates/futurist/content.php:308
+msgid "Your Cart"
+msgstr "अपनी गाड़ी"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.CheckoutWC.com"
+msgstr "https://www.CheckoutWC.com"
+
+#. Description of the plugin/theme
+msgid "Beautiful, conversion optimized checkout template for WooCommerce."
+msgstr "WooCommerce के लिए सुंदर, रूपांतरण अनुकूलित चेकआउट टेम्पलेट"
+
+#. Author of the plugin/theme
+msgid "Objectiv"
+msgstr "Objectiv"
+
+#. Author URI of the plugin/theme
+msgid "https://objectiv.co"
+msgstr "https://objectiv.co"
+
+#~ msgid "required"
+#~ msgstr "आवश्यक"
+
+#~ msgid "Select a country&hellip;"
+#~ msgstr "कोई देश चुनें &hellip;"
+
+#~ msgid "Update country"
+#~ msgstr "अपडेट देश"
+
+#~ msgid "Select a state&hellip;"
+#~ msgstr "किसी राज्य का चयन करें &hellip;"
+
+#~ msgid "Choose an option"
+#~ msgstr "कोई विकल्प चुनें"
+
+#~ msgctxt "shipping packages"
+#~ msgid "Shipping"
+#~ msgid_plural "Shipping %d"
+#~ msgstr[0] "यातायात"
+#~ msgstr[1] "यातायात %d"
+
+#~ msgid ""
+#~ "There are no shipping methods available. Please double check your address, or contact us if you "
+#~ "need any help."
+#~ msgstr ""
+#~ "इसमें कोई शिपिंग विधियां उपलब्ध नहीं हैं कृपया अपना पता दोबारा जांच लें, या अगर आपको कोई मदद की ज़रूरत है तो "
+#~ "हमसे संपर्क करें।"
+
+#~ msgid ""
+#~ "Sorry, it seems that there are no available payment methods for your location. Please contact us "
+#~ "if you require assistance or wish to make alternate arrangements."
+#~ msgstr ""
+#~ "क्षमा करें, यह लगता है कि वहाँ कोई उपलब्ध भुगतान विधियाँ आपके स्थान के लिए कर रहे हैं। आप सहायता की आवश्यकता "
+#~ "होती है या वैकल्पिक व्यवस्था करने के लिए चाहते हैं, तो कृपया हमसे संपर्क करें।"
+
+#~ msgid "Checkout is not available whilst your cart is empty."
+#~ msgstr "चेकआउट उपलब्ध नहीं है, जबकि अपनी गाड़ी खाली है."
+
+#~ msgid "Error processing checkout. Please try again."
+#~ msgstr "त्रुटि संसाधन चेकआउट । कृपया पुन: प्रयास करें ।"
+
+#~ msgid "Select an option&hellip;"
+#~ msgstr "एक विकल्प चुनें&hellip;"
+
+#, fuzzy
+#~ msgctxt "enhanced select"
+#~ msgid "No matches found"
+#~ msgstr "कोई मेल नहीं मिला"
+
+#, fuzzy
+#~ msgctxt "enhanced select"
+#~ msgid "Loading failed"
+#~ msgstr "लोड करना विफल रहा"
+
+#, fuzzy
+#~ msgctxt "enhanced select"
+#~ msgid "Please enter 1 or more characters"
+#~ msgstr "कृपया 1 या अधिक वर्ण दर्ज करें"
+
+#, fuzzy
+#~ msgctxt "enhanced select"
+#~ msgid "Please enter %qty% or more characters"
+#~ msgstr "कृपया% मात्रा% या अधिक वर्ण दर्ज करें"
+
+#, fuzzy
+#~ msgctxt "enhanced select"
+#~ msgid "Please delete 1 character"
+#~ msgstr "कृपया 1 वर्ण हटाएं"
+
+#, fuzzy
+#~ msgctxt "enhanced select"
+#~ msgid "Please delete %qty% characters"
+#~ msgstr "कृपया% मात्रा% वर्ण हटाएं"
+
+#, fuzzy
+#~ msgctxt "enhanced select"
+#~ msgid "You can only select 1 item"
+#~ msgstr "आप केवल 1 आइटम का चयन कर सकते है"
+
+#, fuzzy
+#~ msgctxt "enhanced select"
+#~ msgid "You can only select %qty% items"
+#~ msgstr "आप केवल% मात्रा% आइटम चुन सकते है"
+
+#, fuzzy
+#~ msgctxt "enhanced select"
+#~ msgid "Loading more results&hellip;"
+#~ msgstr "अधिक परिणाम लोड हो रहा है &hellip;"
+
+#, fuzzy
+#~ msgctxt "enhanced select"
+#~ msgid "Searching&hellip;"
+#~ msgstr "खोज &hellip;"
+
+#~ msgid "Cart"
+#~ msgstr "गाड़ी"
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s"
+#~ "\">View version %3$s details</a>."
+#~ msgstr ""
+#~ "%1$s का नया संस्करण उपलब्ध है. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">संस्करण देखें%3$s "
+#~ "विवरण</a>."
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s"
+#~ "\">View version %3$s details</a> or <a href=\"%4$s\">update now</a>."
+#~ msgstr ""
+#~ "%1$s का नया संस्करण उपलब्ध है. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">संस्करण देखें%3$s "
+#~ "विवरण</a> या <a href=\"%4$s\">अब अद्यतन</a>करें."
+
+#~ msgid "You do not have permission to install plugin updates"
+#~ msgstr "आप प्लगइन अद्यतन स्थापित करने की अनुमति नहीं है"
+
+#~ msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+#~ msgstr "%1$s का नया संस्करण उपलब्ध है. %2$sView संस्करण%3$s विवरण%4$s."
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate now"
+#~ "%6$s."
+#~ msgstr "%1$s का नया संस्करण उपलब्ध है. %2$sView संस्करण%3$s विवरण%4$s या%5$supdate अब%6$s."
+
+#~ msgid "Error"
+#~ msgstr "त्रुटि।"
+
+#~ msgid ""
+#~ "There are no shipping methods available. Please ensure that your address has been entered "
+#~ "correctly, or contact us if you need any help."
+#~ msgstr ""
+#~ "इसमें कोई शिपिंग विधियां उपलब्ध नहीं हैं कृपया अपना पता दोबारा जांच लें, या अगर आपको कोई मदद की ज़रूरत है तो "
+#~ "हमसे संपर्क करें।"
+
+#~ msgctxt "checkout-wc"
+#~ msgid "Apt, suite, etc. (optional)"
+#~ msgstr "अपार्टमेंट, सूट, आदि। (वैकल्पिक)"
+
+#~ msgid "Log in."
+#~ msgstr "लॉगिन करें"
+
+#~ msgid ""
+#~ "If you do not have an account, the information provided here will be used to create an account "
+#~ "on checkout."
+#~ msgstr ""
+#~ "यदि आपके पास कोई खाता नहीं है, तो यहां उपलब्ध कराई गई जानकारी को चेकआउट पर एक खाता बनाने के लिए उपयोग "
+#~ "किया जाएगा।."
+
+#~ msgid ""
+#~ "We can't wait to help you with Checkout for WooCommerce! Please fill out the following form and "
+#~ "one of our support staff will respond within 12-24 hours. (average)"
+#~ msgstr ""
+#~ "हम WooCommerce के लिए Checkout के साथ आपकी सहायता करने के लिए प्रतीक्षा नहीं कर सकते! कृपया निम्नलिखित "
+#~ "फॉर्म को भरें और हमारे समर्थन स्टाफ में से एक 12-24 घंटों के भीतर जवाब देंगे। (औसत)"
+
+#~ msgid "Many issues are addressed in our documentation:"
+#~ msgstr "कई दस्तावेज हमारे दस्तावेज में दिए गए हैं:"
+
+#~ msgid "View Documentation"
+#~ msgstr "दस्तावेज़ीकरण देखें"
+
+#~ msgid ""
+#~ "If you need help for something not covered in our documentation, please click this button to "
+#~ "file a support request:"
+#~ msgstr ""
+#~ "अगर आपको हमारे दस्तावेज़ीकरण में न मिली हुई चीज़ों के लिए मदद चाहिए, तो कृपया एक समर्थन अनुरोध दर्ज करने के लिए "
+#~ "इस बटन पर क्लिक करें:"
+
+#~ msgid "Support Request"
+#~ msgstr "समर्थन का अनुरोध करें"
+
+#~ msgid "Create a %s shopping account."
+#~ msgstr "%s खरीदारी खाते बनाएं"
+
+#~ msgid "Shipping costs will be calculated once you have provided your address."
+#~ msgstr "आपके द्वारा अपना पता प्रदान करने के बाद शिपिंग लागत की गणना की जाएगी"
+
+#~ msgid "Apartment, suite, unit etc."
+#~ msgstr "अपार्टमेंट, सूट, यूनिट आदि"
+
+#~ msgid "Shipping Address"
+#~ msgstr "शिपिंग पता"
+
+#~ msgid "Header Shadow Color"
+#~ msgstr "शीर्ष लेख छाया रंग"
+
+#~ msgid "Brandon Tassone"
+#~ msgstr "Brandon Tassone"
+
+#~ msgid "Welcome"
+#~ msgstr "स्वागत है"

@@ -1,0 +1,139 @@
+[06-Jan-2025 09:28:52 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'chalkboardpub'@'localhost' (using password: YES) in D:\xampp\htdocs\chalkboardpub\wp-includes\class-wpdb.php on line 1982
+[06-Jan-2025 09:29:09 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'chalkboardpub'@'localhost' (using password: YES) in D:\xampp\htdocs\chalkboardpub\wp-includes\class-wpdb.php on line 1982
+[06-Jan-2025 09:29:09 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'chalkboardpub'@'localhost' (using password: YES) in D:\xampp\htdocs\chalkboardpub\wp-includes\class-wpdb.php on line 1982
+[06-Jan-2025 09:29:10 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'chalkboardpub'@'localhost' (using password: YES) in D:\xampp\htdocs\chalkboardpub\wp-includes\class-wpdb.php on line 1982
+[06-Jan-2025 09:29:10 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'chalkboardpub'@'localhost' (using password: YES) in D:\xampp\htdocs\chalkboardpub\wp-includes\class-wpdb.php on line 1982
+[06-Jan-2025 09:29:10 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'chalkboardpub'@'localhost' (using password: YES) in D:\xampp\htdocs\chalkboardpub\wp-includes\class-wpdb.php on line 1982
+[06-Jan-2025 09:48:16 UTC] PHP Warning:  Creating default object from empty value in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient\nectar\redux-framework\ReduxCore\inc\class.redux_filesystem.php on line 29
+[06-Jan-2025 09:48:20 UTC] PHP Warning:  Creating default object from empty value in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient\nectar\redux-framework\ReduxCore\inc\class.redux_filesystem.php on line 29
+[06-Jan-2025 09:48:20 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in D:\xampp\htdocs\chalkboardpub\wp-includes\cron.php:436
+Stack trace:
+#0 D:\xampp\htdocs\chalkboardpub\wp-cron.php(129): wp_reschedule_event(1705500106, 'afacr_cron_sche...', 'addify_automati...', Array, true)
+#1 {main}
+  thrown in D:\xampp\htdocs\chalkboardpub\wp-includes\cron.php on line 436
+[06-Jan-2025 09:48:22 UTC] PHP Notice:  Undefined variable: menu_label_class in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient-child\includes\partials\header\header-menu.php on line 104
+[06-Jan-2025 09:48:22 UTC] PHP Notice:  Undefined variable: menu_label in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient-child\includes\partials\header\header-menu.php on line 105
+[06-Jan-2025 09:48:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function woocommerce_get_page_id() in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient-child\includes\partials\header\header-menu.php:166
+Stack trace:
+#0 D:\xampp\htdocs\chalkboardpub\wp-includes\template.php(812): require()
+#1 D:\xampp\htdocs\chalkboardpub\wp-includes\template.php(745): load_template('D:\\xampp\\htdocs...', false, Array)
+#2 D:\xampp\htdocs\chalkboardpub\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#3 D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient-child\header.php(116): get_template_part('includes/partia...')
+#4 D:\xampp\htdocs\chalkboardpub\wp-includes\template.php(810): require_once('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\chalkboardpub\wp-includes\template.php(745): load_template('D:\\xampp\\htdocs...', true, Array)
+#6 D:\xampp\htdocs\chalkboardpub\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient\page.php(14): get in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient-child\includes\partials\header\header-menu.php on line 166
+[06-Jan-2025 10:00:07 UTC] PHP Warning:  Creating default object from empty value in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient\nectar\redux-framework\ReduxCore\inc\class.redux_filesystem.php on line 29
+[06-Jan-2025 10:00:08 UTC] PHP Warning:  Creating default object from empty value in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient\nectar\redux-framework\ReduxCore\inc\class.redux_filesystem.php on line 29
+[06-Jan-2025 10:00:09 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in D:\xampp\htdocs\chalkboardpub\wp-includes\cron.php:436
+Stack trace:
+#0 D:\xampp\htdocs\chalkboardpub\wp-cron.php(129): wp_reschedule_event(1705500106, 'afacr_cron_sche...', 'addify_automati...', Array, true)
+#1 {main}
+  thrown in D:\xampp\htdocs\chalkboardpub\wp-includes\cron.php on line 436
+[06-Jan-2025 10:00:09 UTC] PHP Notice:  Undefined variable: menu_label_class in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient-child\includes\partials\header\header-menu.php on line 104
+[06-Jan-2025 10:00:09 UTC] PHP Notice:  Undefined variable: menu_label in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient-child\includes\partials\header\header-menu.php on line 105
+[06-Jan-2025 10:00:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function woocommerce_get_page_id() in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient-child\includes\partials\header\header-menu.php:166
+Stack trace:
+#0 D:\xampp\htdocs\chalkboardpub\wp-includes\template.php(812): require()
+#1 D:\xampp\htdocs\chalkboardpub\wp-includes\template.php(745): load_template('D:\\xampp\\htdocs...', false, Array)
+#2 D:\xampp\htdocs\chalkboardpub\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#3 D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient-child\header.php(116): get_template_part('includes/partia...')
+#4 D:\xampp\htdocs\chalkboardpub\wp-includes\template.php(810): require_once('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\chalkboardpub\wp-includes\template.php(745): load_template('D:\\xampp\\htdocs...', true, Array)
+#6 D:\xampp\htdocs\chalkboardpub\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient\page.php(14): get in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient-child\includes\partials\header\header-menu.php on line 166
+[06-Jan-2025 10:00:15 UTC] PHP Warning:  Creating default object from empty value in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient\nectar\redux-framework\ReduxCore\inc\class.redux_filesystem.php on line 29
+[06-Jan-2025 10:00:16 UTC] PHP Notice:  Undefined variable: menu_label_class in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient-child\includes\partials\header\header-menu.php on line 104
+[06-Jan-2025 10:00:16 UTC] PHP Notice:  Undefined variable: menu_label in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient-child\includes\partials\header\header-menu.php on line 105
+[06-Jan-2025 10:00:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function woocommerce_get_page_id() in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient-child\includes\partials\header\header-menu.php:166
+Stack trace:
+#0 D:\xampp\htdocs\chalkboardpub\wp-includes\template.php(812): require()
+#1 D:\xampp\htdocs\chalkboardpub\wp-includes\template.php(745): load_template('D:\\xampp\\htdocs...', false, Array)
+#2 D:\xampp\htdocs\chalkboardpub\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#3 D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient-child\header.php(116): get_template_part('includes/partia...')
+#4 D:\xampp\htdocs\chalkboardpub\wp-includes\template.php(810): require_once('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\chalkboardpub\wp-includes\template.php(745): load_template('D:\\xampp\\htdocs...', true, Array)
+#6 D:\xampp\htdocs\chalkboardpub\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient\page.php(14): get in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient-child\includes\partials\header\header-menu.php on line 166
+[06-Jan-2025 10:01:43 UTC] PHP Warning:  Creating default object from empty value in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient\nectar\redux-framework\ReduxCore\inc\class.redux_filesystem.php on line 29
+[06-Jan-2025 10:01:44 UTC] PHP Warning:  Creating default object from empty value in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient\nectar\redux-framework\ReduxCore\inc\class.redux_filesystem.php on line 29
+[06-Jan-2025 10:01:44 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in D:\xampp\htdocs\chalkboardpub\wp-includes\cron.php:436
+Stack trace:
+#0 D:\xampp\htdocs\chalkboardpub\wp-cron.php(129): wp_reschedule_event(1705500106, 'afacr_cron_sche...', 'addify_automati...', Array, true)
+#1 {main}
+  thrown in D:\xampp\htdocs\chalkboardpub\wp-includes\cron.php on line 436
+[06-Jan-2025 10:01:44 UTC] PHP Notice:  Undefined variable: menu_label_class in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient-child\includes\partials\header\header-menu.php on line 104
+[06-Jan-2025 10:01:44 UTC] PHP Notice:  Undefined variable: menu_label in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient-child\includes\partials\header\header-menu.php on line 105
+[06-Jan-2025 10:01:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function woocommerce_get_page_id() in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient-child\includes\partials\header\header-menu.php:166
+Stack trace:
+#0 D:\xampp\htdocs\chalkboardpub\wp-includes\template.php(812): require()
+#1 D:\xampp\htdocs\chalkboardpub\wp-includes\template.php(745): load_template('D:\\xampp\\htdocs...', false, Array)
+#2 D:\xampp\htdocs\chalkboardpub\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#3 D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient-child\header.php(116): get_template_part('includes/partia...')
+#4 D:\xampp\htdocs\chalkboardpub\wp-includes\template.php(810): require_once('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\chalkboardpub\wp-includes\template.php(745): load_template('D:\\xampp\\htdocs...', true, Array)
+#6 D:\xampp\htdocs\chalkboardpub\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient\page.php(14): get in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient-child\includes\partials\header\header-menu.php on line 166
+[06-Jan-2025 10:02:20 UTC] PHP Warning:  Creating default object from empty value in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient\nectar\redux-framework\ReduxCore\inc\class.redux_filesystem.php on line 29
+[06-Jan-2025 10:02:20 UTC] PHP Notice:  Undefined variable: menu_label_class in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient-child\includes\partials\header\header-menu.php on line 104
+[06-Jan-2025 10:02:20 UTC] PHP Notice:  Undefined variable: menu_label in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient-child\includes\partials\header\header-menu.php on line 105
+[06-Jan-2025 10:02:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function woocommerce_get_page_id() in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient-child\includes\partials\header\header-menu.php:166
+Stack trace:
+#0 D:\xampp\htdocs\chalkboardpub\wp-includes\template.php(812): require()
+#1 D:\xampp\htdocs\chalkboardpub\wp-includes\template.php(745): load_template('D:\\xampp\\htdocs...', false, Array)
+#2 D:\xampp\htdocs\chalkboardpub\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#3 D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient-child\header.php(116): get_template_part('includes/partia...')
+#4 D:\xampp\htdocs\chalkboardpub\wp-includes\template.php(810): require_once('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\chalkboardpub\wp-includes\template.php(745): load_template('D:\\xampp\\htdocs...', true, Array)
+#6 D:\xampp\htdocs\chalkboardpub\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient\page.php(14): get in D:\xampp\htdocs\chalkboardpub\wp-content\themes\salient-child\includes\partials\header\header-menu.php on line 166
+[06-Jan-2025 10:07:28 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in D:\xampp\htdocs\chalkboardpub\wp-includes\cron.php:436
+Stack trace:
+#0 D:\xampp\htdocs\chalkboardpub\wp-cron.php(129): wp_reschedule_event(1705500106, 'afacr_cron_sche...', 'addify_automati...', Array, true)
+#1 {main}
+  thrown in D:\xampp\htdocs\chalkboardpub\wp-includes\cron.php on line 436
+[06-Jan-2025 10:13:06 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in D:\xampp\htdocs\chalkboardpub\wp-includes\cron.php:436
+Stack trace:
+#0 D:\xampp\htdocs\chalkboardpub\wp-cron.php(129): wp_reschedule_event(1705500106, 'afacr_cron_sche...', 'addify_automati...', Array, true)
+#1 {main}
+  thrown in D:\xampp\htdocs\chalkboardpub\wp-includes\cron.php on line 436
+[06-Jan-2025 10:28:53 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in D:\xampp\htdocs\chalkboardpub\wp-includes\cron.php:436
+Stack trace:
+#0 D:\xampp\htdocs\chalkboardpub\wp-cron.php(129): wp_reschedule_event(1705500106, 'afacr_cron_sche...', 'addify_automati...', Array, true)
+#1 {main}
+  thrown in D:\xampp\htdocs\chalkboardpub\wp-includes\cron.php on line 436
+[06-Jan-2025 10:32:35 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in D:\xampp\htdocs\chalkboardpub\wp-includes\cron.php:436
+Stack trace:
+#0 D:\xampp\htdocs\chalkboardpub\wp-cron.php(129): wp_reschedule_event(1705500106, 'afacr_cron_sche...', 'addify_automati...', Array, true)
+#1 {main}
+  thrown in D:\xampp\htdocs\chalkboardpub\wp-includes\cron.php on line 436
+[06-Jan-2025 10:32:50 UTC] PHP Notice:  Function map_meta_cap was called <strong>incorrectly</strong>. The post type <code>shop_order</code> is not registered, so it may not be reliable to check the capability <code>edit_post</code> against a post of that type. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.4.0.) in D:\xampp\htdocs\chalkboardpub\wp-includes\functions.php on line 6085
+[06-Jan-2025 10:32:50 UTC] PHP Notice:  Function map_meta_cap was called <strong>incorrectly</strong>. The post type <code>shop_order</code> is not registered, so it may not be reliable to check the capability <code>edit_post</code> against a post of that type. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.4.0.) in D:\xampp\htdocs\chalkboardpub\wp-includes\functions.php on line 6085
+[06-Jan-2025 10:32:50 UTC] PHP Notice:  Function map_meta_cap was called <strong>incorrectly</strong>. The post type <code>shop_order</code> is not registered, so it may not be reliable to check the capability <code>edit_post</code> against a post of that type. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.4.0.) in D:\xampp\htdocs\chalkboardpub\wp-includes\functions.php on line 6085
+[06-Jan-2025 10:32:50 UTC] PHP Notice:  Function map_meta_cap was called <strong>incorrectly</strong>. The post type <code>shop_order</code> is not registered, so it may not be reliable to check the capability <code>edit_post</code> against a post of that type. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.4.0.) in D:\xampp\htdocs\chalkboardpub\wp-includes\functions.php on line 6085
+[06-Jan-2025 10:32:50 UTC] PHP Notice:  Function map_meta_cap was called <strong>incorrectly</strong>. The post type <code>shop_order</code> is not registered, so it may not be reliable to check the capability <code>edit_post</code> against a post of that type. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.4.0.) in D:\xampp\htdocs\chalkboardpub\wp-includes\functions.php on line 6085
+[06-Jan-2025 10:32:50 UTC] PHP Notice:  Function map_meta_cap was called <strong>incorrectly</strong>. The post type <code>shop_order</code> is not registered, so it may not be reliable to check the capability <code>edit_post</code> against a post of that type. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.4.0.) in D:\xampp\htdocs\chalkboardpub\wp-includes\functions.php on line 6085
+[06-Jan-2025 10:32:50 UTC] PHP Notice:  Function map_meta_cap was called <strong>incorrectly</strong>. The post type <code>shop_order</code> is not registered, so it may not be reliable to check the capability <code>edit_post</code> against a post of that type. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.4.0.) in D:\xampp\htdocs\chalkboardpub\wp-includes\functions.php on line 6085
+[06-Jan-2025 10:32:50 UTC] PHP Notice:  Function map_meta_cap was called <strong>incorrectly</strong>. The post type <code>shop_order</code> is not registered, so it may not be reliable to check the capability <code>edit_post</code> against a post of that type. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.4.0.) in D:\xampp\htdocs\chalkboardpub\wp-includes\functions.php on line 6085
+[06-Jan-2025 10:32:50 UTC] PHP Notice:  Function map_meta_cap was called <strong>incorrectly</strong>. The post type <code>shop_order</code> is not registered, so it may not be reliable to check the capability <code>edit_post</code> against a post of that type. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.4.0.) in D:\xampp\htdocs\chalkboardpub\wp-includes\functions.php on line 6085
+[06-Jan-2025 10:32:50 UTC] PHP Notice:  Function map_meta_cap was called <strong>incorrectly</strong>. The post type <code>shop_order</code> is not registered, so it may not be reliable to check the capability <code>edit_post</code> against a post of that type. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.4.0.) in D:\xampp\htdocs\chalkboardpub\wp-includes\functions.php on line 6085
+[06-Jan-2025 10:33:54 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in D:\xampp\htdocs\chalkboardpub\wp-includes\cron.php:436
+Stack trace:
+#0 D:\xampp\htdocs\chalkboardpub\wp-cron.php(129): wp_reschedule_event(1705500106, 'afacr_cron_sche...', 'addify_automati...', Array, true)
+#1 {main}
+  thrown in D:\xampp\htdocs\chalkboardpub\wp-includes\cron.php on line 436
+[06-Jan-2025 10:35:04 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in D:\xampp\htdocs\chalkboardpub\wp-includes\cron.php:436
+Stack trace:
+#0 D:\xampp\htdocs\chalkboardpub\wp-cron.php(129): wp_reschedule_event(1705500106, 'afacr_cron_sche...', 'addify_automati...', Array, true)
+#1 {main}
+  thrown in D:\xampp\htdocs\chalkboardpub\wp-includes\cron.php on line 436
+[06-Jan-2025 10:36:13 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in D:\xampp\htdocs\chalkboardpub\wp-includes\cron.php:436
+Stack trace:
+#0 D:\xampp\htdocs\chalkboardpub\wp-cron.php(129): wp_reschedule_event(1705500106, 'afacr_cron_sche...', 'addify_automati...', Array, true)
+#1 {main}
+  thrown in D:\xampp\htdocs\chalkboardpub\wp-includes\cron.php on line 436
+[06-Jan-2025 10:37:28 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in D:\xampp\htdocs\chalkboardpub\wp-includes\cron.php:436
+Stack trace:
+#0 D:\xampp\htdocs\chalkboardpub\wp-cron.php(129): wp_reschedule_event(1705500106, 'afacr_cron_sche...', 'addify_automati...', Array, true)
+#1 {main}
+  thrown in D:\xampp\htdocs\chalkboardpub\wp-includes\cron.php on line 436

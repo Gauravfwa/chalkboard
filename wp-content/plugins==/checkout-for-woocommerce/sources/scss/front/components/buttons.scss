@@ -1,0 +1,81 @@
+main.checkoutwc {
+    .cfw-prev-tab {
+        transition: all .2s ease;
+        text-decoration: none;
+        white-space: nowrap;
+
+        @include media-breakpoint-down(md) {
+            margin-bottom: 1em;
+            display: inline-block;
+        }
+    }
+
+    @include media-breakpoint-down(md) {
+        .previous-button {
+            text-align: center;
+        }
+    }
+
+    .cfw-primary-btn, #info_payment button {
+        cursor: pointer;
+        display: inline-block;
+        text-decoration: none;
+        background: #232323;
+        color: #fff;
+        border-radius: 5px;
+        border: none;
+        font-size: 1em;
+        box-sizing: border-box;
+        font-weight: 400;
+        -webkit-transition: all .3s ease-in-out;
+        -moz-transition: all .3s ease-in-out;
+        transition: all .3s ease-in-out;
+        padding: 19px 15px;
+
+        &:hover {
+            background: #ddd;
+            color: #666;
+        }
+
+        &:focus {
+            outline-style: none;
+        }
+    }
+
+    .cfw-secondary-btn, a.button, .woocommerce-button, button, input[type="button"] {
+        border: none;
+        box-shadow: none;
+        border-radius: 5px;
+        cursor: pointer;
+        padding: 12px 16px;
+        font-size: 1em;
+        background: #999;
+        color: #f4f4f4;
+        text-align: center;
+        transition: all .1s ease-in-out;
+        display: inline-block;
+
+        &:hover {
+            background: #000;
+        }
+
+        &:focus {
+            outline-style: none;
+        }
+    }
+
+    .cfw-secondary-btn, .cfw-secondary-btn, a.button, .woocommerce-button {
+        width: 100%;
+    }
+
+    a.button {
+        width: auto;
+        text-decoration: none;
+    }
+}
+
+main.cfw-one-page-checkout {
+    .cfw-return-to-shipping-btn {
+        display: none;
+    }
+}

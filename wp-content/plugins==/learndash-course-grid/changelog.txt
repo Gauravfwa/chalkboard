@@ -1,0 +1,7 @@
+ = [2.0.8] =
+
+ * Tweak: Add custom ColorPalette component and replace default Gutenberg ColorPalette component.
+ * Fix: Fix changing a duplicated block style also change the style of its original block.
+ * Fix: Fix fatal error if the site doesn't have default course category or terms set up.
+ * Fix: Fix double path separator issue.
+ * Fix: PHP error notice.

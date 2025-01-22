@@ -1,0 +1,47 @@
+body.checkout-wc, main.checkoutwc {
+  background: $main-bg !important;
+  font-family: $font-family;
+  color: #666;
+  flex-direction: column;
+  width: 100%;
+  text-rendering: optimizelegibility !important;
+  -webkit-font-smoothing: subpixel-antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: 0.3px;
+  overflow-x: hidden; // fix white space on iphone
+
+  p {
+    margin: 0;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  label {
+    font-weight: normal;
+  }
+
+  form h1, h2, h3, h4 {
+    color: #333;
+    font-weight: 300;
+    margin-top: 0;
+    margin-bottom: 0.6em;
+  }
+
+  h3 {
+    font-size: 1.5em;
+    color: #333;
+    font-weight: 300;
+    margin-bottom: 0.6em;
+  }
+
+  .hidden {
+    display: none;
+  }
+}
+
+main.checkoutwc {
+  overflow-x: unset; // fix issue with quantity bubble being clipped
+  background: unset !important; // don't want a default background color on main
+}

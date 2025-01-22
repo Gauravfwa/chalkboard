@@ -1,0 +1,11 @@
+@include media-breakpoint-down(md) {
+  .container {
+    max-width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+}
+
+main.checkoutwc .woocommerce-checkout .row {
+  display: flex;
+}

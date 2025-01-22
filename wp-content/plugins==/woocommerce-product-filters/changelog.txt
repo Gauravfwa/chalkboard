@@ -1,0 +1,233 @@
+*** Product Filters for WooCommerce Changelog ***
+
+2023-01-31 - version 1.4.1
+* Tweak - Handle deprecated warning for PHP 8.1.
+* Tweak - WC 7.4 compatibility.
+
+2023-01-17 - version 1.4.0
+* Add - Link to settings from plugin table.
+* Add - Setting to enable large products counts for filters.
+* Add - Setting to reduce product count query size considerably.
+
+2023-01-04 - version 1.3.11
+* Dev - Add node and npm version restrictions.
+* Dev - Adjust webpack `devtools` config value.
+* Tweak - WC 7.3 compatibility.
+
+2022-12-13 - version 1.3.10
+* Tweak - WC 7.2 compatibility.
+
+2022-11-08 - version 1.3.9
+* Fix - Add HPOS compatibility.
+* Tweak - Declare HPOS compatibility as true.
+* Tweak - WC 7.1 compatibility.
+* Tweak - WP 6.1 compatibility.
+
+2022-10-13 - version 1.3.8
+* Tweak - WC 7.0 compatibility.
+
+2022-09-02 - version 1.3.7
+* Dev - Add branch-labels GH workflow.
+* Tweak - WC 6.9 compatibility.
+
+2022-08-11 - version 1.3.6
+* Dev - GH release config and the new PR template.
+* Fix - Remove extra slash in /assets//build/js/plugin.js.
+
+2022-07-27 - version 1.3.5
+* Fix - Compatibility with the Ajax-Enabled Enhanced Layered Navigation plugin.
+* Tweak - WC 6.8 compatibility.
+* Update - No longer supports IE11.
+
+2022-07-19 - version 1.3.4
+* Fix - Hide widget and reset button when all filters are disabled.
+
+2022-07-06 - version 1.3.3
+* Tweak - WC 6.7 compatibility.
+
+2022-06-07 - version 1.3.2
+* Tweak - WC 6.6 compatibility.
+
+2022-05-10 - version 1.3.1
+* Tweak - Change columns implementation to use CSS Flexbox Layout.
+* Tweak - WooCommerce 6.5 and WordPress 6.0 compatibility.
+
+2022-03-29 - version 1.3.0
+* Fix - Prevent error on PHP 8+ from improper return value to `uasort()`.
+* Tweak - Bump minimum PHP version to 7+.
+* Tweak - Bump minimum WooCommerce version to 3.9+.
+
+2022-03-16 - version 1.2.9
+* Dev - Add .nvmrc file.
+* Dev - Update JS minification process for better compatibility with various versions of Node/NPM.
+* Fix - use more specific CSS classes to prevent conflicts with other plugins and themes.
+
+2022-01-14 - version 1.2.8
+* Fix - Unify `.github/**.md` files with other repos.
+* Tweak - WC 6.1 compatibility.
+
+2021-12-27 - version 1.2.7
+* Fix - Minified files access
+
+2021-12-22 - version 1.2.6
+* Tweak - Changed min/max price inputs to flexbox for TwentyTwenty themes.
+* Tweak - WC 6.0 compatibility.
+* Tweak - WP 5.9 compatibility.
+
+2021-02-04 - version 1.2.5
+* Fix - Let page display rule use rule's value.
+* Tweak - WC 5.0 compatibility.
+
+2020-12-01 - version 1.2.4
+* Fix - Ensure the display rules match the correct category/term.
+* Tweak - WC 4.7 compatibility.
+* Tweak - WordPress 5.6 compatibility.
+
+2020-10-08 - version 1.2.3
+* Tweak - WC 4.5 compatibility.
+* Tweak - Automatic translations.
+
+2020-08-19 - version 1.2.2
+* Fix - Replace deprecated jQuery method.
+* Tweak - WordPress 5.5 compatibility.
+
+2020-06-10 - version 1.2.1
+* Fix - Code standards cleanup.
+* Tweak - WC 4.2 compatibility.
+
+2020-05-07 - version 1.2.0
+* Fix   - Use version when loading assets.
+* Fix   - Deprecate filter wcpf_product_counts_in_stock_statuses_clauses.
+* Tweak - WC 4.1 compatibility.
+
+2019-10-01 - version 1.1.16
+* Added support for woocommerce 3.7.0
+* Fixed adaptation of price range in taxonomy archive
+* Fixed bug with sorting by number in title
+
+2019-05-09 - version 1.1.15
+* Fixed bug with "replace_editor" hook in wordpress version 5.2
+
+2019-04-20 - version 1.1.14
+* Fixed bug if woocommerce activated for network
+* Fixed bug with intersection "select2" library in admin panel
+
+2019-03-06 - version 1.1.13
+* Added "Scroll Top" option
+* Added "Order by" option
+* Added a drop-down style switch WooCommerce/Default
+* Added support for plugin "WC Photography Products"
+
+2019-02-18 - version 1.1.12
+* Fixed a bug with "stock status" query in database if you use a non-standard prefix for tables
+* Fixed bug with duplicate posts ids when calculating number of posts in statuses
+
+2019-02-15 - version 1.1.11
+* Added html attribute "title" to colors
+* Fixed bug with missing parameters when calling "widget_title" hook
+
+2019-02-11 - version 1.1.10
+* Added ability to filter by "stock status"
+* Added "Product count policy" option
+* Added support for plugin "YITH Infinite Scrolling"
+* Added support for theme The7
+
+2019-02-04 - version 1.1.9
+* Added ability to check variation products in stock
+* Added support for plugin "Woo Search Box" by Guaven Labs
+* Fixed bug with counting number of available products on search page
+
+2019-01-30 - version 1.1.8
+* Added "Display rules" option
+* Adaptive change of price range for element "Price Slider" in categories archive and other taxonomy archives
+* Renamed "Title reset" option to "Show all" text
+* Removed "Show reset" option
+
+2019-01-24 - version 1.1.7
+* Fixed bug not working reset in color piker
+* Fixed bug not working presets in color picker
+* Fixed bug with toggle content in Simple Box
+
+2019-01-24 - version 1.1.6
+* Changed color editor
+* Added support for plugin Load More Products for WooCommerce by BeRocket
+* Fixed bug with display options when root category is selected in category option
+* Fixed bug with display filter elements when content is hidden by default until if window is not fully loaded
+
+2019-01-20 - version 1.1.5
+* Fixed bug when searching for selector if pagination template is empty
+* Added support lazy load image from jetpack
+* Fixed bug with ignore option "Multiple containers" when searching for a product container
+
+2019-01-19 - version 1.1.4
+* Added search for a products container with a non-standard woocommerce selector
+* Added search for pagination selector, sorting selector and number of products selector in override woocommerce templates in theme
+
+2019-01-18 - version 1.1.3
+* Added scrollbar and "more" button for Radio List and CheckBox List elements
+* Added "Clear Cache" button on filters page
+* Added ability to update multiple html elements if multiple values are specified in selector options, separated by commas
+* Fixed bug with "undefined" string in url if there is an empty attribute
+
+2019-01-12 - version 1.1.2
+* Added support for plugin Elementor
+* Added support for plugin WPML
+* Added hierarchy collapse feature for Radio List and CheckBox List elements
+* Added "Script after update" option
+
+2019-01-09 - version 1.1.1
+* Fixed bug filtering if only categories are displayed in shop page
+* Fixed bug infinite loop in theme that do not support woocommerce
+* Fixed bug if old version of mixitup library use in theme
+
+2018-12-18 - version 1.1.0
+* Fixed bug with PHP version 5.6.3
+
+2018-12-18 - version 1.0.9
+* Added adaptive thumbnails
+* Added support for plugin Polylang
+* Added translation files
+
+2018-12-10 - version 1.0.8
+* Fixed problem with 'Only Select' option on category page
+* Added update breadcrumbs when filtering
+
+2018-12-09 - version 1.0.7
+* Fixed display of child categories in category page
+
+2018-12-09 - version 1.0.6
+* Added support for theme Mr. Tailor
+* Added clear cache tools
+* Display number of products on active options
+* Added tree view in text list element
+* Fixed marker style in checkbox and color list
+
+2018-12-07 - version 1.0.5
+* Added support for woocommerce 3.5.2
+* Changed default settings in list elements
+* Fixed issue with display child categories in category archive
+* Fixed issue on unicode chars in pagination urls
+
+2018-11-29 - version 1.0.4
+* Fixed bug with empty options are not hidden if any option is active
+* Fixed bug on selected option cannot be disabled if "Multi select" is disabled
+* Added ability to hide out of stock products if any product filter options are active
+
+2018-11-27 - version 1.0.3
+* Added support for theme Shopkeeper
+* Fixed issue with auto reset price in price slider
+* Added ability touch move to price slider
+* Added role checks when loading options in admin panel
+
+2018-11-19 - version 1.0.2
+* Fixed issue with display of currency symbol
+* Fixed issue rewrite templates
+* Added min and max inputs to price slider
+
+2018-11-07 - version 1.0.1
+* Fixed issue with display product image after ajax update in safari browser
+* Fixed issue with display of options tree in combination with option 'only selected' or 'except selected'
+* Fixed issue with counting number of products for nested terms
+
+2018-11-02 - version 1.0.0
+* Initial release

@@ -1,0 +1,397 @@
+# Copyright (C) 2023 Play.ht
+# This file is distributed under the same license as the Play.ht package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Play.ht 3.6.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/play-ht\n"
+"POT-Creation-Date: 2023-06-14 19:05:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#. Author of the plugin/theme
+msgid "Play.ht"
+msgstr ""
+
+#: admin/class-metaboxes.php:41 admin/classes/class-metaboxes.php:53
+msgid "Play.ht - Audio Accessibility"
+msgstr ""
+
+#: admin/settings.php:168
+msgid "Page Player Button"
+msgstr ""
+
+#: admin/settings.php:168
+msgid ""
+"If enabled, will show a play button at the bottom of the article page and "
+"article list pages, when clicked will start the"
+msgstr ""
+
+#: admin/settings.php:168
+msgid "Page Player"
+msgstr ""
+
+#: admin/settings.php:168
+msgid "to play the current article."
+msgstr ""
+
+#: admin/settings.php:274
+msgid "Title Play Button"
+msgstr ""
+
+#: admin/settings.php:274
+msgid ""
+"If enabled, will show a listen button below any article title, only in the "
+"article page and articles list pages."
+msgstr ""
+
+#: admin/settings.php:277 admin/settings.php:299
+msgid "Preview"
+msgstr ""
+
+#: admin/settings.php:279
+msgid "NOVEMBER 1, 2018"
+msgstr ""
+
+#: admin/settings.php:280 admin/settings.php:303
+msgid "Hello world!"
+msgstr ""
+
+#: admin/settings.php:291 includes/functions.php:264
+msgid "Listen"
+msgstr ""
+
+#: admin/settings.php:293
+msgid ""
+"Welcome to WordPress. This is your first post. Edit or delete it, then "
+"start writing!"
+msgstr ""
+
+#: admin/settings.php:302
+msgid "NOVEMBER 1, 2019"
+msgstr ""
+
+#: admin/settings.php:306
+msgid "Listen . 02:34"
+msgstr ""
+
+#: admin/settings.php:308
+msgid "Welcome to Play. This is your first post. start writing!"
+msgstr ""
+
+#: admin/settings.php:323
+msgid "Button Only"
+msgstr ""
+
+#: admin/settings.php:324
+msgid "Full Player"
+msgstr ""
+
+#: includes/class-ajax-handler.php:43 includes/class-ajax-handler.php:60
+msgid "Error, Please provide a valid data"
+msgstr ""
+
+#: includes/class-requests.php:79 includes/classes/Play_Requests.php:220
+msgid "Your request is being processed."
+msgstr ""
+
+#: includes/class-requests.php:200 includes/classes/Play_Requests.php:132
+msgid "Your article is sent in order to be converted."
+msgstr ""
+
+#: includes/classes/Play_Admin_notice.php:28
+msgid "The Article is sent successfully, it's being converted."
+msgstr ""
+
+#: includes/functions.php:26
+msgid ""
+"You must login first to be able to use play.ht to add audio to your "
+"articles."
+msgstr ""
+
+#: includes/functions.php:33
+msgid "Your subscription is over, you need to renew your subscription."
+msgstr ""
+
+#: includes/functions.php:258 views/back-end/metabox_content.php:106
+msgid "Edit Draft"
+msgstr ""
+
+#: includes/functions.php:258 views/back-end/metabox_content.php:113
+msgid "Delete Draft"
+msgstr ""
+
+#: includes/functions.php:260
+#: includes/integration/elementor/class-playht-widget.php:179
+#: views/back-end/metabox_content.php:41
+msgid "Add Audio"
+msgstr ""
+
+#: includes/functions.php:265 views/back-end/metabox_content.php:89
+msgid "Edit Audio"
+msgstr ""
+
+#: includes/functions.php:265
+msgid "Delete Audio"
+msgstr ""
+
+#: includes/integration/elementor/class-playht-widget.php:39
+msgid "Player"
+msgstr ""
+
+#: includes/integration/elementor/class-playht-widget.php:48
+#: includes/integration/elementor/class-playht-widget.php:162
+msgid "This post has no audio."
+msgstr ""
+
+#: includes/integration/elementor/class-playht-widget.php:60
+msgid "Player settings"
+msgstr ""
+
+#: includes/integration/elementor/class-playht-widget.php:63
+msgid "Default"
+msgstr ""
+
+#: includes/integration/elementor/class-playht-widget.php:64
+msgid "Custom"
+msgstr ""
+
+#: includes/integration/elementor/class-playht-widget.php:73
+msgid "Width"
+msgstr ""
+
+#: includes/integration/elementor/class-playht-widget.php:104
+msgid "Title"
+msgstr ""
+
+#: includes/integration/elementor/class-playht-widget.php:106
+#: includes/shortcodes.php:13
+msgid "Audio"
+msgstr ""
+
+#: includes/integration/elementor/class-playht-widget.php:116
+msgid "Message"
+msgstr ""
+
+#: includes/integration/elementor/class-playht-widget.php:118
+#: includes/shortcodes.php:14
+msgid "Hello"
+msgstr ""
+
+#: includes/integration/elementor/class-playht-widget.php:128
+msgid "Alignment"
+msgstr ""
+
+#: includes/integration/elementor/class-playht-widget.php:132
+msgid "Left"
+msgstr ""
+
+#: includes/integration/elementor/class-playht-widget.php:136
+msgid "Center"
+msgstr ""
+
+#: includes/integration/elementor/class-playht-widget.php:140
+msgid "Right"
+msgstr ""
+
+#: includes/integration/elementor/class-playht-widget.php:176
+msgid "This post has no audio. Please add an audio from post list."
+msgstr ""
+
+#: includes/shortcodes.php:15
+msgid "Download"
+msgstr ""
+
+#: init.php:103
+msgid ""
+"Template <code>%1$s</code> File not found, calculated path: "
+"<code>%2$s</code>"
+msgstr ""
+
+#: views/back-end/crisp_chat.php:1
+msgid "Contact us"
+msgstr ""
+
+#: views/back-end/main_view_subscribed.php:14
+msgid "Account"
+msgstr ""
+
+#: views/back-end/main_view_subscribed.php:15
+msgid "Audio Analytics"
+msgstr ""
+
+#: views/back-end/main_view_subscribed.php:16
+msgid "Words"
+msgstr ""
+
+#: views/back-end/main_view_subscribed.php:17
+msgid "Audio Players"
+msgstr ""
+
+#: views/back-end/main_view_subscribed.php:18
+msgid "Audio Subscribers"
+msgstr ""
+
+#: views/back-end/main_view_subscribed.php:19
+msgid "Settings"
+msgstr ""
+
+#: views/back-end/main_view_subscribed.php:20
+msgid "Help"
+msgstr ""
+
+#: views/back-end/main_view_subscribed.php:21
+msgid "See How to add audio to your articles"
+msgstr ""
+
+#: views/back-end/main_view_subscribed.php:28
+msgid "Words remaining"
+msgstr ""
+
+#: views/back-end/main_view_subscribed.php:31
+msgid "Buy Words"
+msgstr ""
+
+#: views/back-end/main_view_subscribed.php:35
+msgid "Words usage"
+msgstr ""
+
+#: views/back-end/main_view_subscribed.php:36
+msgid "Article Title"
+msgstr ""
+
+#: views/back-end/main_view_subscribed.php:36
+msgid "Voice"
+msgstr ""
+
+#: views/back-end/main_view_subscribed.php:37
+#: views/back-end/main_view_subscribed.php:41
+#: views/back-end/main_view_subscribed.php:98
+msgid "Loading..."
+msgstr ""
+
+#: views/back-end/main_view_subscribed.php:45
+msgid "Article:"
+msgstr ""
+
+#: views/back-end/main_view_subscribed.php:46
+msgid "Showing analytics for all posts"
+msgstr ""
+
+#: views/back-end/main_view_subscribed.php:52
+msgid "Period:"
+msgstr ""
+
+#: views/back-end/main_view_subscribed.php:53
+msgid "Select starting date"
+msgstr ""
+
+#: views/back-end/main_view_subscribed.php:54
+msgid "Select end date"
+msgstr ""
+
+#: views/back-end/main_view_subscribed.php:86
+msgid "Facing an issue? Please let us know in the chat."
+msgstr ""
+
+#: views/back-end/metabox_content.php:35
+msgid ""
+"Please add content to the post and save it as a draft or publish and "
+"refresh this pagebefore adding an audio."
+msgstr ""
+
+#: views/back-end/metabox_content.php:45
+msgid "Use the Add Audio button to create and embed an audio version of the post."
+msgstr ""
+
+#: views/back-end/metabox_content.php:54
+msgid "Voice: "
+msgstr ""
+
+#: views/back-end/metabox_content.php:57
+msgid "Total listens:"
+msgstr ""
+
+#: views/back-end/metabox_content.php:60
+msgid "Total listening time: "
+msgstr ""
+
+#: views/back-end/metabox_content.php:60
+msgid " minutes"
+msgstr ""
+
+#: views/back-end/metabox_content.php:64
+msgid "Shortcodes"
+msgstr ""
+
+#: views/back-end/metabox_content.php:73
+msgid ""
+"Paste the Shortcode in the editor where you want to display the audio "
+"player. It will overrides the default article player."
+msgstr ""
+
+#: views/back-end/metabox_content.php:82
+msgid "Listen / Download as MP3"
+msgstr ""
+
+#: views/back-end/metabox_content.php:96
+msgid "Delete audio from this post"
+msgstr ""
+
+#: views/back-end/metabox_content.php:120
+msgid "Facing issues? "
+msgstr ""
+
+#: views/back-end/metabox_content.php:120
+msgid "Please send us an email at "
+msgstr ""
+
+#: views/back-end/metabox_content.php:120
+msgid "explaining the problem with screenshots if possible."
+msgstr ""
+
+#: views/back-end/play_main_view.php:6
+msgid "Hello and welcome!"
+msgstr ""
+
+#: views/back-end/play_main_view.php:7
+msgid "Thank you for installing the Play.ht WordPress Plugin."
+msgstr ""
+
+#: views/back-end/play_main_view.php:8
+msgid "Get Started"
+msgstr ""
+
+#: views/back-end/play_main_view.php:9
+msgid ""
+"Please click the above button to Sign In and start converting your posts to "
+"audio."
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Play.ht for WordPress is an essential tool for converting your blog posts, "
+"pages and e-learning material to audio to increase content accessibility, "
+"user engagement and time on page metrics."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid ""
+"https://play.ht/wordpress/?utm_source=wordpress&utm_medium=plugin&utm_"
+"campaign=plugin-page"
+msgstr ""

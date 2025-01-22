@@ -1,0 +1,12 @@
+.hidden{
+	display: none !important;
+}
+
+.myModal12345 table th{
+	width: 33.33%;
+	max-width: 30%;
+}
+
+.w-100{
+	width: 100% !important;
+}

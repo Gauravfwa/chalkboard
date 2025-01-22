@@ -1,0 +1,1 @@
+!function(p,a,o){a(function(){var p={userId:wppp_blog.user_id,appId:wppp_blog.app_id,origin:wppp_blog.blog};a.ajax({type:"POST",url:wppp_blog.ajax_url,contentType:"application/json; charset=utf-8",dataType:"json",data:JSON.stringify(p)})})}(window,jQuery);

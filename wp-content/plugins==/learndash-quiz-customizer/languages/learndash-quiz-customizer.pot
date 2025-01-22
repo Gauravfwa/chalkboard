@@ -1,0 +1,970 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-05-04 15:57-0600\n"
+"PO-Revision-Date: 2020-05-04 15:11-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n;_nx;_n_noop;_nx_noop;"
+"translate_nooped_plural;esc_html__;esc_html_e;esc_html_x;esc_attr__;"
+"esc_attr_e;esc_attr_x;number_format_i18n;date_i18n\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: LQC_Quiz_Customizer_Plugin_Updater.php:228
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: LQC_Quiz_Customizer_Plugin_Updater.php:236
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: LQC_Quiz_Customizer_Plugin_Updater.php:474
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: LQC_Quiz_Customizer_Plugin_Updater.php:474
+msgid "Error"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:45
+msgid ""
+"These styles only apply to LearnDash quiz pages. Use the preview window to "
+"visit a page that contains a LearnDash quiz."
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:51
+msgid "Text: Buttons"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:58
+msgid "Text: Labels"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:65
+msgid "Text: Messages"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:72
+msgid "Design: Global"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:79
+msgid "Design: Colors"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:86
+msgid "Design: Buttons"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:93
+#, php-format
+msgid "%s Style"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:100
+msgid "Review Box"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:107
+msgid "Timer"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:114
+msgid "Sticky Elements"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:115
+msgid ""
+"<b>Experimental:</b> These options should work, but may not look great on "
+"all themes & setups."
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:156
+#: inc/customizer/class-learndash-quiz-customizer.php:158
+#: templates/legacy/learndash_quiz_messages.php:116
+#, php-format
+msgid "Start %s"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:175
+#: inc/customizer/class-learndash-quiz-customizer.php:177
+#: templates/legacy/learndash_quiz_messages.php:135
+#, php-format
+msgid "Finish %s"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:194
+#: inc/customizer/class-learndash-quiz-customizer.php:196
+#: templates/legacy/learndash_quiz_messages.php:154
+#, php-format
+msgid "Restart %s"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:213
+#: inc/customizer/class-learndash-quiz-customizer.php:215
+#: templates/legacy/learndash_quiz_messages.php:171
+msgid "Next"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:232
+#: inc/customizer/class-learndash-quiz-customizer.php:234
+#: templates/legacy/learndash_quiz_messages.php:188
+msgid "Back"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:251
+#: inc/customizer/class-learndash-quiz-customizer.php:253
+#: templates/legacy/learndash_quiz_messages.php:205
+msgid "Check"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:270
+#: inc/customizer/class-learndash-quiz-customizer.php:272
+#: inc/customizer/class-learndash-quiz-customizer.php:579
+#: templates/legacy/learndash_quiz_messages.php:222
+msgid "Hint"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:289
+#: inc/customizer/class-learndash-quiz-customizer.php:291
+#: templates/legacy/learndash_quiz_messages.php:241
+#, php-format
+msgid "Skip %s"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:308
+#: inc/customizer/class-learndash-quiz-customizer.php:310
+#: templates/legacy/learndash_quiz_messages.php:260
+#, php-format
+msgid "Review %s"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:327
+#: inc/customizer/class-learndash-quiz-customizer.php:329
+#: inc/customizer/class-learndash-quiz-customizer.php:507
+#: inc/customizer/class-learndash-quiz-customizer.php:509
+#: templates/legacy/learndash_quiz_messages.php:279
+#: templates/legacy/learndash_quiz_messages.php:483
+#, php-format
+msgid "%s Summary"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:346
+#: inc/customizer/class-learndash-quiz-customizer.php:348
+#: templates/legacy/learndash_quiz_messages.php:298
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:365
+#: inc/customizer/class-learndash-quiz-customizer.php:367
+#: templates/legacy/learndash_quiz_messages.php:317
+#, php-format
+msgid "View %s Statistics"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:384
+#: inc/customizer/class-learndash-quiz-customizer.php:386
+#: templates/legacy/learndash_quiz_messages.php:331
+msgid "Show Leaderboard"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:403
+msgid "Print Certificate"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:405
+#: templates/legacy/learndash_quiz_messages.php:347
+msgid "Print Your Certificate"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:437
+#: inc/customizer/class-learndash-quiz-customizer.php:439
+msgid "1 Point(s)"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:440
+msgid "Points: 1"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:441
+msgid "Points = 1"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:458
+#: inc/customizer/class-learndash-quiz-customizer.php:460
+#, php-format
+msgid "%s 1 of 5"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:461
+#, php-format
+msgid "%s 1 / 5"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:462
+#, php-format
+msgid "%s 1/5"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:463
+msgid "1 of 5"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:464
+msgid "1 / 5"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:465
+msgid "1/5"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:482
+#: inc/customizer/class-learndash-quiz-customizer.php:484
+#, php-format
+msgid "1. %s"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:485
+#, php-format
+msgid "1) %s"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:486
+#, php-format
+msgid "1: %s"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:487
+#, php-format
+msgid "1 - %s"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:488
+#, php-format
+msgid "%s 1"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:489
+#, php-format
+msgid "%s #1"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:491
+msgid "1"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:525
+#: inc/customizer/class-learndash-quiz-customizer.php:527
+#: templates/legacy/learndash_quiz_messages.php:512
+msgid "Answered"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:543
+#: inc/customizer/class-learndash-quiz-customizer.php:545
+#: templates/legacy/learndash_quiz_messages.php:532
+msgid "Review"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:561
+#, php-format
+msgid "Sort Elements Header (Matrix %s)"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:563
+msgid "(hidden)"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:594
+#: inc/customizer/class-learndash-quiz-customizer.php:596
+#: templates/legacy/learndash_quiz_messages.php:587
+msgid "Correct"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:612
+#: inc/customizer/class-learndash-quiz-customizer.php:614
+#: templates/legacy/learndash_quiz_messages.php:605
+msgid "Incorrect"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:630
+#: inc/customizer/class-learndash-quiz-customizer.php:632
+#: templates/legacy/learndash_quiz_messages.php:630
+msgid "Average Score"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:648
+#: inc/customizer/class-learndash-quiz-customizer.php:650
+#: templates/legacy/learndash_quiz_messages.php:648
+msgid "Your Score"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:666
+#: inc/customizer/class-learndash-quiz-customizer.php:668
+#: templates/legacy/learndash_quiz_messages.php:666
+msgid "Your Time:"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:685
+#: inc/customizer/class-learndash-quiz-customizer.php:687
+msgid "Earned Points: 1 of 5 (20%)"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:688
+msgid "Earned Points: 1 of 5"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:689
+msgid "Points Earned: 1 of 5 (20%)"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:690
+msgid "Points Earned: 1 of 5"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:691
+msgid "Score: 1 of 5 (20%)"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:692
+msgid "Grade: 20%"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:709
+msgid "Essay(s) Pending: (Possible Points)"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:711
+msgid "2 Essays Pending (Possible Points: 10)"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:712
+msgid "2 Essays Pending (10 Possible Points)"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:713
+msgid "2 Essays Pending"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:714
+msgid "Essays Pending: 2"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:715
+msgid "Essays Pending: 2, Possible Points: 10"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:716
+msgid "10 points awaiting a grade."
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:732
+#: inc/customizer/class-learndash-quiz-customizer.php:734
+#: templates/legacy/learndash_quiz_messages.php:793
+msgid "Category:"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:750
+#: inc/customizer/class-learndash-quiz-customizer.php:752
+#: templates/legacy/learndash_quiz_messages.php:811
+msgid "Not Categorized"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:768
+#: inc/customizer/class-learndash-quiz-customizer.php:770
+#: templates/legacy/learndash_quiz_messages.php:830
+msgid "Categories"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:800
+#, php-format
+msgid "%s Locked"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:803
+#: templates/legacy/learndash_quiz_messages.php:869
+#, php-format
+msgid "You have already completed this %s. You cannot start it again."
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:819
+msgid "Registered Users Only"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:822
+#: templates/legacy/learndash_quiz_messages.php:887
+#, php-format
+msgid "You must sign in or sign up to take this %s."
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:838
+msgid "Prerequisite Required"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:841
+#: templates/legacy/learndash_quiz_messages.php:906
+msgid "You must first complete the following:"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:857
+#, php-format
+msgid "%s Complete"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:860
+#: templates/legacy/learndash_quiz_messages.php:926
+#, php-format
+msgid "%s complete. Results are being recorded."
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:876
+msgid "Time Elapsed"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:879
+#: templates/legacy/learndash_quiz_messages.php:945
+msgid "Time has elapsed."
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:895
+msgid "Leaderboard: Intro Message"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:898
+#: templates/legacy/learndash_quiz_messages.php:972
+msgid "Would you like to add your score to the leaderboard?"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:914
+msgid "Essay: Upload Your Answer"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:917
+#: templates/legacy/learndash_quiz_messages.php:992
+#, php-format
+msgid "Upload your answer to this %s."
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:933
+msgid "Essay: Graded, Full Points Awarded"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:936
+#: templates/legacy/learndash_quiz_messages.php:1010
+msgid ""
+"Your response will be awarded full points automatically, but it can be "
+"reviewed and adjusted after submission."
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:952
+msgid "Essay: Not Graded, Full Points Awarded"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:955
+#: templates/legacy/learndash_quiz_messages.php:1028
+msgid ""
+"Your response will be awarded full points automatically, but it will be "
+"reviewed and possibly adjusted after submission."
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:971
+msgid "Essay: Not Graded, No Points Awarded"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:974
+#: templates/legacy/learndash_quiz_messages.php:1046
+msgid "Your response will be reviewed and graded after submission."
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:990
+msgid "Essay: Graded, Review"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:993
+#: templates/legacy/learndash_quiz_messages.php:1064
+msgid "Your grade may be reviewed and adjusted."
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1009
+msgid "Essay: Textarea Placeholder"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1012
+#: templates/legacy/learndash_quiz_messages.php:1083
+msgid "Type your response here."
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1028
+msgid "Certificate Pending"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1031
+#, php-format
+msgid "Certificate Pending: Some %s still need to be graded."
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1061
+msgid "Global Border Radius"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1067
+#: inc/customizer/class-learndash-quiz-customizer.php:1206
+#: inc/customizer/class-learndash-quiz-customizer.php:1444
+#: inc/customizer/class-learndash-quiz-customizer.php:1574
+#: inc/customizer/class-learndash-quiz-customizer.php:1629
+#: inc/customizer/class-learndash-quiz-customizer.php:1740
+msgid "Value is in pixels (px)."
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1095
+msgid "Primary Color (Dark)"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1096
+msgid "Mainly used when selecting answers. <br />Default #00a2e8"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1110
+msgid "Primary Color (Light)"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1111
+msgid "Should be a subtle, much lighter version of the above. Default #e0f5fe"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1125
+msgid "Correct Color (Dark)"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1126
+msgid "Mainly used for correct answers. <br />Default #019e7c"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1140
+msgid "Correct Color (Light)"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1141
+msgid "Should be a subtle, much lighter version of the above. Default #c8e6c9"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1155
+msgid "Incorrect Color (Dark)"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1156
+msgid "Mainly used for incorrect answers. <br />Default #c62828"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1170
+msgid "Incorrect Color (Light)"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1171
+msgid "Should be a subtle, much lighter version of the above. Default #ffcdd2"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1200
+msgid "Button Border Radius"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1220
+msgid "Primary Button: Background"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1234
+msgid "Primary Button: Text"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1248
+msgid "Primary Button: Hover: Background"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1262
+msgid "Primary Button: Hover: Text"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1276
+msgid "Secondary Button: Background"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1290
+msgid "Secondary Button: Text"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1304
+msgid "Secondary Button: Hover: Background"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1318
+msgid "Secondary Button: Hover: Text"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1348
+msgid "Single Choice"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1350
+#: inc/customizer/class-learndash-quiz-customizer.php:1371
+msgid "Stacked (default)"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1351
+#: inc/customizer/class-learndash-quiz-customizer.php:1372
+msgid "Inline"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1353
+#: inc/customizer/class-learndash-quiz-customizer.php:1374
+msgid "<b>Inline</b> works on screens 600px wide & up."
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1369
+msgid "Multiple Choice"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1390
+msgid "Fill in the Blank"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1392
+msgid "Background (default)"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1393
+msgid "Underline, Solid"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1394
+msgid "Underline, Dashed"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1423
+#: inc/customizer/class-learndash-quiz-customizer.php:1538
+msgid "Container: Background"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1438
+#: inc/customizer/class-learndash-quiz-customizer.php:1568
+msgid "Container: Border Width"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1458
+#: inc/customizer/class-learndash-quiz-customizer.php:1588
+msgid "Container: Border Color"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1474
+msgid "Number Style"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1475
+msgid "Default inherits global border radius."
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1477
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1478
+msgid "Circular"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1479
+msgid "Square"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1494
+msgid "Mark Answered"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1495
+msgid "Default #6ca54c"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1509
+msgid "Mark For Review"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1510
+msgid "Default #ffb800"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1539
+msgid "Default #f0f3f6"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1553
+msgid "Container: Text"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1604
+msgid "Bar Style"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1606
+msgid "Solid"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1607
+msgid "Striped"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1623
+msgid "Bar Height"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1643
+msgid "Bar Background"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1644
+msgid "Default #ffffff"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1658
+msgid "Bar Color"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1659
+msgid "Default inherits dark primary color."
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1689
+msgid "Stick to Top"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1690
+msgid "Does not work well with Focus Mode on desktop."
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1692
+#: inc/customizer/class-learndash-quiz-customizer.php:1715
+msgid "-Disabled-"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1693
+msgid "Question X of Y"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1694
+msgid "Review Area, 1 Row"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1695
+msgid "Review Area, 2 Rows"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1712
+msgid "Stick to Bottom"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1713
+msgid "Navigation buttons work on screens below 800px."
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1716
+msgid "Navigation Buttons"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1717
+msgid "Time Limit, Full"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1718
+msgid "Time Limit, Small Bar"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1719
+msgid "Time Limit, Text Only"
+msgstr ""
+
+#: inc/customizer/class-learndash-quiz-customizer.php:1735
+msgid "Sticky: Max Width"
+msgstr ""
+
+#: learndash-quiz-customizer.php:138 learndash-quiz-customizer.php:223
+msgid "License Key"
+msgstr ""
+
+#: learndash-quiz-customizer.php:139
+msgid "Customize"
+msgstr ""
+
+#: learndash-quiz-customizer.php:209
+msgid "LearnDash Quiz Customizer - License Key"
+msgstr ""
+
+#: learndash-quiz-customizer.php:211
+msgid "Enter license key"
+msgstr ""
+
+#: learndash-quiz-customizer.php:212
+msgid "Click <b>Save Changes</b>"
+msgstr ""
+
+#: learndash-quiz-customizer.php:213
+msgid ""
+"<b>*IMPORTANT*</b> After the page reloads, you must click <b>Activate "
+"License</b> to finalize activation"
+msgstr ""
+
+#: learndash-quiz-customizer.php:227
+msgid ""
+"Your license key is in your purchase receipt email, or you can find it on "
+"your <a href=\"https://escapecreative.com/account/\">account page</a>."
+msgstr ""
+
+#: learndash-quiz-customizer.php:233 learndash-quiz-customizer.php:242
+msgid "Activate License"
+msgstr ""
+
+#: learndash-quiz-customizer.php:237
+msgid "Active"
+msgstr ""
+
+#: learndash-quiz-customizer.php:239
+msgid "Deactivate License"
+msgstr ""
+
+#: learndash-quiz-customizer.php:306 learndash-quiz-customizer.php:354
+#: learndash-quiz-customizer.php:416
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: learndash-quiz-customizer.php:320
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: learndash-quiz-customizer.php:328
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: learndash-quiz-customizer.php:333
+msgid "Invalid license."
+msgstr ""
+
+#: learndash-quiz-customizer.php:339
+msgid "Your license is not active for this site."
+msgstr ""
+
+#: learndash-quiz-customizer.php:344
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: learndash-quiz-customizer.php:349
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: templates/legacy/learndash_quiz_messages.php:367
+msgid "Points: "
+msgstr ""
+
+#: templates/legacy/learndash_quiz_messages.php:371
+msgid "Points = "
+msgstr ""
+
+#: templates/legacy/learndash_quiz_messages.php:378
+msgid "Point"
+msgstr ""
+
+#: templates/legacy/learndash_quiz_messages.php:382
+msgid "Points"
+msgstr ""
+
+#: templates/legacy/learndash_quiz_messages.php:407
+#: templates/legacy/learndash_quiz_messages.php:419
+#: templates/legacy/learndash_quiz_messages.php:681
+#: templates/legacy/learndash_quiz_messages.php:685
+#: templates/legacy/learndash_quiz_messages.php:689
+#: templates/legacy/learndash_quiz_messages.php:693
+#: templates/legacy/learndash_quiz_messages.php:701
+msgid "of"
+msgstr ""
+
+#: templates/legacy/learndash_quiz_messages.php:494
+#, php-format
+msgid "%1$s of %2$s questions completed"
+msgstr ""
+
+#: templates/legacy/learndash_quiz_messages.php:681
+#: templates/legacy/learndash_quiz_messages.php:701
+msgid "Earned Points:"
+msgstr ""
+
+#: templates/legacy/learndash_quiz_messages.php:685
+#: templates/legacy/learndash_quiz_messages.php:689
+msgid "Points Earned:"
+msgstr ""
+
+#: templates/legacy/learndash_quiz_messages.php:693
+msgid "Score:"
+msgstr ""
+
+#: templates/legacy/learndash_quiz_messages.php:697
+msgid "Grade:"
+msgstr ""
+
+#: templates/legacy/learndash_quiz_messages.php:728
+#: templates/legacy/learndash_quiz_messages.php:740
+msgid "Essay Pending"
+msgstr ""
+
+#: templates/legacy/learndash_quiz_messages.php:728
+#: templates/legacy/learndash_quiz_messages.php:732
+msgid "Possible Points"
+msgstr ""
+
+#: templates/legacy/learndash_quiz_messages.php:732
+#: templates/legacy/learndash_quiz_messages.php:744
+msgid "Essays Pending"
+msgstr ""
+
+#: templates/legacy/learndash_quiz_messages.php:750
+#: templates/legacy/learndash_quiz_messages.php:754
+msgid "Essays Pending:"
+msgstr ""
+
+#: templates/legacy/learndash_quiz_messages.php:754
+msgid "Possible Points:"
+msgstr ""
+
+#: templates/legacy/learndash_quiz_messages.php:760
+#, php-format
+msgid "%1$s points awaiting a grade."
+msgstr ""
+
+#: templates/legacy/learndash_quiz_messages.php:768
+#, php-format
+msgid "%1$s Essay Pending (Possible Points: %2$s)"
+msgstr ""
+
+#: templates/legacy/learndash_quiz_messages.php:772
+#, php-format
+msgid "%1$s Essays Pending (Possible Points: %2$s)"
+msgstr ""
+
+#: templates/legacy/learndash_quiz_messages.php:851
+#, php-format
+msgid "%1$s of %2$s questions answered correctly"
+msgstr ""
+
+#: templates/legacy/learndash_quiz_messages.php:1103
+#, php-format
+msgid "%1$sCertificate Pending:%2$s Some %3$s still need to be graded."
+msgstr ""

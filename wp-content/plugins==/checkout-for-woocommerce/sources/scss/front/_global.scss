@@ -1,0 +1,185 @@
+// Reset
+@import "~normalize.css/normalize.css";
+
+/**
+ * Resets to reduce conflicts when loading templates in theme
+ */
+.checkoutwc {
+  font-size: 16px;
+  line-height: 1.15;
+
+  table {
+    margin: 0;
+    border: none;
+
+    tr, th, td, tbody {
+      border: none;
+    }
+  }
+
+  .wc_payment_method input.input-radio[name=payment_method] {
+    display: block;
+  }
+
+  ul, li {
+    margin: 0;
+    padding: 0;
+  }
+
+  input[type="button"] {
+    font-size: 1em;
+    text-transform: none;
+  }
+
+  label {
+    margin: 0;
+  }
+
+  section {
+    padding: 0;
+  }
+}
+
+// Variables
+@import "variables";
+
+// CheckoutWC Document Defaults
+@import "components/document";
+
+// Bootstrap 4.0 Grid
+@import "~bootstrap-4-grid/scss/grid";
+
+// CheckoutWC Grid Modifications
+@import "components/grid";
+
+// Global Components
+@import "components/header";
+@import "components/footer";
+@import "components/breadcrumbs";
+@import "components/accordion";
+@import "components/alerts";
+@import "components/field-validation";
+@import "components/form-fields";
+@import "components/buttons";
+@import "components/modules";
+@import "components/tabs";
+@import "components/tooltip-labels";
+
+// Compatibility Classes
+@import "compatibility/elementor-pro";
+@import "compatibility/woocommerce";
+
+// WooCommerce Core Fonts
+/**
+ * _fonts.scss
+ * Custom WooCommerce fonts.
+ */
+@font-face {
+  font-family: 'star';
+  src: url('../../fonts/star.eot');
+  src: url('../../fonts/star.eot?#iefix') format('embedded-opentype'),
+  url('../../fonts/star.woff') format('woff'),
+  url('../../fonts/star.ttf') format('truetype'),
+  url('../../fonts/star.svg#star') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'WooCommerce';
+  src: url('../../fonts/WooCommerce.eot');
+  src: url('../../fonts/WooCommerce.eot?#iefix') format('embedded-opentype'),
+  url('../../fonts/WooCommerce.woff') format('woff'),
+  url('../../fonts/WooCommerce.ttf') format('truetype'),
+  url('../../fonts/WooCommerce.svg#WooCommerce') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.cfw-small {
+  font-size: 0.875em;
+}
+
+main.checkoutwc .cfw-padding-top {
+    margin-top: 1em;
+}
+
+main.checkoutwc .cfw-light-gray {
+    color: #737373;
+}
+
+.cfw-xtra-small {
+  font-size: 0.75em;
+}
+
+.cfw-hidden {
+    display: none;
+}
+
+.cfw-force-hidden {
+  display: none !important;
+}
+
+.cfw-no-border {
+    border: none !important;
+}
+
+main.checkoutwc .cfw-rp {
+  padding-right: 20px;
+
+  @include media-breakpoint-down(md) {
+    padding: 0 20px;
+  }
+}
+
+/**
+ * Show / Hide Shipping Toggle
+ *
+ * Controlled by cfw-hide-shipping body class
+ */
+#cfw-customer-info .cfw-continue-to-payment-btn {
+    display: none !important;
+}
+
+#cfw-payment-method .cfw-return-to-information-btn {
+    display: none !important;
+}
+
+.cfw-hide-shipping {
+    #cfw-breadcrumb li.shipping-tab,
+    #cfw-shipping-method,
+    #cfw-payment-method-address-review li.shipping-method,
+    .cfw-continue-to-shipping-btn,
+    .cfw-return-to-shipping-btn {
+        display: none !important;
+        opacity: 0;
+    }
+
+    #cfw-customer-info .cfw-continue-to-payment-btn {
+        display: block !important;
+    }
+
+    #cfw-payment-method .cfw-return-to-information-btn {
+        display: block !important;
+    }
+}
+
+/**
+ * One Page Checkout
+ */
+.cfw-one-page-checkout .cfw-panel {
+    opacity: 1 !important;
+    display: block !important;
+}
+
+.cfw-display-table {
+    display: table;
+}
+
+.cfw-display-table-row {
+    display: table-row;
+}
+
+.cfw-display-table-cell {
+    display: table-cell;
+}

@@ -1,0 +1,10 @@
+*** Woocommerce Google Merchant Center Customer Reviews Changelog ***
+2019.10.06 - version 1.0.1
+ * Added compatibility for WooCommerce 3.7 and PHP 7.3
+ * Added plugin action links
+ * Minor improvements
+
+2018.03.15 - version 1.0
+ * First release
+
+

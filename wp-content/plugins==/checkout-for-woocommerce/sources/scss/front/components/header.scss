@@ -1,0 +1,44 @@
+#cfw-header {
+  background: $header-bg;
+  position: relative;
+
+  @include media-breakpoint-down(md) {
+    margin-top: 0;
+  }
+}
+
+.cfw-logo {
+  padding: 1em 0;
+
+  .logo {
+    background: $main-bg;
+    width: 100%;
+    max-width: 67%;
+    display: inline-block;
+    height: 4em;
+    position: relative;
+    text-decoration: none;
+  }
+}
+
+@include media-breakpoint-down(md) {
+  .cfw-logo {
+    padding: 0;
+
+    .logo {
+      text-align: center;
+      margin: 1em auto;
+      display: block;
+    }
+  }
+
+  #cfw-logo-container {
+    text-align: center;
+  }
+
+  .checkout-wc .cfw-logo {
+    .logo {
+      background-position: center center;
+    }
+  }
+}

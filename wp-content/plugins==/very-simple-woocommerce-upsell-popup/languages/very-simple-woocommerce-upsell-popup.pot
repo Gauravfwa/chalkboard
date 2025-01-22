@@ -1,0 +1,781 @@
+# Woocommerce Upsell Popup
+# Copyright (C) 2020 10Horizons Plugins
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"Woocommerce Upsell Popup "
+"v1.7.2\n"
+"POT-Creation-Date: "
+"2021-06-03 13:55+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: "
+"10Horizons "
+"<contact@10horizonsplugins."
+"com>\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: "
+"templates\n"
+"X-Poedit-SearchPath-2: "
+"js\n"
+
+#: index.php:65
+msgid ""
+"Woocommerce Upsell Popup "
+"requires Woocommerce in "
+"order for it to work "
+"properly!"
+msgstr ""
+
+#: index.php:75
+msgid ""
+"Woocommerce Upsell Popup "
+"requires Woocommerce to "
+"be active. Please "
+"install and activate "
+"Woocommerce before "
+"trying to activate this "
+"plugin again."
+msgstr ""
+
+#: index.php:96
+#, php-format
+msgid ""
+"The latest version of "
+"Woocommerce Upsell Popup "
+"is only compatible with "
+"Woocommerce Upsell Popup "
+"PRO version 1.1.2 or "
+"later. Please upgrade "
+"PRO to latest version!"
+"<br /><br /> Login to <a "
+"href=\"%s\" target="
+"\"_blank\" rel="
+"\"noopener noreferrer"
+"\">your account</a>  to "
+"download the latest "
+"version of Woocommerce "
+"Upsell Popup PRO."
+msgstr ""
+
+#: index.php:116
+#, php-format
+msgid ""
+"There is a new update "
+"available for "
+"Woocommerce Upsell Popup "
+"Pro. Please login to <a "
+"href=\"%s\" target="
+"\"_blank\" rel="
+"\"noopener noreferrer"
+"\">your account</a>  to "
+"download the latest "
+"version."
+msgstr ""
+
+#: index.php:128
+msgid "Settings"
+msgstr ""
+
+#: index.php:145
+#: index.php:169
+msgid "Added to Cart!"
+msgstr ""
+
+#: index.php:146
+#: index.php:154
+#: index.php:170
+#: index.php:186
+msgid ""
+"Please choose one option!"
+msgstr ""
+
+#: index.php:236
+msgid ""
+"Search for product name.."
+msgstr ""
+
+#: index.php:237
+msgid "Choose template.."
+msgstr ""
+
+#: index.php:238
+msgid "Choose behavior.."
+msgstr ""
+
+#: templates/single/thp-popup-template-default.php:216
+#: templates/single/thp-popup-template6.php:216
+#: templates/single/thp-popup-template7.php:205
+msgid ""
+"The item has been added "
+"to cart. Thank you!"
+msgstr ""
+
+#: templates/single/thp-popup-template-default.php:304
+#: templates/single/thp-popup-template6.php:221
+msgid ""
+"Add the following item "
+"to cart too?"
+msgstr ""
+
+#: templates/single/thp-popup-template-default.php:334
+#: templates/single/thp-popup-template6.php:342
+#: templates/single/thp-popup-template7.php:325
+#, php-format
+msgid ""
+"<a href=\"%1$s\" target="
+"\"_blank\" rel="
+"\"noopener noreferrer"
+"\"><span>%2$s</span></a>"
+msgstr ""
+
+#: templates/single/thp-popup-template-default.php:257
+#: templates/single/thp-popup-template6.php:257
+msgid "Choose option"
+msgstr ""
+
+#: templates/single/thp-popup-template-default.php:423
+#: templates/single/thp-popup-template1.php:290
+#: templates/single/thp-popup-template2.php:334
+#: templates/single/thp-popup-template4.php:229
+#: templates/single/thp-popup-template6.php:431
+#: templates/single/thp-popup-template7.php:336
+#: wup-metabox.php:283
+msgid "Yes"
+msgstr ""
+
+#: templates/single/thp-popup-template-default.php:284
+#: templates/single/thp-popup-template6.php:293
+#: templates/single/thp-popup-template7.php:282
+msgid "The item has been added to cart. Thank you!"
+msgstr ""
+
+#: templates/single/thp-popup-template6.php:312
+msgid "Add the following item to cart too?"
+msgstr ""
+
+#: templates/single/thp-popup-template-default.php:424
+#: templates/single/thp-popup-template1.php:291
+#: templates/single/thp-popup-template2.php:335
+#: templates/single/thp-popup-template4.php:231
+#: templates/single/thp-popup-template6.php:432
+#: templates/single/thp-popup-template7.php:338
+msgid "No"
+msgstr ""
+
+#: templates/single/thp-popup-template1.php:237
+msgid ""
+"Before we send you to "
+"your cart..."
+msgstr ""
+
+#: templates/single/thp-popup-template1.php:242
+#: templates/single/thp-popup-template4.php:180
+msgid ""
+"Thank you! The product "
+"has been added to cart."
+msgstr ""
+
+#: templates/single/thp-popup-template1.php:250
+#: templates/single/thp-popup-template4.php:188
+#, php-format
+msgid ""
+"Would you also be "
+"interested in <a href="
+"\"%1$s\"><span>%2$s</"
+"span></a>?"
+msgstr ""
+
+#: templates/single/thp-popup-template2.php:287
+msgid "Oh, Before That..."
+msgstr ""
+
+#: templates/single/thp-popup-template2.php:294
+#, php-format
+msgid ""
+"The product has been "
+"added to cart. Would you "
+"also be interested in <a "
+"href=\"%1$s\"><span>"
+"%2$s</span></a>?"
+msgstr ""
+
+#: templates/single/thp-popup-template3.php:297
+msgid "Wait!"
+msgstr ""
+
+#: templates/single/thp-popup-template3.php:318
+#, php-format
+msgid ""
+"The product has been "
+"added to cart. Would you "
+"be interested in <a href="
+"\"%1$s\"><span>%2$s</"
+"span></a> too?"
+msgstr ""
+
+#: templates/single/thp-popup-template3.php:335
+msgid "Yes!"
+msgstr ""
+
+#: templates/single/thp-popup-template3.php:337
+msgid "No, sorry."
+msgstr ""
+
+#: templates/single/thp-popup-template7.php:301
+msgid ""
+"Would you also be "
+"interested in this item?"
+msgstr ""
+
+#: wup-metabox.php:47
+#: wup-metabox.php:67
+msgid ""
+"Upsell Popup "
+"Configuration"
+msgstr ""
+
+#: wup-metabox.php:279
+msgid ""
+"Enable upsell on this "
+"product? :"
+msgstr ""
+
+#: wup-metabox.php:291
+msgid ""
+"Which product to "
+"upsell? :"
+msgstr ""
+
+#: wup-metabox.php:319
+#, php-format
+msgid ""
+"Upselling multiple "
+"products? <a href=\"%s"
+"\">Upgrade to PRO</a>!"
+msgstr ""
+
+#: wup-metabox.php:333
+msgid ""
+"Redirection behavior "
+"after upsell product is "
+"added to cart:"
+msgstr ""
+
+#: wup-metabox.php:351
+#: wup-metabox.php:367
+#: wup-metabox.php:399
+#: wup-metabox.php:415
+msgid "Stay on page"
+msgstr ""
+
+#: wup-metabox.php:355
+#: wup-metabox.php:369
+#: wup-metabox.php:403
+#: wup-metabox.php:417
+msgid "Redirect to cart"
+msgstr ""
+
+#: wup-metabox.php:359
+#: wup-metabox.php:371
+#: wup-metabox.php:407
+#: wup-metabox.php:419
+msgid ""
+"Redirect to checkout"
+msgstr ""
+
+#: wup-metabox.php:381
+msgid ""
+"Redirection behavior if "
+"the NO button is clicked:"
+msgstr ""
+
+#: wup-metabox.php:429
+msgid "Popup template :"
+msgstr ""
+
+#: wup-metabox.php:447
+#: wup-metabox.php:477
+msgid "Template - Default"
+msgstr ""
+
+#: wup-metabox.php:451
+#: wup-metabox.php:479
+msgid "Template - Basic"
+msgstr ""
+
+#: wup-metabox.php:455
+#: wup-metabox.php:481
+msgid "Template - Colorful"
+msgstr ""
+
+#: wup-metabox.php:459
+#: wup-metabox.php:483
+msgid ""
+"Template - Dark on Light"
+msgstr ""
+
+#: wup-metabox.php:463
+#: wup-metabox.php:485
+msgid "Template - No CSS"
+msgstr ""
+
+#: wup-metabox.php:467
+#: wup-metabox.php:487
+msgid ""
+"Template - Variable "
+"Upsell"
+msgstr ""
+
+#: wup-metabox.php:471
+msgid ""
+"Please upgrade to PRO"
+msgstr ""
+
+#: wup-metabox.php:491
+msgid ""
+"Custom Template (PRO "
+"only)"
+msgstr ""
+
+#: wup-metabox.php:503
+#, php-format
+msgid ""
+"Create your own popup "
+"templates, <a href=\"%s"
+"\">upgrade to PRO</a>!"
+msgstr ""
+
+#: wup-options.php:10
+#: wup-options.php:32
+msgid ""
+"Woocommerce Upsell Popup "
+"Settings"
+msgstr ""
+
+#: wup-options.php:10
+msgid "Upsell Popup"
+msgstr ""
+
+#: wup-options.php:288
+msgid "List of global upsell products ?"
+msgstr ""
+
+#: wup-options.php:333
+msgid "List of global cross-sells products ? :"
+msgstr ""
+
+#: wup-options.php:254
+msgid "Enable global setting for all products"
+msgstr ""
+
+#: wup-options.php:260
+msgid "Offer heading?"
+msgstr ""
+
+#: wup-options.php:25
+msgid ""
+"Error. Your changes "
+"might not be saved, "
+"please try again."
+msgstr ""
+
+#: wup-options.php:43
+#: wup-options.php:71
+msgid "General"
+msgstr ""
+
+#: wup-options.php:44
+msgid "PRO"
+msgstr ""
+
+#: wup-options.php:45
+msgid ""
+"Documentation &amp; "
+"Support"
+msgstr ""
+
+#: wup-options.php:73
+msgid ""
+"AJAX is enabled by "
+"default for Add To Cart "
+"buttons on single "
+"product pages. If you're "
+"having problems with "
+"AJAX or something is not "
+"working, you can turn it "
+"off below."
+msgstr ""
+
+#: wup-options.php:79
+msgid ""
+"Add To Cart Button "
+"Behavior:"
+msgstr ""
+
+#: wup-options.php:84
+msgid ""
+"Turn off AJAX on single "
+"product pages?"
+msgstr ""
+
+#: wup-options.php:96
+#, php-format
+msgid ""
+"By default, we use <a "
+"href=\"%s\" target="
+"\"_blank\" rel="
+"\"noopener noreferrer"
+"\">QuadLayers</a> AJAX "
+"add to cart script  on "
+"single product pages. If "
+"it causes issues on your "
+"site, you can switch to "
+"Woocommerce native "
+"handler below."
+msgstr ""
+
+#: wup-options.php:107
+msgid "AJAX Script to Use:"
+msgstr ""
+
+#: wup-options.php:132
+msgid "Global Color Settings"
+msgstr ""
+
+#: wup-options.php:134
+msgid "Change the color of the popup button and coupon from here."
+msgstr ""
+
+#: wup-options.php:146
+msgid "Popup Button Background Color:"
+msgstr ""
+
+#: wup-options.php:156
+msgid "Popup Button Hover Background Color:"
+msgstr ""
+
+#: wup-options.php:168
+msgid "Popup Button Text Color:"
+msgstr ""
+
+#: wup-options.php:176
+msgid "Popup Coupon Background Color:"
+msgstr ""
+
+#: wup-options.php:187
+msgid "Popup Coupon Text Color:"
+msgstr ""
+
+#: wup-options.php:194
+msgid "Popup Coupon Border Color:"
+msgstr ""
+
+#: wup-options.php:112
+msgid ""
+"Switch to Woocommerce "
+"native handler"
+msgstr ""
+
+#: wup-options.php:231
+msgid "Global Settings"
+msgstr ""
+
+#: wup-options.php:232
+msgid ""
+"If global settings are "
+"enabled, all other "
+"settings will be "
+"overridden. If both "
+"global settings and "
+"product category "
+"settings are enabled, "
+"global settings will "
+"still be prioritized."
+msgstr ""
+
+#: wup-options.php:428
+#: wup-options.php:240
+msgid "Settings Priority:"
+msgstr ""
+
+#: wup-options.php:244
+msgid ""
+"Use global settings?"
+msgstr ""
+
+#: wup-options.php:250
+msgid ""
+"Discount/Coupon Offer"
+msgstr ""
+
+#: wup-options.php:476
+msgid ""
+"Where to get upsell products from?"
+msgstr ""
+
+#: wup-options.php:376
+#: wup-options.php:461
+msgid "Popup activation:"
+msgstr ""
+
+#: wup-options.php:380
+msgid ""
+"Enable upsell & cross-sells popup on all products?"
+msgstr ""
+
+#: wup-options.php:588
+msgid ""
+"Load More"
+msgstr ""
+
+#: wup-options.php:387
+#: wup-options.php:234
+msgid ""
+"Where to get upsell "
+"products from?"
+msgstr ""
+
+#: wup-options.php:219
+#: wup-options.php:250
+#: wup-options.php:260
+#: wup-options.php:271
+#: wup-options.php:281
+#: wup-options.php:288
+#: wup-options.php:333
+#: wup-options.php:388
+#: wup-options.php:623
+msgid ""
+"Upgrade to PRO to unlock this features!"
+msgstr ""
+
+#: wup-options.php:250
+#: wup-options.php:260
+#: wup-options.php:271
+#: wup-options.php:281
+#: wup-options.php:288
+#: wup-options.php:333
+#: wup-options.php:388
+msgid "(PRO only)"
+msgstr ""
+
+#: wup-options.php:396
+#: wup-options.php:484
+msgid ""
+"Woocommerce Linked "
+"Products &gt; Upsells"
+msgstr ""
+
+#: wup-options.php:406
+#: wup-options.php:535
+msgid ""
+"Woocommerce Linked "
+"Products &gt; Cross-sells"
+msgstr ""
+
+#: wup-options.php:420
+msgid ""
+"Product Category Settings"
+msgstr ""
+
+#: wup-options.php:422
+msgid ""
+"If both global settings "
+"and product category "
+"settings are enabled, "
+"global settings will be "
+"prioritized. If a "
+"product has more than "
+"one category, priority "
+"will be given to the "
+"first category in "
+"alphabetical order (from "
+"A to Z)."
+msgstr ""
+
+#: wup-options.php:432
+msgid ""
+"Use category settings?"
+msgstr ""
+
+#: wup-options.php:467
+msgid ""
+"Enable upsell & cross-sells popups in "
+"this category?"
+msgstr ""
+
+#: wup-options.php:601
+msgid ""
+"No product categories "
+"found."
+msgstr ""
+
+#: wup-options.php:608
+msgid "Save changes"
+msgstr ""
+
+#: wup-options.php:620
+msgid "PRO Settings"
+msgstr ""
+
+#: wup-options.php:271
+msgid "Offer Coupon Code?"
+msgstr ""
+
+#: wup-options.php:631
+msgid ""
+"Something is not "
+"working? Here's what you "
+"can do."
+msgstr ""
+
+#: wup-options.php:633
+msgid ""
+"These are the tutorials "
+"on how to try to fix "
+"your issue:"
+msgstr ""
+
+#: wup-options.php:635
+msgid ""
+"Quick fix to most issues "
+"[Read First]"
+msgstr ""
+
+#: wup-options.php:636
+msgid ""
+"How to troubleshoot "
+"problem with popup not "
+"showing"
+msgstr ""
+
+#: wup-options.php:637
+msgid ""
+"How to troubleshoot "
+"problem with indefinite "
+"loading spinner on popup"
+msgstr ""
+
+#: wup-options.php:639
+msgid ""
+"Plugin Documentation"
+msgstr ""
+
+#: wup-options.php:641
+msgid ""
+"How to set up upsell "
+"products"
+msgstr ""
+
+#: wup-options.php:642
+msgid ""
+"How to edit popup "
+"template files for "
+"multiple upsell products"
+msgstr ""
+
+#: wup-options.php:643
+msgid ""
+"How to update the plugin"
+msgstr ""
+
+#: wup-options.php:644
+msgid ""
+"Action hooks and filters "
+"available to modify the "
+"plugin"
+msgstr ""
+
+#: wup-options.php:645
+msgid ""
+"See full documentation "
+"here"
+msgstr ""
+
+#: wup-options.php:281
+msgid "Default product quantity setting:"
+msgstr ""
+
+#: wup-options.php:647
+msgid "Support"
+msgstr ""
+
+#: wup-options.php:281
+msgid "Add multiple quantity option to upsell products?"
+msgstr ""
+
+#: wup-options.php:649
+msgid ""
+"Your issue isn't covered "
+"in the documentation and "
+"need help?"
+msgstr ""
+
+#: wup-options.php:651
+msgid "Contact Support"
+msgstr ""
+
+#: wup-options.php:656
+msgid ""
+"Your problem is urgent? "
+"Need faster response?"
+msgstr ""
+
+#: wup-options.php:658
+msgid ""
+"Consider our Priority "
+"Support"
+msgstr ""
+
+#: wup-options.php:684
+msgid "Saved successfully!"
+msgstr ""
+
+#: wup-options.php:689
+msgid ""
+"Error. Settings are not "
+"saved!"
+msgstr ""
+
+#: wup-options.php:696
+msgid ""
+"Sorry, nonce "
+"verification failed. "
+"Fields are not saved."
+msgstr ""

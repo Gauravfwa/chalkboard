@@ -1,0 +1,1134 @@
+#, # Copyright (C) 2018 Flycart
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: WooCommerce Email Customizer with Drag and Drop Email Builder\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Flycart\n"
+"MIME-Version: 1.0\n"
+"Language: en\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: pages/notices/html-notice-dashboard.php:13
+msgid "Dismiss"
+msgstr ""
+
+#: pages/settings/default.php:16
+msgid "Display payment instruction above order table"
+msgstr ""
+
+#: pages/settings/default.php:22 pages/settings/default.php:34
+#: pages/settings/default.php:74 pages/settings/template_options.php:98
+msgid "Yes"
+msgstr ""
+
+#: pages/settings/default.php:23 pages/settings/default.php:35
+#: pages/settings/default.php:75 pages/settings/template_options.php:99
+msgid "No"
+msgstr ""
+
+#: pages/settings/default.php:24
+msgid "Only for Customer"
+msgstr ""
+
+#: pages/settings/default.php:29
+msgid "Show product image"
+msgstr ""
+
+#: pages/settings/default.php:39
+msgid "Image size"
+msgstr ""
+
+#: pages/settings/default.php:45
+msgid "Thumbnail"
+msgstr ""
+
+#: pages/settings/default.php:46
+msgid "Full"
+msgstr ""
+
+#: pages/settings/default.php:51
+msgid "Image height"
+msgstr ""
+
+#: pages/settings/default.php:60
+msgid "Image width"
+msgstr ""
+
+#: pages/settings/default.php:69
+msgid "Show product sku"
+msgstr ""
+
+#: pages/settings/default.php:79
+msgid "Order Item table border color"
+msgstr ""
+
+#: pages/settings/default.php:90
+msgid "Container width"
+msgstr ""
+
+#: pages/settings/default.php:102
+msgid "Custom CSS"
+msgstr ""
+
+#: pages/settings/default.php:113
+msgid "Order URL"
+msgstr ""
+
+#: pages/settings/default.php:120
+msgid "Use the shortcode [woo_mb_order_id] for dynamic id"
+msgstr ""
+
+#: pages/settings/default.php:125
+msgid "Change email subject and form name"
+msgstr ""
+
+#: pages/settings/default.php:132 pages/settings/integrations.php:82
+#: pages/settings/template_options.php:111
+msgid "Save settings"
+msgstr ""
+
+#: pages/settings/integrations.php:16
+msgid "Next order coupon settings"
+msgstr ""
+
+#: pages/settings/integrations.php:30
+msgid "App id"
+msgstr ""
+
+#: pages/settings/integrations.php:41
+msgid "Connected"
+msgstr ""
+
+#: pages/settings/integrations.php:42
+msgid "Not connected"
+msgstr ""
+
+#: pages/settings/integrations.php:48
+msgid "Discount type"
+msgstr ""
+
+#: pages/settings/integrations.php:54
+msgid "Percentage"
+msgstr ""
+
+#: pages/settings/integrations.php:55
+msgid "Fixed"
+msgstr ""
+
+#: pages/settings/integrations.php:60
+msgid "Discount value"
+msgstr ""
+
+#: pages/settings/integrations.php:69
+msgid "Retainful coupon flow"
+msgstr ""
+
+#: pages/settings/integrations.php:75
+msgid "Allow any one to apply coupon"
+msgstr ""
+
+#: pages/settings/integrations.php:76
+msgid "Allow the customer to apply coupon, but validate at checkout"
+msgstr ""
+
+#: pages/settings/integrations.php:77
+msgid "Allow customer to apply coupon only after login"
+msgstr ""
+
+#: pages/settings/reset_template.php:22
+msgid "Reset all templates"
+msgstr ""
+
+#: pages/settings/reset_template.php:25 pages/settings/reset_template.php:28
+msgid "Reset all template to default"
+msgstr ""
+
+#: pages/settings/reset_template.php:31
+msgid "Reset selected template"
+msgstr ""
+
+#: pages/settings/reset_template.php:50
+msgid "Choose which email status to reset."
+msgstr ""
+
+#: pages/settings/reset_template.php:52
+msgid "Template to reset"
+msgstr ""
+
+#: pages/settings/reset_template.php:66
+msgid "Reset single template to empty"
+msgstr ""
+
+#: pages/settings/template_options.php:79
+msgid "Direction"
+msgstr ""
+
+#: pages/settings/template_options.php:84
+msgid "ltr"
+msgstr ""
+
+#: pages/settings/template_options.php:85
+msgid "rtl"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:80 pages/woo-admin-page.php:82
+msgid "Close preview"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:81 pages/woo-admin-page.php:83
+msgid "Save email"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:105 pages/woo-admin-page.php:101
+msgid "Site default language: "
+msgstr ""
+
+#: pages/woo-admin-page-3.php:108 pages/woo-admin-page.php:104
+msgid "Settings"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:109 pages/woo-admin-page.php:105
+msgid "settings"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:115
+msgid "Return back"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:116 pages/woo-admin-page-3.php:268
+#: pages/woo-admin-page.php:112 pages/woo-admin-page.php:261
+#: pages/woo-admin-settings.php:32
+msgid "arrow_back"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:120 pages/woo-admin-page.php:117
+msgid "Your default site language is "
+msgstr ""
+
+#: pages/woo-admin-page-3.php:137 pages/woo-admin-page-3.php:446
+#: pages/woo-admin-page.php:135
+msgid "Choose which email to preview or send."
+msgstr ""
+
+#: pages/woo-admin-page-3.php:139 pages/woo-admin-page-3.php:448
+#: pages/woo-admin-page.php:137
+msgid "Email to show"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:155 pages/woo-admin-page.php:155
+msgid "Choose which order to use to populate the email template preview."
+msgstr ""
+
+#: pages/woo-admin-page-3.php:158 pages/woo-admin-page.php:158
+msgid "Sample order to show"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:162 pages/woo-admin-page.php:162
+msgid "There are no orders to preview..."
+msgstr ""
+
+#: pages/woo-admin-page-3.php:181 pages/woo-admin-page.php:181
+#, php-format
+msgid "...Showing the most recent %u orders"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:185 pages/woo-admin-page.php:185
+msgid ""
+"The order you select here is just used for previewing your email design. But "
+"when WooCommerce uses this email design to send notifications to the "
+"customers, the respective order data would be used."
+msgstr ""
+
+#: pages/woo-admin-page-3.php:188 pages/woo-admin-page.php:188
+msgid "The order data is used as a sample"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:198 pages/woo-admin-page.php:198
+msgid "close"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:199 pages/woo-admin-page.php:199
+msgid "save"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:201
+msgid "Copy Template"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:202 pages/woo-admin-page-3.php:260
+#: pages/woo-admin-page.php:253
+msgid "content_copy"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:204
+msgid "Copy From"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:210 pages/woo-admin-page.php:204
+msgid "remove_red_eye"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:211 pages/woo-admin-page.php:205
+msgid "Preview"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:214 pages/woo-admin-page.php:208
+msgid "Shortcodes"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:217 pages/woo-admin-page.php:211
+msgid "email"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:218 pages/woo-admin-page.php:212
+msgid "Send test email"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:242 pages/woo-admin-page-3.php:322
+#: pages/woo-admin-page-3.php:372 pages/woo-admin-page-3.php:404
+#: pages/woo-admin-page.php:235 pages/woo-admin-page.php:315
+#: pages/woo-admin-page.php:365 pages/woo-admin-page.php:396
+msgid "Background color"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:247 pages/woo-admin-page.php:240
+msgid "open_in_new"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:259 pages/woo-admin-page.php:252
+msgid "Delete element"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:259 pages/woo-admin-page.php:252
+msgid "delete"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:260 pages/woo-admin-page.php:253
+msgid "Clone element"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:261 pages/woo-admin-page.php:254
+msgid "Move element"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:261 pages/woo-admin-page.php:254
+msgid "drag_handle"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:275 pages/woo-admin-page.php:268
+msgid "Image URL"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:275 pages/woo-admin-page.php:268
+msgid "Path of logo image Eg:https://example.com/logo.png"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:280 pages/woo-admin-page.php:273
+msgid "Text"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:285 pages/woo-admin-page-3.php:376
+#: pages/woo-admin-page.php:278 pages/woo-admin-page.php:369
+msgid "Button text"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:290 pages/woo-admin-page.php:283
+msgid "URL"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:296 pages/woo-admin-page-3.php:317
+#: pages/woo-admin-page-3.php:366 pages/woo-admin-page-3.php:393
+#: pages/woo-admin-page.php:289 pages/woo-admin-page.php:310
+#: pages/woo-admin-page.php:359 pages/woo-admin-page.php:385
+msgid "Left"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:297 pages/woo-admin-page-3.php:367
+#: pages/woo-admin-page.php:290 pages/woo-admin-page.php:360
+msgid "Center"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:298 pages/woo-admin-page-3.php:311
+#: pages/woo-admin-page-3.php:368 pages/woo-admin-page-3.php:397
+#: pages/woo-admin-page.php:291 pages/woo-admin-page.php:304
+#: pages/woo-admin-page.php:361 pages/woo-admin-page.php:389
+msgid "Right"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:308 pages/woo-admin-page-3.php:391
+#: pages/woo-admin-page.php:301 pages/woo-admin-page.php:383
+msgid "Top"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:314 pages/woo-admin-page-3.php:395
+#: pages/woo-admin-page.php:307 pages/woo-admin-page.php:387
+msgid "Bottom"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:323 pages/woo-admin-page.php:316
+msgid "Text color"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:324 pages/woo-admin-page.php:317
+msgid "Button background color"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:329 pages/woo-admin-page.php:322
+msgid "Font"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:331 pages/woo-admin-page.php:324
+msgid "Size"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:336 pages/woo-admin-page.php:329
+msgid "Color"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:340 pages/woo-admin-page.php:333
+msgid "Weight"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:346 pages/woo-admin-page.php:339
+msgid "Family"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:355 pages/woo-admin-page.php:348
+msgid "Button"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:357 pages/woo-admin-page.php:350
+msgid "Active"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:361 pages/woo-admin-page.php:354
+msgid "Full width"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:380 pages/woo-admin-page.php:373
+msgid "Link"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:415 pages/woo-admin-page.php:407
+msgid ""
+"Please choose an <strong>email</strong> and an <strong>order</strong> from "
+"list above to show."
+msgstr ""
+
+#: pages/woo-admin-page-3.php:427
+msgid "Copy Template From"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:465
+msgid "Copy template"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:477 pages/woo-admin-page.php:421
+msgid "Order Details:"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:481 pages/woo-admin-page.php:425
+msgid "To Get Items"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:485 pages/woo-admin-page.php:429
+msgid "To Get Order ID"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:489
+msgid "To Get Order number"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:493 pages/woo-admin-page.php:433
+msgid "To Get Order URL: Takes url from settings"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:497 pages/woo-admin-page.php:437
+msgid "To Get Order Sub-Total"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:501 pages/woo-admin-page.php:441
+msgid "To Get Order Total"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:505 pages/woo-admin-page.php:445
+msgid "To Get Order Fee"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:509 pages/woo-admin-page.php:449
+msgid "To Get Order Refunds"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:513 pages/woo-admin-page.php:453
+msgid "To Get Order Date"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:516 pages/woo-admin-page.php:456
+msgid "Payment:"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:520 pages/woo-admin-page-3.php:524
+#: pages/woo-admin-page.php:460 pages/woo-admin-page.php:464
+msgid "To Get Payment Method"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:528 pages/woo-admin-page.php:468
+msgid "To Get Payment URL"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:532 pages/woo-admin-page.php:472
+msgid "To Get Transaction ID"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:535 pages/woo-admin-page.php:475
+msgid "Shipping:"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:539 pages/woo-admin-page.php:479
+msgid "To Get Shipping Method"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:543 pages/woo-admin-page.php:483
+msgid "To get Shipping Total"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:547 pages/woo-admin-page.php:487
+msgid "To Get Shipping First Name"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:551 pages/woo-admin-page.php:491
+msgid "To Get Shipping Last Name"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:555 pages/woo-admin-page.php:495
+msgid "To Get Shipping Company"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:559 pages/woo-admin-page.php:499
+msgid "To Get Shipping Address"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:563 pages/woo-admin-page.php:503
+msgid "To Get Shipping Address 1"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:567 pages/woo-admin-page.php:507
+msgid "To Get Shipping Address 2"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:571 pages/woo-admin-page.php:511
+msgid "To Get Shipping City"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:575 pages/woo-admin-page.php:515
+msgid "To Get Shipping State"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:579 pages/woo-admin-page.php:519
+msgid "To Get Shipping Postal Code"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:583 pages/woo-admin-page.php:523
+msgid "To Get Shipping Country"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:586 pages/woo-admin-page.php:526
+msgid "Billing:"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:590 pages/woo-admin-page.php:530
+msgid "To Get Billing Address"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:594 pages/woo-admin-page.php:534
+msgid "To Get First Name"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:598 pages/woo-admin-page.php:538
+msgid "To Get Last Name"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:602 pages/woo-admin-page.php:542
+msgid "To Get Billing Company"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:606 pages/woo-admin-page.php:546
+msgid "To Get Billing Address 1"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:610 pages/woo-admin-page.php:550
+msgid "To Get Billing Address 2"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:614 pages/woo-admin-page.php:554
+msgid "To Get Billing City"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:618 pages/woo-admin-page.php:558
+msgid "To Get Billing State"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:622 pages/woo-admin-page.php:562
+msgid "To Get Billing PostalTo Get User's Email Code"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:626 pages/woo-admin-page.php:566
+msgid "To Get Billing Country"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:630 pages/woo-admin-page.php:570
+msgid "To Get Billing Phone"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:634 pages/woo-admin-page.php:574
+msgid "To Get Billing Email"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:637 pages/woo-admin-page.php:577
+msgid "General:"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:641 pages/woo-admin-page.php:581
+msgid "To get Site Name"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:645 pages/woo-admin-page.php:585
+msgid "To Get Site URL"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:649 pages/woo-admin-page.php:589
+msgid "To Get User Id"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:653 pages/woo-admin-page.php:593
+msgid "To Get User's Name"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:657 pages/woo-admin-page.php:597
+msgid "To Get User's Email"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:661 pages/woo-admin-page.php:601
+msgid "To Get Customer provided note"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:665 pages/woo-admin-page.php:605
+msgid "To Get Customer last note"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:669 pages/woo-admin-page.php:609
+msgid "To Get all Customer Notes"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:672
+msgid "Reset Password:"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:676
+msgid "To get reset url"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:680
+msgid "To get reset url in string for using in href"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:683
+msgid "New User:"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:687
+msgid "To get User Password"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:691
+msgid "To get activation url"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:694 pages/woo-admin-page.php:612
+msgid "Custom code:"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:698 pages/woo-admin-page.php:616
+msgid "Your custom code can be overridden by copying ["
+msgstr ""
+
+#: pages/woo-admin-page-3.php:700 pages/woo-admin-page.php:618
+msgid ""
+"You can also add attributes if required Eg:[woo_mb_custom_code type=\"pre-"
+"order-link\"]"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:704
+msgid "Retainful - Next order coupon:"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:708
+msgid "Next order coupon code"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:712
+msgid "Next order coupon code text to use in href"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:716
+msgid "Next order coupon code value"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:720
+msgid "Site url with next order coupon code"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:730 pages/woo-admin-page.php:629
+msgid "Custom fields:"
+msgstr ""
+
+#: pages/woo-admin-page-3.php:755
+msgid "Flexible Checkout Custom Fields :"
+msgstr ""
+
+#: pages/woo-admin-settings.php:23
+msgid "WooCommerce Email Customizer - Settings"
+msgstr ""
+
+#: pages/woo-admin-settings.php:31
+msgid "Return back to home"
+msgstr ""
+
+#: pages/woo-admin-settings.php:36
+msgid "General"
+msgstr ""
+
+#: pages/woo-admin-settings.php:37
+msgid "Reset templates"
+msgstr ""
+
+#: pages/woo-admin-settings.php:38
+msgid "Enable/Disable template"
+msgstr ""
+
+#: pages/woo-admin-settings.php:39
+msgid "Retainful - Next order coupon"
+msgstr ""
+
+#: templates/woo_mail/email-order-items-3.php:33
+msgid "Product image"
+msgstr ""
+
+#: templates/woo_mail/email-order-items.php:34
+msgid "Product Image"
+msgstr ""
+
+#: templates/woo_mail/order_items-3.php:38
+#: templates/woo_mail/order_items-3.php:40
+#: templates/woo_mail/order_items.php:34 templates/woo_mail/order_items.php:36
+#, php-format
+msgid "Order #%s"
+msgstr ""
+
+#: templates/woo_mail/order_items-3.php:46
+#: templates/woo_mail/order_items.php:42
+msgid "Product"
+msgstr ""
+
+#: templates/woo_mail/order_items-3.php:47
+#: templates/woo_mail/order_items.php:43
+msgid "Quantity"
+msgstr ""
+
+#: templates/woo_mail/order_items-3.php:48
+#: templates/woo_mail/order_items.php:44
+msgid "Price"
+msgstr ""
+
+#: templates/woo_mail/order_totals-3.php:18
+#: templates/woo_mail/order_totals.php:18
+msgid "Subtotal:"
+msgstr ""
+
+#: templates/woo_mail/order_totals-3.php:25
+#: templates/woo_mail/order_totals.php:25
+msgid "Discount:"
+msgstr ""
+
+#: templates/woo_mail/order_totals-3.php:32
+#: templates/woo_mail/order_totals.php:32
+msgid "Shipping Tax"
+msgstr ""
+
+#: templates/woo_mail/order_totals-3.php:39
+#: templates/woo_mail/order_totals.php:39
+msgid "Shipping Total"
+msgstr ""
+
+#: templates/woo_mail/order_totals-3.php:54
+#: templates/woo_mail/order_totals.php:54
+msgid "Fee"
+msgstr ""
+
+#: templates/woo_mail/order_totals-3.php:93
+#: templates/woo_mail/order_totals.php:93
+msgid "Refund"
+msgstr ""
+
+#: templates/woo_mail/order_totals-3.php:100
+#: templates/woo_mail/order_totals.php:100
+msgid "Total:"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_AdminView.php:48
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_AdminView.php:63
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_AdminView.php:64
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_ListTable.php:89
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:19
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:30
+msgid "Scheduled Actions"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_InvalidActionException.php:22
+#, php-format
+msgid ""
+"Action [%s] has invalid arguments. It cannot be JSON decoded to an array."
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_ListTable.php:92
+msgid "Delete"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_ListTable.php:96
+msgid "Hook"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_ListTable.php:97
+msgid "Status"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_ListTable.php:98
+msgid "Arguments"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_ListTable.php:99
+msgid "Group"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_ListTable.php:100
+msgid "Recurrence"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_ListTable.php:101
+msgid "Scheduled Date"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_ListTable.php:102
+msgid "Log"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_ListTable.php:122
+msgid "Claim ID"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_ListTable.php:129
+msgid "Run"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_ListTable.php:130
+msgid "Process the action now as if it were run as part of a queue"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_ListTable.php:133
+msgid "Cancel"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_ListTable.php:134
+msgid "Cancel the action now to avoid it being run in future"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_ListTable.php:194
+msgid "Now!"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_ListTable.php:226
+#, php-format
+msgid "Every %s"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_ListTable.php:228
+msgid "Non-repeating"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_ListTable.php:314
+#, php-format
+msgid ""
+"Maximum simultaneous batches already in progress (%s queues). No actions "
+"will be processed until the current batches are complete."
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_ListTable.php:329
+#, php-format
+msgid "Successfully executed action: %s"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_ListTable.php:332
+#, php-format
+msgid "Successfully canceled action: %s"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_ListTable.php:335
+#, php-format
+msgid "Successfully processed change for action: %s"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_ListTable.php:340
+#, php-format
+msgid "Could not process change for action: \"%s\" (ID: %d). Error: %s"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_ListTable.php:385
+#, php-format
+msgid " (%s ago)"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_ListTable.php:387
+#, php-format
+msgid " (%s)"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_ListTable.php:524
+msgid "Search hook, args and claim ID"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_Logger.php:61
+msgid "action created"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_Logger.php:65
+msgid "action canceled"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_Logger.php:69
+msgid "action started"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_Logger.php:73
+msgid "action complete"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_Logger.php:77
+#, php-format
+msgid "action failed: %s"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_Logger.php:81
+#, php-format
+msgid "action timed out after %s seconds"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_Logger.php:86
+#, php-format
+msgid "unexpected shutdown: PHP Fatal error %s in %s on line %s"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_Logger.php:91
+msgid "action reset"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_Logger.php:95
+msgid "action ignored"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_QueueRunner.php:110
+msgid "Every minute"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_Store.php:152
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_Store.php:169
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore.php:231
+msgid "Invalid schedule. Cannot save action."
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_Store.php:181
+msgid "Complete"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_Store.php:182
+msgid "Pending"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_Store.php:183
+msgid "In-progress"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_Store.php:184
+msgid "Failed"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_Store.php:185
+msgid "Canceled"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_WPCLI_QueueRunner.php:31
+#, php-format
+msgid "The %s class can only be run within WP CLI."
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_WPCLI_QueueRunner.php:59
+msgid ""
+"There are too many concurrent batches, but the run is forced to continue."
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_WPCLI_QueueRunner.php:61
+msgid "There are too many concurrent batches."
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_WPCLI_QueueRunner.php:109
+msgid "The claim has been lost. Aborting current batch."
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_WPCLI_QueueRunner.php:139
+#, php-format
+msgid "Started processing action %s"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_WPCLI_QueueRunner.php:151
+#, php-format
+msgid "Completed processing action %s"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_WPCLI_QueueRunner.php:166
+#, php-format
+msgid "Error processing action %1$s: %2$s"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_WPCLI_QueueRunner.php:182
+msgid "Attempting to reduce used memory..."
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_WPCLI_Scheduler_command.php:123
+#, php-format
+msgid "There was an error running the action scheduler: %s"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore.php:27
+#, php-format
+msgid "Error saving action: %s"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore.php:49
+msgid "Unable to save action."
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore.php:404
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore.php:413
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore.php:439
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore.php:716
+#, php-format
+msgid "Unidentified action %s"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore.php:551
+msgid "Unable to claim actions. Database error."
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore.php:571
+#, php-format
+msgid "The group \"%s\" does not exist."
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore.php:639
+#, php-format
+msgid "Unable to unlock claim %s. Database error."
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore.php:653
+#, php-format
+msgid "Unable to unlock claim on action %s. Database error."
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore.php:664
+#, php-format
+msgid "Unable to mark failure on action %s. Database error."
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore.php:688
+msgid "Invalid action ID. No status found."
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:20
+msgid "Scheduled actions are hooks triggered on a cetain date and time."
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:31
+msgid "Scheduled Action"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:33
+msgid "Add"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:34
+msgid "Add New Scheduled Action"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:35
+msgid "Edit"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:36
+msgid "Edit Scheduled Action"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:37
+msgid "New Scheduled Action"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:38
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:39
+msgid "View Action"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:40
+msgid "Search Scheduled Actions"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:41
+msgid "No actions found"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:42
+msgid "No actions found in trash"
+msgstr ""
+
+#: vendor/prospress/action-scheduler/classes/ActionScheduler_wpPostStore_TaxonomyRegistrar.php:14
+msgid "Action Group"
+msgstr ""
+
+#: woo-email-customizer-page-builder.php:44
+msgid "Add a new post of type Woo Mail Template"
+msgstr ""
+
+#: woo-email-customizer-page-builder.php:45
+msgid "Edit Woo Mail Template"
+msgstr ""
+
+#: woo-email-customizer-page-builder.php:46
+msgid "New Woo Mail Template"
+msgstr ""
+
+#: woo-email-customizer-page-builder.php:47
+msgid "View Woo Mail Template"
+msgstr ""
+
+#: woo-email-customizer-page-builder.php:48
+msgid "Search Woo Mail Template"
+msgstr ""
+
+#: woo-email-customizer-page-builder.php:49
+msgid "No Woo Mail Template found"
+msgstr ""
+
+#: woo-email-customizer-page-builder.php:50
+msgid "No Woo Mail Template currently trashed"
+msgstr ""

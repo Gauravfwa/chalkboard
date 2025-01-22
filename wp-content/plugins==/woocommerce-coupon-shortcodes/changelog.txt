@@ -1,0 +1,238 @@
+== WooCommerce Coupon Shortcodes by itthinx                       Changelog ==
+
+= 2.2.0 =
+* WordPress 6.4 compatible.
+* WooCommerce 8.4 compatible.
+
+= 2.1.0 =
+* Update - WordPress 6.4 compatible.
+* Update - WooCommerce 8.3 compatible.
+* Update - Requires at least WooCommerce 7.9.
+* Update - Requires at least PHP 7.3.
+* Update - Updated domain references from woocommerce.com to woo.com.
+
+= 2.0.0 =
+* Update - WordPress 6.2 compatible.
+* Update - WooCommerce 7.8 compatible.
+* Update - Requires at least WooCommerce 7.4.
+* Update - Requires at least PHP 7.2.
+* Update - WooCommerce HPOS compatible.
+* Update - WordPress latest 6.3-alpha compatible.
+* Update - Revised the WooCommerce dependency check.
+* Update - Updated the translation template.
+
+= 1.29.0 =
+* WordPress 6.2 compatible.
+* WordPress 6.3-alpha compatible.
+* WooCommerce 7.7 compatible.
+* Fixed incorrect plugin link URLs.
+
+= 1.28.0 =
+* WordPress 6.2 compatible.
+* WordPress 6.3-alpha compatible.
+* Requires at least WordPress 6.0.
+* WooCommerce 7.6 compatible.
+* Requires at least WooCommerce 7.0.
+
+= 1.27.0 =
+* WordPress 6.1 compatible.
+* WooCommerce 7.4 compatible.
+* Substantial rewrite of the code that handles the coupon shortcode processing.
+* Fixes inconsistencies in the results produced by certain shortcode scenarios, where incorrect handling of global scope would result in wrong internal context.
+* Removed use of deprecated is_valid() coupon method.
+* Fixed the random order computation used for the [coupon_enumerate] and [coupon_iterate] shortcodes.
+* Updated the translation template.
+
+= 1.26.0 =
+* WordPress 6.1 compatible.
+* WooCommerce 7.2 compatible.
+* Requires at least WooCommerce 6.0.
+* Requires at least WordPress 5.8.
+
+= 1.25.0 =
+* WordPress 6.0 compatible.
+* WooCommerce 7.0 compatible.
+
+= 1.24.0 =
+* WordPress 6.0 compatible.
+* WooCommerce 6.7 compatible.
+* Fixed code format, trailing whitespace.
+* Added missing code docs and fixed formatting issues.
+
+= 1.23.0 =
+* WordPress 6.0 compatible.
+* WooCommerce 6.2 compatible.
+* Requires at least WordPress 5.6.
+* Requires at least WooCommerce 5.8.
+* Removed legacy WooCommerce compatibility code.
+* Updated plugin entry description.
+* Updated plugin entry links.
+* Replaced the use of language domain constant with string literal.
+* Updated the translation template.
+
+= 1.22.0 =
+* WordPress 5.9 compatible.
+* WooCommerce 5.8 compatible.
+* Updated the recommended related extensions.
+* Updated coupon queries so filters are applied.
+* Added the [coupon_has_valid] shortcode.
+* Added the [coupon_has_not_valid] shortcode.
+* Added the [coupon_has_active] shortcode.
+* Added the [coupon_has_not_active] shortcode.
+* Added the [coupon_has_applied] shortcode.
+* Added the [coupon_has_not_applied] shortcode.
+
+= 1.21.0 =
+* WordPress 5.8 compatible.
+* WooCommerce 5.4 compatible.
+* Requires at least WooCommerce 5.0.
+* Added the [coupon_iterate] shortcode, used to render the enclosed content for each coupon code in a given set.
+* Added the WOOCOMMERCE_COUPON_SHORTCODES_HARD_LIMIT constant which can be used to modify the maximum number of coupon codes handled with direct queries, affects coupon enumeration and iteration via the corresponding shortcodes. Defaults to 1000.
+* The [coupon_enumerate] shortcode now uses 25 as the default value for its number argument, thus limiting the number of coupons processed to 25 by default.
+* Fixed incorrect initialization for a given set of coupon passed to the [coupon_enumerate] shortcode.
+* Reduced processing overhead on coupon sets with enumeration and iteration.
+* Fixed PHP Warnings produced on some shortcodes expecting arrays only instead of array or string as first attribute.
+
+= 1.20.0 =
+* WordPress 5.8 compatible.
+* WooCommerce 5.2 compatible.
+* Requires at least WordPress 5.5.
+* Requires at least WooCommerce 4.9.
+
+= 1.19.0 =
+* WordPress 5.7 compatible.
+* WooCommerce 5.1 compatible.
+* WooCommerce 5.0 compatible.
+* Requires at least WooCommerce 4.0.
+* Updated and corrected link references.
+
+= 1.18.0 =
+* WordPress 5.6 compatible.
+* WooCommerce 4.9 compatible.
+* Requires at least WooCommerce 3.6.
+* Requires at least WordPress 5.0.
+
+= 1.17.0 =
+* WordPress 5.5 compatible.
+* WooCommerce 4.7 compatible.
+* Requires at least WooCommerce 3.0.
+* Allowing more flexible HTML when rendering coupon description.
+
+= 1.16.0 =
+* WordPress 5.5 compatible.
+* WooCommerce 4.4 compatible.
+* Updated to avoid use of deprecated method WC_Coupon->is_valid().
+
+= 1.15.0 =
+* WordPress 5.4 compatible.
+* Corrected some outdated links.
+
+= 1.14.0 =
+* WordPress 5.3 compatible.
+* WooCommerce 4.0 compatible.
+
+= 1.13.0 =
+* Revised extensions, added entry, fixed wording, fixed intro phrase rendered unconditionally outside.
+
+= 1.12.0 =
+* WordPress 5.3 compatible.
+* WooCommerce 3.7 compatible.
+* Fixed a CSS issue with the rating notice's dismiss link.
+* Updated some links to extensions.
+
+= 1.11.0 =
+* WordPress 5.2 compatible.
+* Added an information and examples section in coupons.
+* Added the plugin rating notice.
+* Tested with WooCommerce 3.7.0-dev.
+
+= 1.10.0 =
+* WooCommerce 3.6 compatible.
+
+= 1.9.1 =
+* Improved the logic applied to [coupon_is_not_active] so its usage is more intuitive with AND and OR ops on multiple codes.
+* Improved the logic applied to [coupon_is_not_valid] so its usage is more intuitive with AND and OR ops used with multiple codes.
+  If you were using it with multiple codes such as `[coupon_is_not_valid code="a,b"]...[/coupon_is_not_valid]` then you might
+  need to reverse the logic applied for consistent results: `[coupon_is_not_valid op="or" code="a,b"]...[/coupon_is_not_valid]`.
+  Similarly, if you were using `op="or"` you would now use `op="and"` with this shortcode.
+
+= 1.9.0 =
+* Added the [coupon_is_active] shortcode, requires WooCommerce 3.2 or higher.
+* Added the [coupon_is_not_active] shortcode, requires WooCommerce 3.2 or higher.
+
+= 1.8.0 =
+* WordPress 5.1 compatibility tested.
+* WooCommerce 3.5 compatibility tested.
+
+= 1.7.0 =
+* Added the [coupon_show] shortcode which allows to render coupon
+  code, description and discount info together for each discount,
+  also in enumerations with [coupon_enumerate].
+* Updated and tested for WordPress 5.0 compatibility.
+* Updated and tested for WooCommerce 3.5 compatibility.
+* Added the option to randomize a coupon enumeration.
+* Fixed swapped options used in coupon enumerations (order and orderby).
+* Updated the readme.txt with additional examples.
+
+= 1.6.2 =
+* Added the Woo plugin header tag.
+
+= 1.6.1 =
+* Updated compatibility with WooCommerce 3.4.
+* Fixed missing ABSPATH checks.
+
+= 1.6.0 =
+* Tested with WordPress 4.9.
+* Tested with WooCommerce 3.3.5
+* Tested with WooCommerce 3.4.0-beta.1
+
+= 1.5.1 =
+* Tested with WordPress 4.8.
+* Updated plugin tags.
+
+= 1.5.0 =
+* Tested with WordPress 4.8.
+
+= 1.4.0 =
+* Tested with WordPress 4.7.3 and prepared for WooCommerce 3.0
+
+= 1.3.0 =
+* Tested with WordPress 4.4 and WooCommerce 2.4.10.
+* Added the `[coupon_is_not_applied]` shortcode.
+
+= 1.2.6 =
+* Tested with WordPress 4.3 and WooCommerce 2.4.6.
+* Updated the documentation links.
+
+= 1.2.5 =
+* WordPress 4.1 and WooCommerce 2.3.x compatibility checked
+* Updated the version required
+
+= 1.2.4 =
+* WordPress 3.9 compatibility checked
+
+= 1.2.3 =
+* Improved coupon currency symbol rendering, now using wp_price() to render
+  amount and currency when available.
+
+= 1.2.2 =
+* WordPress 3.8 compatibility checked
+
+= 1.2.1 =
+* Fixed a PHP Warning when no codes are supplied to a shortcode.
+
+= 1.2.0 =
+* Added [coupon_enumerate] shortcode
+* Added support for subscription coupons
+* Added the option to display the coupon code as prefix with the
+  [coupon_description] and [coupon_discount] shortcodes.
+* Fixed bug caused by undeclared variable used to check excluded product IDs
+
+= 1.1.0 =
+* Added: [coupon_is_applied] shortcode
+* Improved: allow more flexible description and discount listings, the
+  `element_tag` attribute can be used to specify enclosing tags other than the
+  default `span`
+
+= 1.0.0 =
+* Initial release.

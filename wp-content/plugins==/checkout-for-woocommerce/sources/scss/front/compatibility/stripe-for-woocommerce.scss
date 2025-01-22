@@ -1,0 +1,43 @@
+#cfw-payment-request-buttons .wc-stripe-banner-checkout.active {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding: 0;
+    max-width: 100% !important;
+    margin-right: 0 !important;
+
+    .banner-title {
+        display: none;
+    }
+
+    ul.wc_stripe_checkout_banner_gateways {
+        display: flex;
+
+        .wc-stripe-checkout-banner-gateway {
+            overflow: hidden;
+        }
+    }
+
+    ul.wc_stripe_checkout_banner_gateways li.wc-stripe-checkout-banner-gateway {
+        margin-bottom: 0;
+    }
+
+    li.wc-stripe-checkout-banner-gateway {
+        margin-right: 7px !important;
+
+        button {
+            margin-right: 0 !important;
+        }
+    }
+
+    button {
+        max-height: 35px !important;
+        min-height: 35px !important;
+    }
+}
+
+body.checkout-wc {
+    .gpay-button {
+        background-repeat: no-repeat !important;
+        background-position: center !important;
+    }
+}

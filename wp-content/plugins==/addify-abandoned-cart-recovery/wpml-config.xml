@@ -1,0 +1,27 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="0">addify_acr_emails</custom-type>
+    <custom-type translate="0">addify_acr_carts</custom-type>
+    <custom-type translate="0">addify_acr_logs</custom-type>
+  </custom-types>
+  <custom-fields>
+    <custom-field action="ignore">afacr_enable</custom-field>
+    <custom-field action="translate">afacr_email_subject</custom-field>
+    <custom-field action="ignore">afacr_email_type</custom-field>
+    <custom-field action="ignore">afacr_automatic</custom-field>
+    <custom-field action="ignore">afacr_time</custom-field>
+    <custom-field action="ignore">afacr_customer_roles</custom-field>
+    <custom-field action="ignore">afacr_enable_coupon</custom-field>
+    <custom-field action="ignore">afacr_coupon_value</custom-field>
+    <custom-field action="ignore">afacr_coupon_type</custom-field>
+    <custom-field action="ignore">afacr_coupon_validity</custom-field>
+    <custom-field action="ignore">discount_type</custom-field>
+    <custom-field action="ignore">coupon_amount</custom-field>
+  </custom-fields>
+  <admin-texts>
+    <key name="afacr_text_for_terms">
+      <key name="0"/>
+      <key name="1"/>
+    </key>
+  </admin-texts>
+</wpml-config>

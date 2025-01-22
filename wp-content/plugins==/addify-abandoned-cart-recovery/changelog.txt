@@ -1,0 +1,28 @@
+*** Abandoned Cart Recovery Change Log***
+
+2021-03-10 - version 1.1.0
+* Fixed the issue of automatic emails for guest users.
+* Fixed the issue of capture email address without privacy text.
+* Fixed the issue of email variables values for guest orders.
+* Improved WPML compatibility.
+
+2020-12-16 - version 1.0.2
+* Add user roles in Abandoned Cart Email templates.
+* Fixed the issue of Abandoned Cart Pagination.
+* Fixed the issue of capturing email from checkout page for guest users.
+* Fixed the issue of popup for guest users.
+* Fixed the issue of translation.
+* Fixed the issue of coupons auto delete ( Delete only coupons created by our module).
+* Fixed the issue of auto emails for pending orders (multiple status).
+
+2020-11-24 - version 1.0.1
+* Fixed the issue of Recovery link and button for pending orders
+* Added feature to select existing order status to recover orders
+* Fixed the issue of Translation for Pending order email
+* Fixed the issue of name of Payment Method in email
+* Fixed the Issue of pagination in pending order table
+* Fixed the issue of delete last item from cart
+
+2020-11-12 - version 1.0.0
+* Initial release of the plugin.
+

@@ -1,0 +1,947 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Abandoned Cart Recovery for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-09 11:52+0000\n"
+"PO-Revision-Date: 2021-03-10 05:52+0000\n"
+"Last-Translator: Admin Addiy\n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.1; wp-5.6.2"
+
+#: class-af-abandoned-cart-recovery.php:180
+#: includes/list-tables/class-af-cart-list-table.php:30
+#: includes/settings/reports/dashboard.php:84
+msgid "Abandoned Cart"
+msgstr ""
+"Panier abandonné\n"
+
+#: includes/class-af-email-content-controller.php:266
+msgid "Abandoned Cart coupon for email "
+msgstr ""
+"Coupon de panier abandonné pour e-mail\n"
+
+#: class-af-abandoned-cart-recovery.php:219
+msgid "Abandoned Cart Emails Log"
+msgstr ""
+"Journal des e-mails de panier abandonné\n"
+
+#: class-af-abandoned-cart-recovery.php:218
+msgid "Abandoned Cart Emails Logs"
+msgstr ""
+"Journaux des e-mails de panier abandonné\n"
+
+#. Name of the plugin
+msgid "Abandoned Cart Recovery"
+msgstr ""
+"Récupération de panier abandonné\n"
+
+#: includes/class-af-abandoned-cart-admin.php:503
+msgid "Abandoned Cart Recovery Settings"
+msgstr ""
+"Paramètres de récupération de panier abandonné\n"
+
+#: includes/class-af-abandoned-cart-admin.php:449
+#: includes/class-af-abandoned-cart-admin.php:581
+msgid "Abandoned Cart Recovery Statistics"
+msgstr ""
+"Statistiques de récupération de panier abandonné\n"
+
+#: includes/class-af-abandoned-cart-admin.php:472
+msgid "Abandoned Cart Settings"
+msgstr ""
+"Paramètres du panier abandonné\n"
+
+#: class-af-abandoned-cart-recovery.php:179
+#: class-af-abandoned-cart-recovery.php:192
+#: includes/class-af-abandoned-cart-admin.php:586
+#: includes/list-tables/class-af-cart-list-table.php:31
+msgid "Abandoned Carts"
+msgstr ""
+"Chariots abandonnés\n"
+
+#: includes/settings/reports/dashboard.php:120
+msgid "Abandoned carts Quantity"
+msgstr ""
+"Chariots abandonnés Quantité\n"
+
+#: includes/class-af-abandoned-cart-admin.php:323
+msgid "Active"
+msgstr "Actif"
+
+#: class-af-abandoned-cart-recovery.php:181
+#: class-af-abandoned-cart-recovery.php:182
+msgid "Add New Cart"
+msgstr ""
+"Ajouter un nouveau panier\n"
+
+#: class-af-abandoned-cart-recovery.php:142
+#: class-af-abandoned-cart-recovery.php:143
+msgid "Add New Template"
+msgstr ""
+"Ajouter un nouveau modèle\n"
+
+#. Author of the plugin
+msgid "Addify"
+msgstr "Addify"
+
+#: class-af-abandoned-cart-recovery.php:191
+msgid "All abandoned carts"
+msgstr ""
+"Tous les chariots abandonnés\n"
+
+#: class-af-abandoned-cart-recovery.php:230
+msgid "All Email Logs"
+msgstr ""
+"Tous les journaux de messagerie\n"
+
+#: class-af-abandoned-cart-recovery.php:152
+msgid "All Email Templates"
+msgstr ""
+"Tous les modèles d'e-mails\n"
+
+#: includes/settings/reports/dashboard.php:102
+msgid "Amount of Recovered Carts"
+msgstr ""
+"Quantité de chariots récupérés\n"
+
+#: includes/settings/reports/dashboard.php:106
+msgid "Amount of Recovered Orders"
+msgstr ""
+"Montant des commandes récupérées\n"
+
+#: includes/class-af-abandoned-cart-admin.php:462
+msgid "Automatic Emails"
+msgstr ""
+"E-mails automatiques\n"
+
+#: includes/class-af-abandoned-cart-admin.php:326
+msgid "Automatic Time"
+msgstr ""
+"Heure automatique\n"
+
+#: includes/list-tables/class-af-pending-orders-list-table.php:337
+msgid "Billing Email"
+msgstr ""
+"E-mail de facturation\n"
+
+#: includes/class-af-abandoned-cart-front.php:364
+msgid "Cancel"
+msgstr ""
+"Annuler\n"
+
+#: includes/settings/user-settings.php:134
+msgid "Capture from checkout page"
+msgstr ""
+"Capture à partir de la page de paiement\n"
+
+#: includes/settings/user-settings.php:45
+msgid ""
+"Capture from checkout Page(This will capture cart from checkout after a user "
+"insert the billing email.)."
+msgstr ""
+"Capture de la page de paiement (Cela capturera le panier de la caisse après "
+"qu'un utilisateur insère l'e-mail de facturation.).\n"
+
+#. Page title.
+#: includes/class-af-abandoned-cart-admin.php:450
+msgid "Cart Recovery"
+msgstr ""
+"Récupération du panier\n"
+
+#. ID used to identify the field throughout the theme.
+#: includes/settings/general.php:67
+msgid "Cart Recovery Button Text"
+msgstr ""
+"Texte du bouton de récupération du panier\n"
+
+#: includes/list-tables/class-af-cart-list-table.php:321
+#: includes/list-tables/class-af-recovered-cart-list-table.php:255
+msgid "Cart Status"
+msgstr ""
+"Statut du panier\n"
+
+#: includes/list-tables/class-af-cart-list-table.php:322
+#: includes/list-tables/class-af-recovered-cart-list-table.php:256
+msgid "Cart Subtotal"
+msgstr ""
+"Sous-total du panier\n"
+
+#. ID used to identify the field throughout the theme.
+#: includes/settings/general.php:39
+msgid "Consider as Abandoned Cart"
+msgstr ""
+"Considérer comme un chariot abandonné\n"
+
+#. ID used to identify the field throughout the theme.
+#: includes/settings/coupons.php:25
+msgid "Coupons Prefix"
+msgstr ""
+"Préfixe des coupons\n"
+
+#. ID used to identify this section and with which to register options.
+#: includes/class-af-abandoned-cart-admin.php:512
+#: includes/settings/coupons.php:18
+msgid "Coupons Settings"
+msgstr ""
+"Paramètres des coupons\n"
+
+#: includes/class-af-abandoned-cart-admin.php:328
+msgid "Coupons Type"
+msgstr ""
+"Type de coupons\n"
+
+#: includes/class-af-abandoned-cart-admin.php:327
+msgid "Coupons Value"
+msgstr ""
+"Valeur des coupons\n"
+
+#. ID used to identify this section and with which to register options.
+#: includes/class-af-abandoned-cart-admin.php:514
+#: includes/settings/cron-settings.php:18
+msgid "Cron Job Settings"
+msgstr ""
+"Paramètres de tâche Cron\n"
+
+#. ID used to identify the field throughout the theme.
+#: includes/settings/cron-settings.php:39
+msgid "Cron Job Time"
+msgstr ""
+"Cron Job Time\n"
+
+#. ID used to identify the field throughout the theme.
+#: includes/settings/cron-settings.php:25
+msgid "Cron Time Type"
+msgstr ""
+"Type d'heure Cron\n"
+
+#: templates/admin/carts.php:84
+msgid "Customer Email"
+msgstr ""
+"Email client\n"
+
+#: includes/list-tables/class-af-cart-list-table.php:319
+#: includes/list-tables/class-af-pending-orders-list-table.php:336
+#: includes/list-tables/class-af-email-log-table.php:228
+#: includes/list-tables/class-af-recovered-cart-list-table.php:253
+#: templates/admin/carts.php:74
+msgid "Customer Name"
+msgstr ""
+"Nom du client\n"
+
+#: includes/class-af-abandoned-cart-admin.php:584
+msgid "Dashboard"
+msgstr ""
+"Tableau de bord\n"
+
+#: includes/class-af-abandoned-cart-admin.php:329
+msgid "Date"
+msgstr ""
+"Date\n"
+
+#: includes/settings/cron-settings.php:64 includes/settings/general.php:120
+#: includes/settings/general.php:140 includes/settings/pending-order.php:74
+#: includes/meta-boxes/email-settings.php:103
+msgid "Days"
+msgstr ""
+"Jours\n"
+
+#: includes/list-tables/class-af-cart-list-table.php:236
+#: includes/list-tables/class-af-pending-orders-list-table.php:255
+#: includes/list-tables/class-af-email-log-table.php:202
+#: includes/list-tables/class-af-recovered-cart-list-table.php:226
+msgid "Delete"
+msgstr ""
+"Effacer\n"
+
+#. ID used to identify the field throughout the theme.
+#: includes/settings/general.php:53
+msgid "Delete Abandoned Cart"
+msgstr ""
+"Supprimer le panier abandonné\n"
+
+#. ID used to identify the field throughout the theme.
+#: includes/settings/coupons.php:53
+msgid "Delete Coupons when Expired"
+msgstr ""
+"Supprimer les coupons lorsqu'ils sont expirés\n"
+
+#. ID used to identify the field throughout the theme.
+#: includes/settings/coupons.php:39
+msgid "Delete the coupons once used"
+msgstr ""
+"Supprimer les coupons une fois utilisés\n"
+
+#: includes/settings/coupons.php:43
+msgid "Delete the coupons once used."
+msgstr ""
+"Supprimez les coupons une fois utilisés.\n"
+
+#: includes/settings/coupons.php:57
+msgid "Delete the coupons when expired."
+msgstr ""
+"Supprimez les coupons lorsqu'ils sont expirés.\n"
+
+#: includes/list-tables/class-af-cart-list-table.php:235
+#: includes/list-tables/class-af-pending-orders-list-table.php:254
+#: includes/list-tables/class-af-recovered-cart-list-table.php:225
+msgid "Edit"
+msgstr ""
+"Éditer\n"
+
+#: class-af-abandoned-cart-recovery.php:183
+msgid "Edit Cart"
+msgstr ""
+"Modifier le panier\n"
+
+#: class-af-abandoned-cart-recovery.php:222
+msgid "Edit Log"
+msgstr ""
+"Modifier le journal\n"
+
+#: class-af-abandoned-cart-recovery.php:144
+msgid "Edit Template"
+msgstr ""
+"Modifier le modèle\n"
+
+#: includes/class-af-abandoned-cart-front.php:343
+#: includes/list-tables/class-af-cart-list-table.php:320
+#: includes/list-tables/class-af-email-log-table.php:229
+#: includes/list-tables/class-af-recovered-cart-list-table.php:254
+msgid "Email Address"
+msgstr ""
+"Adresse e-mail\n"
+
+#: includes/list-tables/class-af-email-log-table.php:29
+msgid "Email Log"
+msgstr ""
+"Journal des e-mails\n"
+
+#: class-af-abandoned-cart-recovery.php:231
+#: includes/class-af-abandoned-cart-admin.php:594
+#: includes/list-tables/class-af-email-log-table.php:30
+msgid "Email Logs"
+msgstr ""
+"Journaux des e-mails\n"
+
+#: includes/class-af-abandoned-cart-admin.php:325
+msgid "Email Subject"
+msgstr ""
+"Sujet du courriel\n"
+
+#: class-af-abandoned-cart-recovery.php:141
+msgid "Email Template"
+msgstr ""
+"Modèle d'e-mail\n"
+
+#: class-af-abandoned-cart-recovery.php:140
+#: class-af-abandoned-cart-recovery.php:153
+#: includes/class-af-abandoned-cart-admin.php:461
+msgid "Email Templates"
+msgstr ""
+"Modèles d'e-mails\n"
+
+#: includes/class-af-abandoned-cart-admin.php:324
+#: includes/list-tables/class-af-email-log-table.php:230
+msgid "Email Type"
+msgstr ""
+"Type d'e-mail\n"
+
+#: includes/settings/reports/dashboard.php:156
+msgid "Emails for Abandoned Cart"
+msgstr ""
+"E-mails pour panier abandonné\n"
+
+#: includes/settings/reports/dashboard.php:160
+msgid "Emails for Pending Orders"
+msgstr ""
+"E-mails pour les commandes en attente\n"
+
+#: includes/settings/reports/dashboard.php:149
+msgid "Emails Report"
+msgstr ""
+"Rapport sur les e-mails\n"
+
+#. ID used to identify the field throughout the theme.
+#: includes/settings/general.php:25
+msgid "Enable Abandoned Cart"
+msgstr ""
+"Activer le panier abandonné\n"
+
+#. ID used to identify the field throughout the theme.
+#: includes/settings/user-settings.php:39
+msgid "Enable Abandoned Cart for Guest Users"
+msgstr ""
+"Activer le panier abandonné pour les utilisateurs invités\n"
+
+#. ID used to identify the field throughout the theme.
+#: includes/settings/pending-order.php:23
+msgid "Enable Recover Pending orders"
+msgstr ""
+"Activer la récupération des commandes en attente\n"
+
+#. ID used to identify the field throughout the theme.
+#: includes/settings/user-settings.php:25
+msgid "Enable Recover Pending orders for user roles"
+msgstr ""
+"Activer la récupération des commandes en attente pour les rôles utilisateur\n"
+
+#: includes/settings/general.php:29
+msgid ""
+"Enable/disable Abandoned Cart Recovery. (This will enable/disable entire "
+"abandoned cart plugin functionality)"
+msgstr ""
+"Activer / désactiver la récupération de panier abandonné. (Cela activera / "
+"désactivera toute la fonctionnalité du plugin de panier abandonné)\n"
+
+#: includes/settings/pending-order.php:27
+msgid "Enable/Disable recovery of pending orders."
+msgstr ""
+"Activer / désactiver la récupération des commandes en attente.\n"
+
+#: templates/admin/carts.php:51
+msgid "First Name"
+msgstr ""
+"Prénom\n"
+
+#: includes/class-af-abandoned-cart-admin.php:506
+msgid "General"
+msgstr "Général"
+
+#. ID used to identify this section and with which to register options.
+#: includes/settings/general.php:18
+msgid "General Settings"
+msgstr ""
+"réglages généraux\n"
+
+#: includes/settings/cron-settings.php:63 includes/settings/general.php:119
+#: includes/settings/general.php:139 includes/settings/pending-order.php:73
+#: includes/meta-boxes/email-settings.php:102
+msgid "Hours"
+msgstr ""
+"Les heures\n"
+
+#. Author URI of the plugin
+msgid "http://www.addifypro.com"
+msgstr "http://www.addifypro.com"
+
+#. URI of the plugin
+msgid "https://woocommerce.com/products/abandoned-cart-recovery/"
+msgstr "https://woocommerce.com/products/abandoned-cart-recovery/"
+
+#: templates/admin/carts.php:62
+msgid "Last Name"
+msgstr ""
+"Nom de famille\n"
+
+#: includes/list-tables/class-af-cart-list-table.php:325
+#: includes/list-tables/class-af-email-log-table.php:232
+#: includes/list-tables/class-af-recovered-cart-list-table.php:258
+msgid "Last Updated"
+msgstr ""
+"Dernière mise à jour\n"
+
+#: includes/settings/cron-settings.php:62 includes/settings/general.php:118
+#: includes/settings/general.php:138 includes/settings/pending-order.php:72
+#: includes/meta-boxes/email-settings.php:101
+msgid "Minutes"
+msgstr ""
+"Minutes\n"
+
+#: class-af-abandoned-cart-recovery.php:40
+msgid ""
+"must be active for this plugin to work. Please install &amp; activate "
+"WooCommerce."
+msgstr ""
+"doit être actif pour que ce plugin fonctionne. Veuillez installer & amp; "
+"activer WooCommerce.\n"
+
+#: includes/settings/user-settings.php:131
+msgid "Never"
+msgstr ""
+"Jamais\n"
+
+#: includes/settings/user-settings.php:44
+msgid ""
+"Never (The guest abandoned cart wont be recorded and no recovery emails will "
+"be sent out)."
+msgstr ""
+"Jamais (le panier abandonné de l'invité ne sera pas enregistré et aucun e-"
+"mail de récupération ne sera envoyé).\n"
+
+#: class-af-abandoned-cart-recovery.php:184
+msgid "New Cart"
+msgstr ""
+"Nouveau panier\n"
+
+#: class-af-abandoned-cart-recovery.php:223
+msgid "New Log"
+msgstr ""
+"Nouveau journal\n"
+
+#: class-af-abandoned-cart-recovery.php:145
+msgid "New Template"
+msgstr ""
+"Nouveau modèle\n"
+
+#: includes/class-af-abandoned-cart-admin.php:363
+msgid "No"
+msgstr ""
+"Non\n"
+
+#: includes/list-tables/class-af-cart-list-table.php:140
+msgid "No abandoned cart available."
+msgstr ""
+"Aucun panier abandonné disponible.\n"
+
+#: class-af-abandoned-cart-recovery.php:188
+msgid "No abandoned cart found"
+msgstr ""
+"Aucun panier abandonné trouvé\n"
+
+#: class-af-abandoned-cart-recovery.php:189
+msgid "No abandoned cart found in trash"
+msgstr ""
+"Aucun panier abandonné trouvé dans la corbeille\n"
+
+#: includes/list-tables/class-af-email-log-table.php:125
+msgid "No email log available."
+msgstr ""
+"Aucun journal de messagerie disponible.\n"
+
+#: class-af-abandoned-cart-recovery.php:227
+msgid "No Email log found"
+msgstr ""
+"Aucun journal des e-mails trouvé\n"
+
+#: class-af-abandoned-cart-recovery.php:228
+msgid "No Email log found in trash"
+msgstr ""
+"Aucun journal de messagerie trouvé dans la corbeille\n"
+
+#: includes/list-tables/class-af-cart-list-table.php:189
+#: includes/list-tables/class-af-pending-orders-list-table.php:205
+#: includes/list-tables/class-af-recovered-cart-list-table.php:179
+msgid "No email sent"
+msgstr ""
+"Aucun e-mail envoyé\n"
+
+#: includes/list-tables/class-af-cart-list-table.php:282
+#: includes/list-tables/class-af-cart-list-table.php:305
+#: includes/list-tables/class-af-pending-orders-list-table.php:302
+#: includes/list-tables/class-af-pending-orders-list-table.php:323
+msgid "No email template"
+msgstr ""
+"Aucun modèle d'e-mail\n"
+
+#: class-af-abandoned-cart-recovery.php:149
+msgid "No Email Template found"
+msgstr ""
+"Aucun modèle d'e-mail trouvé\n"
+
+#: class-af-abandoned-cart-recovery.php:150
+msgid "No Email Template found in trash"
+msgstr ""
+"Aucun modèle d'e-mail trouvé dans la corbeille\n"
+
+#: includes/list-tables/class-af-pending-orders-list-table.php:149
+msgid "No pending order available"
+msgstr ""
+"Aucune commande en attente disponible\n"
+
+#: includes/list-tables/class-af-recovered-cart-list-table.php:136
+msgid "No recovered cart available."
+msgstr ""
+"Aucun chariot récupéré disponible.\n"
+
+#: includes/list-tables/class-af-pending-orders-list-table.php:343
+msgid "Order Date"
+msgstr ""
+"Date de commande\n"
+
+#: includes/list-tables/class-af-pending-orders-list-table.php:338
+msgid "Order Status"
+msgstr ""
+"Statut de la commande\n"
+
+#: includes/list-tables/class-af-pending-orders-list-table.php:339
+msgid "Order Subtotal"
+msgstr ""
+"sous-total de la commande\n"
+
+#: includes/list-tables/class-af-pending-orders-list-table.php:340
+msgid "Order Total"
+msgstr ""
+"Total de la commande\n"
+
+#: includes/settings/general.php:85
+msgid "Pay for Order button text (Pending Order Email)."
+msgstr ""
+"Texte du bouton Payer la commande (e-mail de commande en attente).\n"
+
+#. ID used to identify the field throughout the theme.
+#: includes/settings/general.php:81
+msgid "Pay Order Button Text"
+msgstr ""
+"Texte du bouton de commande de paiement\n"
+
+#: includes/class-af-email-content-controller.php:637
+msgid "Payment method"
+msgstr ""
+"Mode de paiement\n"
+
+#: includes/list-tables/class-af-pending-orders-list-table.php:28
+msgid "Pending Order"
+msgstr ""
+"Commande en cours\n"
+
+#. ID used to identify the field throughout the theme.
+#: includes/settings/pending-order.php:37
+msgid "Pending Order Statuses"
+msgstr ""
+"Statuts de commande en attente\n"
+
+#: includes/class-af-abandoned-cart-admin.php:508
+#: includes/class-af-abandoned-cart-admin.php:589
+#: includes/list-tables/class-af-pending-orders-list-table.php:29
+#: includes/settings/reports/dashboard.php:88
+msgid "Pending Orders"
+msgstr ""
+"Les ordres en attente\n"
+
+#: includes/settings/reports/dashboard.php:124
+msgid "Pending Orders Quantity"
+msgstr ""
+"Quantité de commandes en attente\n"
+
+#. ID used to identify this section and with which to register options.
+#: includes/settings/user-settings.php:18
+#: includes/settings/pending-order.php:16
+msgid "Pending Orders Settings"
+msgstr ""
+"Paramètres des commandes en attente\n"
+
+#. ID used to identify the field throughout the theme.
+#: includes/settings/user-settings.php:58
+msgid "Popup Title"
+msgstr ""
+"Titre de la fenêtre contextuelle\n"
+
+#: includes/settings/user-settings.php:140
+msgid "Pre Capture with privacy text"
+msgstr ""
+"Pré-capture avec texte de confidentialité\n"
+
+#: includes/settings/user-settings.php:47
+msgid ""
+"Pre Capture with privacy text (Use pre-capture email popup with privacy "
+"disclaimer. If user declined to share – the email will be captured from "
+"checkout page)."
+msgstr ""
+"Pré-capture avec texte de confidentialité (utilisez une fenêtre contextuelle "
+"d'e-mail de pré-capture avec clause de non-responsabilité. Si l'utilisateur "
+"a refusé de partager, l'e-mail sera capturé à partir de la page de paiement)."
+"\n"
+
+#: includes/settings/user-settings.php:137
+msgid "Pre Capture without privacy text"
+msgstr ""
+"Pré-capture sans texte de confidentialité\n"
+
+#: includes/settings/user-settings.php:46
+msgid ""
+"Pre Capture without privacy text (This will enable a popup to pre-capture "
+"guest emails even before they go to checkout page. If user declined to share "
+"– the email will be captured from checkout page)."
+msgstr ""
+"Pré-capture sans texte de confidentialité (Cela permettra à une fenêtre "
+"contextuelle de pré-capturer les e-mails des invités avant même qu'ils "
+"n'accèdent à la page de paiement. Si l'utilisateur a refusé de partager, l'e-"
+"mail sera capturé à partir de la page de paiement).\n"
+
+#: includes/class-af-email-content-controller.php:508
+#: templates/admin/carts.php:99 templates/admin/carts.php:144
+msgid "Price"
+msgstr ""
+"Prix\n"
+
+#. ID used to identify the field throughout the theme.
+#: includes/settings/user-settings.php:73
+msgid "Privacy Policy for Guest Users"
+msgstr ""
+"Politique de confidentialité pour les utilisateurs invités\n"
+
+#: includes/class-af-email-content-controller.php:502
+#: includes/class-af-email-content-controller.php:597
+#: templates/admin/carts.php:98 templates/admin/carts.php:134
+msgid "Product"
+msgstr ""
+"Produit\n"
+
+#: includes/class-af-email-content-controller.php:505
+#: includes/class-af-email-content-controller.php:600
+#: templates/admin/carts.php:100 templates/admin/carts.php:150
+msgid "Quantity"
+msgstr ""
+"Quantité\n"
+
+#. Description of the plugin
+msgid ""
+"Recover abandoned carts and pending Orders of your store and increase your "
+"sales."
+msgstr ""
+"Récupérez les paniers abandonnés et les commandes en attente de votre "
+"magasin et augmentez vos ventes.\n"
+
+#: includes/settings/general.php:71
+msgid "Recover cart button text (Cart Recovery Email)."
+msgstr ""
+"Récupérer le texte du bouton du panier (e-mail de récupération du panier).\n"
+
+#: includes/list-tables/class-af-recovered-cart-list-table.php:29
+msgid "Recovered Cart"
+msgstr ""
+"Panier récupéré\n"
+
+#: includes/settings/reports/dashboard.php:131
+msgid "Recovered Cart and Orders"
+msgstr ""
+"Panier et commandes récupérés\n"
+
+#: includes/class-af-abandoned-cart-admin.php:592
+#: includes/list-tables/class-af-recovered-cart-list-table.php:30
+#: includes/settings/reports/dashboard.php:138
+msgid "Recovered Carts"
+msgstr ""
+"Chariots récupérés\n"
+
+#: includes/settings/reports/dashboard.php:142
+msgid "Recovered Orders"
+msgstr ""
+"Ordres récupérés\n"
+
+#: includes/class-af-abandoned-cart-front.php:367
+msgid "Save"
+msgstr ""
+"Sauvegarder\n"
+
+#: class-af-abandoned-cart-recovery.php:186
+msgid "Search Cart"
+msgstr ""
+"Panier de recherche\n"
+
+#: class-af-abandoned-cart-recovery.php:225
+msgid "Search Log"
+msgstr ""
+"Journal de recherche\n"
+
+#: class-af-abandoned-cart-recovery.php:147
+msgid "Search Template"
+msgstr ""
+"Modèle de recherche\n"
+
+#: includes/settings/cron-settings.php:61
+#: includes/meta-boxes/email-settings.php:100
+msgid "Seconds"
+msgstr "Secondes"
+
+#: includes/settings/pending-order.php:41
+msgid "Select status of order for pending orders."
+msgstr ""
+"Sélectionnez le statut de la commande pour les commandes en attente.\n"
+
+#: includes/settings/user-settings.php:29
+msgid ""
+"Select user roles to enable recovery of pending orders. Leave empty or "
+"select all for all user roles."
+msgstr ""
+"Sélectionnez les rôles utilisateur pour activer la récupération des "
+"commandes en attente. Laissez vide ou sélectionnez tout pour tous les rôles "
+"utilisateur.\n"
+
+#: includes/list-tables/class-af-cart-list-table.php:302
+#: includes/list-tables/class-af-cart-list-table.php:324
+#: includes/list-tables/class-af-pending-orders-list-table.php:320
+#: includes/list-tables/class-af-pending-orders-list-table.php:342
+msgid "Send Email"
+msgstr ""
+"Envoyer un e-mail\n"
+
+#: includes/list-tables/class-af-cart-list-table.php:323
+#: includes/list-tables/class-af-pending-orders-list-table.php:341
+#: includes/list-tables/class-af-recovered-cart-list-table.php:257
+msgid "Sent Emails"
+msgstr ""
+"Courriels envoyés\n"
+
+#: includes/class-af-abandoned-cart-admin.php:473
+msgid "Settings"
+msgstr ""
+"Réglages\n"
+
+#: includes/class-af-email-content-controller.php:557
+#: includes/class-af-email-content-controller.php:631
+msgid "Shipping"
+msgstr ""
+"Expédition\n"
+
+#: includes/class-af-email-content-controller.php:540
+#: includes/class-af-email-content-controller.php:603
+#: includes/class-af-email-content-controller.php:625
+#: includes/list-tables/class-af-email-log-table.php:231
+#: templates/admin/carts.php:101 templates/admin/carts.php:156
+msgid "Subtotal"
+msgstr ""
+"Total\n"
+
+#: includes/class-af-email-content-controller.php:548
+msgid "Subtotal Tax"
+msgstr ""
+"Taxe sous-totale\n"
+
+#: includes/settings/user-settings.php:77
+msgid ""
+"This text will be shown on pop-up modal along with a checkbox to ask the "
+"guest users to save the data for Abandoned cart recovery email."
+msgstr ""
+"Ce texte sera affiché sur le mode pop-up avec une case à cocher pour "
+"demander aux utilisateurs invités de sauvegarder les données pour l'e-mail "
+"de récupération de panier abandonné.\n"
+
+#: includes/settings/user-settings.php:62
+msgid "This title will be displayed on pop-up modal for guest users."
+msgstr ""
+"Ce titre sera affiché sur une fenêtre modale pour les utilisateurs invités.\n"
+
+#: includes/settings/coupons.php:29
+msgid "Three Letters prefix for coupons."
+msgstr ""
+"Préfixe de trois lettres pour les coupons.\n"
+
+#: includes/settings/general.php:57
+msgid "Time in Minutes/Days to Delete the Abandoned Cart. Zero for infinite."
+msgstr ""
+"Temps en minutes / jours pour supprimer le panier abandonné. Zéro pour "
+"l'infini.\n"
+
+#: includes/settings/general.php:43
+msgid ""
+"Time in Minutes/Hours/Days to consider a cart as Abandoned. Default value is "
+"Zero and system will mark the cart as Abandoned after 1 hour."
+msgstr ""
+"Temps en minutes / heures / jours pour considérer un panier comme abandonné. "
+"La valeur par défaut est zéro et le système marquera le chariot comme "
+"abandonné après 1 heure.\n"
+
+#: includes/settings/cron-settings.php:43
+msgid "Time to schedule the cron Job. Default time is 5 Minutes."
+msgstr ""
+"Il est temps de planifier le travail cron. La durée par défaut est de 5 "
+"minutes.\n"
+
+#: includes/settings/cron-settings.php:29
+msgid "Time type to schedule the cron Job. Default type is Minutes."
+msgstr ""
+"Type d'heure pour planifier la tâche cron. Le type par défaut est Minutes.\n"
+
+#: includes/class-af-email-content-controller.php:566
+#: includes/class-af-email-content-controller.php:643
+msgid "Total"
+msgstr "Totale"
+
+#: includes/settings/reports/dashboard.php:113
+msgid "Total Abandoned Cart and Orders Quantity"
+msgstr ""
+"Quantité totale de panier abandonné et de commandes\n"
+
+#: includes/settings/reports/dashboard.php:77
+msgid "Total Abandoned Carts and Orders Amount Report"
+msgstr ""
+"Rapport sur le montant total des paniers abandonnés et des commandes\n"
+
+#: includes/settings/reports/dashboard.php:116
+msgid "Total Abandoned Carts and Orders Quantity"
+msgstr ""
+"Quantité totale de paniers abandonnés et de commandes\n"
+
+#: includes/settings/reports/dashboard.php:80
+#: includes/settings/reports/dashboard.php:98
+msgid "Total Amount"
+msgstr ""
+"Montant total\n"
+
+#: includes/settings/reports/dashboard.php:152
+msgid "Total Emails sent"
+msgstr ""
+"Total des e-mails envoyés\n"
+
+#: includes/settings/reports/dashboard.php:134
+msgid "Total Recovered Carts and Orders"
+msgstr ""
+"Total des paniers et commandes récupérés\n"
+
+#: includes/settings/reports/dashboard.php:95
+msgid "Total Recovered Carts and Orders Amount Report"
+msgstr ""
+"Rapport sur le montant total des paniers et des commandes récupérés\n"
+
+#: includes/class-af-abandoned-cart-admin.php:510
+msgid "Users Settings"
+msgstr ""
+"Paramètres des utilisateurs\n"
+
+#: class-af-abandoned-cart-recovery.php:185
+msgid "View Cart"
+msgstr ""
+"Voir le panier\n"
+
+#: class-af-abandoned-cart-recovery.php:224
+msgid "View Log"
+msgstr ""
+"Afficher le journal\n"
+
+#: class-af-abandoned-cart-recovery.php:146
+msgid "View Template"
+msgstr ""
+"Afficher le modèle\n"
+
+#: includes/settings/reports/emails-logs.php:24
+msgid "WooCommerce Abandoned Cart Email Logs"
+msgstr ""
+"Journaux des e-mails de panier abandonné WooCommerce\n"
+
+#: class-af-abandoned-cart-recovery.php:40
+msgid "WooCommerce Abandoned Cart Recovery plugin is inactive."
+msgstr ""
+"Le plugin WooCommerce Abandoned Cart Recovery est inactif.\n"
+
+#: includes/settings/reports/abandoned-cart.php:29
+msgid "WooCommerce Abandoned Carts"
+msgstr ""
+"Chariots abandonnés WooCommerce\n"
+
+#: includes/settings/reports/pending-orders.php:29
+msgid "WooCommerce Pending Orders"
+msgstr ""
+"Commandes en attente WooCommerce\n"
+
+#: includes/settings/reports/recovered-cart.php:25
+msgid "WooCommerce Recovered Carts"
+msgstr ""
+"Chariots récupérés WooCommerce\n"
+
+#: includes/class-af-abandoned-cart-admin.php:371
+msgid "Yes, after "
+msgstr ""
+"Oui, après\n"
+
+#: includes/class-af-abandoned-cart-front.php:207
+#: includes/class-af-abandoned-cart-front.php:225
+msgid "Your abandoned cart has been loaded successfully."
+msgstr ""
+"Votre panier abandonné a été chargé avec succès.\n"

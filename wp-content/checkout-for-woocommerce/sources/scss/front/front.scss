@@ -1,0 +1,88 @@
+// Import bourbon
+@import url("~normalize.css");
+// Reset
+@import "debug.scss";
+
+// Fonts
+//@import "../fonts/akrobat/fonts.css";
+//@import "../fonts/proxima-nova/fonts.css";
+
+// General Styles
+$font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+$main-bg: #ffffff;
+$header-bg: #222;
+$footer-bg: #fff;
+
+p {
+  margin: 0;
+}
+
+.cart-empty, .return-to-shop {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+body {
+  background: $main-bg;
+  font-family: $font-family;
+  display: flex;
+  color: #666;
+  flex-direction: column;
+  width: 100%;
+}
+
+.cfw-small {
+  font-size: 0.875em;
+  color: #737373;
+  //font-size: 14px;
+}
+
+.cfw-logo {
+  padding: 1em 0;
+
+  .logo {
+    background: $main-bg;
+    width: 100%;
+    max-width: 67%;
+    display: inline-block;
+    height: 4em;
+    position: relative;
+    text-decoration: none;
+  }
+}
+
+.cfw-link {
+  color: #e9a81d;
+  text-decoration: none;
+}
+
+.cfw-module-title {
+  margin: 0;
+}
+
+// Import parts
+@import "compatibility/bluesnap";
+@import "compatibility/checkout-add-ons";
+@import "compatibility/paytrace-gateway";
+@import "compatibility/paypal-express";
+@import "compatibility/tickera";
+@import "compatibility/sv-wc-payment";
+@import "compatibility/points-rewards";
+@import "compatibility/braintree";
+@import "compatibility/stripe";
+@import "compatibility/amazon-pay";
+@import "compatibility/woocommerce-hear-about-us";
+@import "compatibility/craftyclicks";
+@import "compatibility/woocommerce-subscriptions";
+@import "compatibility/mailchimp-for-woocommerce";
+@import "compatibility/klarna";
+@import "compatibility/cielo";
+@import "compatibility/tocheckout";
+@import "compatibility/woocommerce-germanized";
+@import "compatibility/wc-postcode-checker";
+@import "compatibility/eu-vat-number";
+@import "compatibility/yith-deals";
+@import "template/form";
+@import "template/header";
+@import "template/content";
+@import "template/footer";

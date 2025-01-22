@@ -1,0 +1,1 @@
+!function(e,t,p){t(function(){var e={userId:wppp_theme.user_id,referral:wppp_theme.theme};t.ajax({type:"POST",url:wppp_theme.ajax_url,contentType:"application/json; charset=utf-8",dataType:"json",data:JSON.stringify(e)})})}(window,jQuery);
